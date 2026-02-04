@@ -1,0 +1,1009 @@
+﻿ID,Code de Type,Langue,Nom,Faction,Type unité,Possession
+1,H - Héro,EN - English,Sierra & Oddball,Axiom,,0
+1,H - Héro,FR - Français,Sierra & Oddball,Axiom,,1
+2,H - Héro,EN - English,Subhash & Marmo,Axiom,,1
+2,H - Héro,FR - Français,Subhash & Marmo,Axiom,,2
+3,H - Héro,EN - English,Treyst & Rossum,Axiom,,1
+3,H - Héro,FR - Français,Treyst & Rossum,Axiom,,4
+4,F - Transfuge,EN - English,Foundry Mechanic,Ordis,Personnage,0
+4,F - Transfuge,FR - Français,Mécanicienne de la Fonderie,Ordis,Personnage,1
+4,R - Rare,EN - English,Foundry Mechanic,Axiom,Personnage,0
+4,R - Rare,FR - Français,Mécanicienne de la Fonderie,Axiom,Personnage,1
+4,C - Commune,EN - English,Foundry Mechanic,Axiom,Personnage,0
+4,C - Commune,FR - Français,Mécanicienne de la Fonderie,Axiom,Personnage,3
+5,F - Transfuge,EN - English,Axiom Salvager,Bravos,Personnage,0
+5,F - Transfuge,FR - Français,Récupérateur Axiom,Bravos,Personnage,0
+5,R - Rare,EN - English,Axiom Salvager,Axiom,Personnage,0
+5,C - Commune,EN - English,Axiom Salvager,Axiom,Personnage,1
+5,R - Rare,FR - Français,Récupérateur Axiom,Axiom,Personnage,0
+5,C - Commune,FR - Français,Récupérateur Axiom,Axiom,Personnage,5
+6,F - Transfuge,EN - English,Ada Lovelace,Yzmir,Personnage,0
+6,R - Rare,EN - English,Ada Lovelace,Axiom,Personnage,0
+6,F - Transfuge,FR - Français,Ada Lovelace,Yzmir,Personnage,0
+6,C - Commune,EN - English,Ada Lovelace,Axiom,Personnage,1
+6,R - Rare,FR - Français,Ada Lovelace,Axiom,Personnage,0
+6,C - Commune,FR - Français,Ada Lovelace,Axiom,Personnage,4
+7,F - Transfuge,EN - English,Coppélia,Muna,Personnage,0
+7,F - Transfuge,FR - Français,Coppélia,Muna,Personnage,0
+7,R - Rare,EN - English,Coppélia,Axiom,Personnage,1
+7,R - Rare,FR - Français,Coppélia,Axiom,Personnage,0
+7,C - Commune,EN - English,Coppélia,Axiom,Personnage,0
+7,C - Commune,FR - Français,Coppélia,Axiom,Personnage,4
+8,F - Transfuge,FR - Français,Ingénieure de la Fonderie,Ordis,Personnage,0
+8,F - Transfuge,EN - English,Foundry Engineer,Ordis,Personnage,0
+8,R - Rare,EN - English,Foundry Engineer,Axiom,Personnage,0
+8,R - Rare,FR - Français,Ingénieure de la Fonderie,Axiom,Personnage,1
+8,C - Commune,EN - English,Foundry Engineer,Axiom,Personnage,0
+8,C - Commune,FR - Français,Ingénieure de la Fonderie,Axiom,Personnage,2
+9,F - Transfuge,EN - English,"Jian, Assembly Overseer",Ordis,Personnage,0
+9,F - Transfuge,FR - Français,"Jian, Superviseur d’Assemblage",Ordis,Personnage,0
+9,R - Rare,EN - English,"Jian, Assembly Overseer",Axiom,Personnage,1
+9,R - Rare,FR - Français,"Jian, Superviseur d’Assemblage",Axiom,Personnage,1
+9,C - Commune,EN - English,"Jian, Assembly Overseer",Axiom,Personnage,2
+9,C - Commune,FR - Français,"Jian, Superviseur d’Assemblage",Axiom,Personnage,3
+10,F - Transfuge,EN - English,Kelon Elemental,Muna,Personnage,0
+10,F - Transfuge,FR - Français,Élémentaire de Kélon,Muna,Personnage,0
+10,R - Rare,EN - English,Kelon Elemental,Axiom,Personnage,0
+10,R - Rare,FR - Français,Élémentaire de Kélon,Axiom,Personnage,1
+10,C - Commune,EN - English,Kelon Elemental,Axiom,Personnage,0
+10,C - Commune,FR - Français,Élémentaire de Kélon,Axiom,Personnage,6
+11,F - Transfuge,EN - English,Ogun,Muna,Personnage,0
+11,F - Transfuge,FR - Français,Ogun,Muna,Personnage,0
+11,R - Rare,EN - English,Ogun,Axiom,Personnage,1
+11,R - Rare,FR - Français,Ogun,Axiom,Personnage,1
+11,C - Commune,EN - English,Ogun,Axiom,Personnage,1
+11,C - Commune,FR - Français,Ogun,Axiom,Personnage,0
+12,C - Commune,EN - English,Foundry Armorer,Axiom,Personnage,1
+12,C - Commune,FR - Français,Armurière de la Fonderie,Axiom,Personnage,3
+12,F - Transfuge,EN - English,Amelia Earhart,Ordis,Personnage,1
+12,F - Transfuge,FR - Français,Amelia Earhart,Ordis,Personnage,0
+12,R - Rare,EN - English,Amelia Earhart,Axiom,Personnage,0
+12,R - Rare,FR - Français,Amelia Earhart,Axiom,Personnage,1
+12,C - Commune,EN - English,Amelia Earhart,Axiom,Personnage,0
+12,C - Commune,FR - Français,Amelia Earhart,Axiom,Personnage,3
+13,F - Transfuge,EN - English,Foundry Armorer,Bravos,Personnage,0
+13,F - Transfuge,FR - Français,Armurière de la Fonderie,Bravos,Personnage,1
+13,C - Commune,EN - English,Foundry Armorer,Axiom,Personnage,0
+13,C - Commune,FR - Français,Armurière de la Fonderie,Axiom,Personnage,0
+14,F - Transfuge,EN - English,Three Little Pigs,Bravos,Personnage,0
+14,F - Transfuge,FR - Français,Trois Petits Cochons,Bravos,Personnage,0
+14,R - Rare,EN - English,Three Little Pigs,Axiom,Personnage,1
+14,R - Rare,FR - Français,Trois Petits Cochons,Axiom,Personnage,1
+14,C - Commune,EN - English,Three Little Pigs,Axiom,Personnage,1
+14,C - Commune,FR - Français,Trois Petits Cochons,Axiom,Personnage,3
+15,F - Transfuge,EN - English,Tinker Bell,Lyra,Personnage,0
+15,F - Transfuge,FR - Français,Fée Clochette,Lyra,Personnage,0
+15,R - Rare,EN - English,Tinker Bell,Axiom,Personnage,0
+15,R - Rare,FR - Français,Fée Clochette,Axiom,Personnage,0
+15,C - Commune,EN - English,Tinker Bell,Axiom,Personnage,1
+15,C - Commune,FR - Français,Fée Clochette,Axiom,Personnage,1
+16,F - Transfuge,EN - English,Axiom Scrambler,Muna,Personnage,0
+16,F - Transfuge,FR - Français,Brouilleur Axiom,Muna,Personnage,0
+16,R - Rare,EN - English,Axiom Scrambler,Axiom,Personnage,0
+16,R - Rare,FR - Français,Brouilleur Axiom,Axiom,Personnage,1
+16,C - Commune,EN - English,Axiom Scrambler,Axiom,Personnage,1
+16,C - Commune,FR - Français,Brouilleur Axiom,Axiom,Personnage,3
+17,F - Transfuge,EN - English,Dr. Frankenstein,Lyra,Personnage,0
+17,F - Transfuge,FR - Français,Dr Frankenstein,Lyra,Personnage,1
+17,R - Rare,EN - English,Dr. Frankenstein,Axiom,Personnage,1
+17,R - Rare,FR - Français,Dr Frankenstein,Axiom,Personnage,0
+17,C - Commune,EN - English,Dr. Frankenstein,Axiom,Personnage,1
+17,C - Commune,FR - Français,Dr Frankenstein,Axiom,Personnage,2
+18,F - Transfuge,EN - English,Athena,Ordis,Personnage,0
+18,F - Transfuge,FR - Français,Athéna,Ordis,Personnage,1
+18,R - Rare,EN - English,Athena,Axiom,Personnage,1
+18,R - Rare,FR - Français,Athéna,Axiom,Personnage,0
+18,C - Commune,EN - English,Athena,Axiom,Personnage,0
+18,C - Commune,FR - Français,Athéna,Axiom,Personnage,3
+19,F - Transfuge,EN - English,Ganesha,Muna,Personnage,1
+19,F - Transfuge,FR - Français,Ganesh,Muna,Personnage,0
+19,R - Rare,EN - English,Ganesha,Axiom,Personnage,0
+19,R - Rare,FR - Français,Ganesh,Axiom,Personnage,0
+19,C - Commune,EN - English,Ganesha,Axiom,Personnage,1
+19,C - Commune,FR - Français,Ganesh,Axiom,Personnage,2
+20,F - Transfuge,EN - English,Hooked,Lyra,Sort,0
+20,F - Transfuge,FR - Français,Happé,Lyra,Sort,0
+20,R - Rare,EN - English,Hooked,Axiom,Sort,0
+20,R - Rare,FR - Français,Happé,Axiom,Sort,0
+20,C - Commune,EN - English,Hooked,Axiom,Sort,0
+20,C - Commune,FR - Français,Happé,Axiom,Sort,2
+21,F - Transfuge,EN - English,Mechanical Training,Muna,Sort,0
+21,F - Transfuge,FR - Français,Entraînement Mécanique,Muna,Sort,0
+21,R - Rare,EN - English,Mechanical Training,Axiom,Sort,0
+21,R - Rare,FR - Français,Entraînement Mécanique,Axiom,Sort,1
+21,C - Commune,EN - English,Mechanical Training,Axiom,Sort,1
+21,C - Commune,FR - Français,Entraînement Mécanique,Axiom,Sort,2
+22,F - Transfuge,EN - English,Boom!,Yzmir,Sort,0
+22,F - Transfuge,FR - Français,Boum!,Yzmir,Sort,0
+22,R - Rare,EN - English,Boom!,Axiom,Sort,0
+22,R - Rare,FR - Français,Boum!,Axiom,Sort,1
+22,C - Commune,EN - English,Boom!,Axiom,Sort,0
+22,C - Commune,FR - Français,Boum!,Axiom,Sort,2
+23,F - Transfuge,EN - English,Kelon Burst,Ordis,Sort,0
+23,F - Transfuge,FR - Français,Décharge de Kélon,Ordis,Sort,1
+23,R - Rare,EN - English,Kelon Burst,Axiom,Sort,0
+23,R - Rare,FR - Français,Décharge de Kélon,Axiom,Sort,0
+23,C - Commune,EN - English,Kelon Burst,Axiom,Sort,1
+23,C - Commune,FR - Français,Décharge de Kélon,Axiom,Sort,5
+24,F - Transfuge,EN - English,Kelon Cylinder,Bravos,Repère Permanent,0
+24,F - Transfuge,FR - Français,Cylindre de Kélon,Bravos,Repère Permanent,1
+24,R - Rare,EN - English,Kelon Cylinder,Axiom,Repère Permanent,0
+24,R - Rare,FR - Français,Cylindre de Kélon,Axiom,Repère Permanent,0
+24,C - Commune,EN - English,Kelon Cylinder,Axiom,Repère Permanent,0
+24,C - Commune,FR - Français,Cylindre de Kélon,Axiom,Repère Permanent,1
+25,F - Transfuge,EN - English,Armored Jammer,Ordis,Repère Permanent,0
+25,F - Transfuge,FR - Français,Brouilleur Blindé,Ordis,Repère Permanent,0
+25,R - Rare,EN - English,Armored Jammer,Axiom,Repère Permanent,1
+25,R - Rare,FR - Français,Brouilleur Blindé,Axiom,Repère Permanent,0
+25,C - Commune,EN - English,Armored Jammer,Axiom,Repère Permanent,1
+25,C - Commune,FR - Français,Brouilleur Blindé,Axiom,Repère Permanent,1
+26,F - Transfuge,EN - English,Brassbug Hub,Ordis,Repère Permanent,0
+26,F - Transfuge,FR - Français,Hub des Scarabots,Ordis,Repère Permanent,1
+26,R - Rare,EN - English,Brassbug Hub,Axiom,Repère Permanent,0
+26,R - Rare,FR - Français,Hub des Scarabots,Axiom,Repère Permanent,0
+26,C - Commune,EN - English,Brassbug Hub,Axiom,Repère Permanent,1
+26,C - Commune,FR - Français,Hub des Scarabots,Axiom,Repère Permanent,4
+27,F - Transfuge,EN - English,Kelonic Generator,Ordis,Repère Permanent,0
+27,F - Transfuge,FR - Français,Générateur Kélonique,Ordis,Repère Permanent,0
+27,R - Rare,EN - English,Kelonic Generator,Axiom,Repère Permanent,0
+27,R - Rare,FR - Français,Générateur Kélonique,Axiom,Repère Permanent,1
+27,C - Commune,EN - English,Kelonic Generator,Axiom,Repère Permanent,0
+27,C - Commune,FR - Français,Générateur Kélonique,Axiom,Repère Permanent,2
+28,F - Transfuge,EN - English,"The Foundry, Axiom Bastion",Bravos,Repère Permanent,0
+28,F - Transfuge,FR - Français,"La fonderie, Bastion Axiom",Bravos,Repère Permanent,1
+28,R - Rare,EN - English,"The Foundry, Axiom Bastion",Axiom,Repère Permanent,1
+28,R - Rare,FR - Français,"La fonderie, Bastion Axiom",Axiom,Repère Permanent,1
+28,C - Commune,EN - English,"The Foundry, Axiom Bastion",Axiom,Repère Permanent,1
+28,C - Commune,FR - Français,"La fonderie, Bastion Axiom",Axiom,Repère Permanent,3
+29,F - Transfuge,EN - English,Axiom Reprocessor,Muna,Repère Permanent,0
+29,F - Transfuge,FR - Français,Recycleur Axiom,Muna,Repère Permanent,0
+29,R - Rare,EN - English,Axiom Reprocessor,Axiom,Repère Permanent,0
+29,R - Rare,FR - Français,Recycleur Axiom,Axiom,Repère Permanent,1
+29,C - Commune,EN - English,Axiom Reprocessor,Axiom,Repère Permanent,0
+29,C - Commune,FR - Français,Recycleur Axiom,Axiom,Repère Permanent,3
+30,F - Transfuge,EN - English,Brassbug Hive,Yzmir,Repère Permanent,0
+30,F - Transfuge,FR - Français,Ruche des Scarabots,Yzmir,Repère Permanent,1
+30,R - Rare,EN - English,Brassbug Hive,Axiom,Repère Permanent,0
+30,R - Rare,FR - Français,Ruche des Scarabots,Axiom,Repère Permanent,2
+30,C - Commune,EN - English,Brassbug Hive,Axiom,Repère Permanent,0
+30,C - Commune,FR - Français,Ruche des Scarabots,Axiom,Repère Permanent,7
+31,H - Héro,EN - English,Kojo & Booda,Bravos,,1
+31,H - Héro,FR - Français,Kojo & Booda,Bravos,,4
+32,H - Héro,EN - English,Atsadi & Surge,Bravos,,1
+32,H - Héro,FR - Français,Atsadi & Surge,Bravos,,4
+33,H - Héro,EN - English,Basira & Kaizaimon,Bravos,,0
+33,H - Héro,FR - Français,Basira & Kaizaimon,Bravos,,1
+34,F - Transfuge,EN - English,Issun-bōshi,Muna,Personnage,0
+34,F - Transfuge,FR - Français,Issun-bōshi,Muna,Personnage,0
+34,R - Rare,EN - English,Issun-bōshi,Bravos,Personnage,0
+34,R - Rare,FR - Français,Issun-bōshi,Bravos,Personnage,0
+34,C - Commune,EN - English,Issun-bōshi,Bravos,Personnage,1
+34,C - Commune,FR - Français,Issun-bōshi,Bravos,Personnage,4
+35,F - Transfuge,EN - English,Bravos Bladedance,Yzmir,Personnage,0
+35,F - Transfuge,FR - Français,Danseuse de Lames Bravos,Yzmir,Personnage,0
+35,R - Rare,EN - English,Bravos Bladedance,Bravos,Personnage,0
+35,R - Rare,FR - Français,Danseuse de Lames Bravos,Bravos,Personnage,1
+35,C - Commune,EN - English,Bravos Bladedance,Bravos,Personnage,0
+35,C - Commune,FR - Français,Danseuse de Lames Bravos,Bravos,Personnage,2
+36,F - Transfuge,EN - English,Ratatoskr,Ordis,Personnage,0
+36,F - Transfuge,FR - Français,Ratatosk,Ordis,Personnage,1
+36,R - Rare,EN - English,Ratatoskr,Bravos,Personnage,0
+36,R - Rare,FR - Français,Ratatosk,Bravos,Personnage,3
+36,C - Commune,EN - English,Ratatoskr,Bravos,Personnage,1
+36,C - Commune,FR - Français,Ratatosk,Bravos,Personnage,3
+37,F - Transfuge,EN - English,Bravos Pathfinder,Lyra,Personnage,0
+37,F - Transfuge,FR - Français,Pionnière Bravos,Lyra,Personnage,1
+37,R - Rare,EN - English,Bravos Pathfinder,Bravos,Personnage,0
+37,R - Rare,FR - Français,Pionnière Bravos,Bravos,Personnage,0
+37,C - Commune,EN - English,Bravos Pathfinder,Bravos,Personnage,0
+37,C - Commune,FR - Français,Pionnière Bravos,Bravos,Personnage,4
+38,F - Transfuge,EN - English,Bravos Tracer,Axiom,Personnage,0
+38,F - Transfuge,FR - Français,Traceuse Bravos,Axiom,Personnage,2
+38,R - Rare,EN - English,Bravos Tracer,Bravos,Personnage,0
+38,R - Rare,FR - Français,Traceuse Bravos,Bravos,Personnage,1
+38,C - Commune,EN - English,Bravos Tracer,Bravos,Personnage,0
+38,C - Commune,FR - Français,Traceuse Bravos,Bravos,Personnage,4
+39,F - Transfuge,EN - English,Chiron,Muna,Personnage,0
+39,F - Transfuge,FR - Français,Chiron,Muna,Personnage,0
+39,R - Rare,EN - English,Chiron,Bravos,Personnage,0
+39,R - Rare,FR - Français,Chiron,Bravos,Personnage,0
+39,C - Commune,EN - English,Chiron,Bravos,Personnage,0
+39,C - Commune,FR - Français,Chiron,Bravos,Personnage,2
+40,F - Transfuge,EN - English,Red,Yzmir,Personnage,0
+40,F - Transfuge,FR - Français,Red,Yzmir,Personnage,0
+40,R - Rare,EN - English,Red,Bravos,Personnage,0
+40,R - Rare,FR - Français,Red,Bravos,Personnage,0
+40,C - Commune,EN - English,Red,Bravos,Personnage,1
+40,C - Commune,FR - Français,Red,Bravos,Personnage,2
+41,F - Transfuge,EN - English,Tiny Jinn,Muna,Personnage,1
+41,F - Transfuge,FR - Français,Petit Djinn,Muna,Personnage,0
+41,R - Rare,EN - English,Tiny Jinn,Bravos,Personnage,0
+41,R - Rare,FR - Français,Petit Djinn,Bravos,Personnage,0
+41,C - Commune,EN - English,Tiny Jinn,Bravos,Personnage,0
+41,C - Commune,FR - Français,Petit Djinn,Bravos,Personnage,2
+42,F - Transfuge,EN - English,Haven Trainee,Ordis,Personnage,0
+42,F - Transfuge,FR - Français,Aspirant de Havre,Ordis,Personnage,0
+42,R - Rare,EN - English,Haven Trainee,Bravos,Personnage,0
+42,R - Rare,FR - Français,Aspirant de Havre,Bravos,Personnage,1
+42,C - Commune,EN - English,Haven Trainee,Bravos,Personnage,1
+42,C - Commune,FR - Français,Aspirant de Havre,Bravos,Personnage,5
+43,F - Transfuge,EN - English,Bravos Vanguard,Axiom,Personnage,0
+43,F - Transfuge,FR - Français,Avant-Garde Bravos,Axiom,Personnage,0
+43,R - Rare,EN - English,Bravos Vanguard,Bravos,Personnage,0
+43,R - Rare,FR - Français,Avant-Garde Bravos,Bravos,Personnage,0
+43,C - Commune,EN - English,Bravos Vanguard,Bravos,Personnage,1
+43,C - Commune,FR - Français,Avant-Garde Bravos,Bravos,Personnage,3
+44,F - Transfuge,EN - English,Haven Bouncer,Axiom,Personnage,0
+44,F - Transfuge,FR - Français,Videuse Bravos,Axiom,Personnage,0
+44,R - Rare,EN - English,Haven Bouncer,Bravos,Personnage,0
+44,R - Rare,FR - Français,Videuse Bravos,Bravos,Personnage,1
+44,C - Commune,EN - English,Haven Bouncer,Bravos,Personnage,0
+44,C - Commune,FR - Français,Videuse Bravos,Bravos,Personnage,3
+45,F - Transfuge,EN - English,Haven Warrior,Ordis,Personnage,0
+45,F - Transfuge,FR - Français,Guerrière de Havre,Ordis,Personnage,0
+45,R - Rare,EN - English,Haven Warrior,Bravos,Personnage,1
+45,R - Rare,FR - Français,Guerrière de Havre,Bravos,Personnage,1
+45,C - Commune,EN - English,Haven Warrior,Bravos,Personnage,1
+45,C - Commune,FR - Français,Guerrière de Havre,Bravos,Personnage,2
+46,F - Transfuge,EN - English,Hua Mulan,Yzmir,Personnage,0
+46,F - Transfuge,FR - Français,Hua Mulan,Yzmir,Personnage,0
+46,R - Rare,EN - English,Hua Mulan,Bravos,Personnage,0
+46,R - Rare,FR - Français,Hua Mulan,Bravos,Personnage,0
+46,C - Commune,EN - English,Hua Mulan,Bravos,Personnage,1
+46,C - Commune,FR - Français,Hua Mulan,Bravos,Personnage,2
+47,C - Commune,EN - English,Tomoe Gozen,Bravos,Personnage,0
+47,C - Commune,FR - Français,Tomoe Gozen,Bravos,Personnage,3
+47,F - Transfuge,EN - English,Tomoe Gozen,Lyra,Personnage,0
+47,F - Transfuge,FR - Français,Tomoe Gozen,Lyra,Personnage,0
+47,R - Rare,EN - English,Tomoe Gozen,Bravos,Personnage,0
+47,R - Rare,FR - Français,Tomoe Gozen,Bravos,Personnage,1
+48,F - Transfuge,EN - English,Sun Wukong,Muna,Personnage,1
+48,F - Transfuge,FR - Français,Sun Wukong,Muna,Personnage,0
+48,R - Rare,EN - English,Sun Wukong,Bravos,Personnage,0
+48,R - Rare,FR - Français,Sun Wukong,Bravos,Personnage,1
+48,C - Commune,EN - English,Sun Wukong,Bravos,Personnage,1
+48,C - Commune,FR - Français,Sun Wukong,Bravos,Personnage,4
+49,F - Transfuge,EN - English,Mighty Jinn,Lyra,Personnage,0
+49,F - Transfuge,FR - Français,Puissant Djinn,Lyra,Personnage,0
+49,R - Rare,EN - English,Mighty Jinn,Bravos,Personnage,0
+49,R - Rare,FR - Français,Puissant Djinn,Bravos,Personnage,0
+49,C - Commune,EN - English,Mighty Jinn,Bravos,Personnage,0
+49,C - Commune,FR - Français,Puissant Djinn,Bravos,Personnage,2
+50,F - Transfuge,EN - English,Kappa,Lyra,Personnage,0
+50,F - Transfuge,FR - Français,Kappa,Lyra,Personnage,0
+50,R - Rare,EN - English,Kappa,Bravos,Personnage,0
+50,R - Rare,FR - Français,Kappa,Bravos,Personnage,0
+50,C - Commune,EN - English,Kappa,Bravos,Personnage,0
+50,C - Commune,FR - Français,Kappa,Bravos,Personnage,5
+51,F - Transfuge,EN - English,Achilles,Ordis,Personnage,0
+51,F - Transfuge,FR - Français,Achille,Ordis,Personnage,1
+51,R - Rare,EN - English,Achilles,Bravos,Personnage,0
+51,R - Rare,FR - Français,Achille,Bravos,Personnage,1
+51,C - Commune,EN - English,Achilles,Bravos,Personnage,0
+51,C - Commune,FR - Français,Achille,Bravos,Personnage,0
+52,F - Transfuge,EN - English,Atlas,Ordis,Personnage,0
+52,F - Transfuge,FR - Français,Atlas,Ordis,Personnage,0
+52,R - Rare,EN - English,Atlas,Bravos,Personnage,0
+52,R - Rare,FR - Français,Atlas,Bravos,Personnage,0
+52,C - Commune,EN - English,Atlas,Bravos,Personnage,0
+52,C - Commune,FR - Français,Atlas,Bravos,Personnage,6
+53,F - Transfuge,EN - English,Shenlong,Lyra,Personnage,0
+53,F - Transfuge,FR - Français,Shenlong,Lyra,Personnage,0
+53,R - Rare,EN - English,Shenlong,Bravos,Personnage,1
+53,R - Rare,FR - Français,Shenlong,Bravos,Personnage,2
+53,C - Commune,EN - English,Shenlong,Bravos,Personnage,0
+53,C - Commune,FR - Français,Shenlong,Bravos,Personnage,1
+54,F - Transfuge,EN - English,"Kaibara, Asgarthan Leviathan",Lyra,Personnage,0
+54,F - Transfuge,FR - Français,"Kaibara, Léviathan Asgarthi",Lyra,Personnage,0
+54,R - Rare,EN - English,"Kaibara, Asgarthan Leviathan",Bravos,Personnage,0
+54,R - Rare,FR - Français,"Kaibara, Léviathan Asgarthi",Bravos,Personnage,3
+54,C - Commune,EN - English,"Kaibara, Asgarthan Leviathan",Bravos,Personnage,0
+54,C - Commune,FR - Français,"Kaibara, Léviathan Asgarthi",Bravos,Personnage,1
+55,F - Transfuge,EN - English,Helping Hand,Yzmir,Sort,0
+55,F - Transfuge,FR - Français,Main Tendue,Yzmir,Sort,0
+55,R - Rare,EN - English,Helping Hand,Bravos,Sort,0
+55,R - Rare,FR - Français,Main Tendue,Bravos,Sort,0
+55,C - Commune,EN - English,Helping Hand,Bravos,Sort,0
+55,C - Commune,FR - Français,Main Tendue,Bravos,Sort,3
+56,F - Transfuge,EN - English,Intimidation,Yzmir,Sort,0
+56,F - Transfuge,FR - Français,Intimidation,Yzmir,Sort,0
+56,R - Rare,EN - English,Intimidation,Bravos,Sort,0
+56,R - Rare,FR - Français,Intimidation,Bravos,Sort,0
+56,C - Commune,EN - English,Intimidation,Bravos,Sort,0
+56,C - Commune,FR - Français,Intimidation,Bravos,Sort,6
+57,F - Transfuge,EN - English,Mana Channeling,Muna,Sort,0
+57,F - Transfuge,FR - Français,Canalisation de Mana,Muna,Sort,1
+57,R - Rare,EN - English,Mana Channeling,Bravos,Sort,0
+57,R - Rare,FR - Français,Canalisation de Mana,Bravos,Sort,0
+57,C - Commune,EN - English,Mana Channeling,Bravos,Sort,1
+57,C - Commune,FR - Français,Canalisation de Mana,Bravos,Sort,2
+58,F - Transfuge,EN - English,Physical Training,Muna,Sort,0
+58,F - Transfuge,FR - Français,Entraînement Physique,Muna,Sort,2
+58,R - Rare,EN - English,Physical Training,Bravos,Sort,0
+58,R - Rare,FR - Français,Entraînement Physique,Bravos,Sort,2
+58,C - Commune,EN - English,Physical Training,Bravos,Sort,2
+58,C - Commune,FR - Français,Entraînement Physique,Bravos,Sort,4
+59,F - Transfuge,EN - English,Mana Eruption,Muna,Sort,0
+59,F - Transfuge,FR - Français,Éruption de Mana,Muna,Sort,1
+59,R - Rare,EN - English,Mana Eruption,Bravos,Sort,0
+59,R - Rare,FR - Français,Éruption de Mana,Bravos,Sort,0
+59,C - Commune,EN - English,Mana Eruption,Bravos,Sort,0
+59,C - Commune,FR - Français,Éruption de Mana,Bravos,Sort,1
+60,F - Transfuge,EN - English,"Haven, Bravos Bastion",Axiom,Repère Permanent,1
+60,F - Transfuge,FR - Français,"Havre, Bastion Bravos",Axiom,Repère Permanent,0
+60,R - Rare,EN - English,"Haven, Bravos Bastion",Bravos,Repère Permanent,0
+60,R - Rare,FR - Français,"Havre, Bastion Bravos",Bravos,Repère Permanent,0
+60,C - Commune,EN - English,"Haven, Bravos Bastion",Bravos,Repère Permanent,1
+60,C - Commune,FR - Français,"Havre, Bastion Bravos",Bravos,Repère Permanent,5
+61,H - Héro,EN - English,Nevenka & Blotch,Lyra,,1
+61,H - Héro,FR - Français,Nevenka & Blotch,Lyra,,4
+62,H - Héro,EN - English,Auraq & Kibble,Lyra,,2
+62,H - Héro,FR - Français,Auraq & Kibble,Lyra,,2
+63,H - Héro,EN - English,Fen & Crowbar,Lyra,,0
+63,H - Héro,FR - Français,Fen & Crowbar,Lyra,,3
+64,F - Transfuge,EN - English,Martengale,Axiom,Personnage,0
+64,F - Transfuge,FR - Français,Martengale,Axiom,Personnage,0
+64,R - Rare,EN - English,Martengale,Lyra,Personnage,0
+64,R - Rare,FR - Français,Martengale,Lyra,Personnage,0
+64,C - Commune,EN - English,Martengale,Lyra,Personnage,0
+64,C - Commune,FR - Français,Martengale,Lyra,Personnage,2
+65,F - Transfuge,EN - English,Ouroboros Trickster,Bravos,Personnage,0
+65,F - Transfuge,FR - Français,Prestidigitatrice de l’Ouroboros,Bravos,Personnage,0
+65,R - Rare,EN - English,Ouroboros Trickster,Lyra,Personnage,0
+65,R - Rare,FR - Français,Prestidigitatrice de l’Ouroboros,Lyra,Personnage,1
+65,C - Commune,EN - English,Ouroboros Trickster,Lyra,Personnage,0
+65,C - Commune,FR - Français,Prestidigitatrice de l’Ouroboros,Lyra,Personnage,5
+66,F - Transfuge,EN - English,Esmeralda,Muna,Personnage,0
+66,F - Transfuge,FR - Français,Esmeralda,Muna,Personnage,0
+66,R - Rare,EN - English,Esmeralda,Lyra,Personnage,0
+66,R - Rare,FR - Français,Esmeralda,Lyra,Personnage,1
+66,C - Commune,EN - English,Esmeralda,Lyra,Personnage,3
+66,C - Commune,FR - Français,Esmeralda,Lyra,Personnage,5
+67,F - Transfuge,EN - English,Lyra Skald,Yzmir,Personnage,0
+67,F - Transfuge,FR - Français,Skald Lyra,Yzmir,Personnage,0
+67,R - Rare,EN - English,Lyra Skald,Lyra,Personnage,0
+67,R - Rare,FR - Français,Skald Lyra,Lyra,Personnage,0
+67,C - Commune,EN - English,Lyra Skald,Lyra,Personnage,1
+67,C - Commune,FR - Français,Skald Lyra,Lyra,Personnage,4
+68,F - Transfuge,EN - English,Lyra Thespian,Muna,Personnage,0
+68,F - Transfuge,FR - Français,Comédien Lyra,Muna,Personnage,0
+68,R - Rare,EN - English,Lyra Thespian,Lyra,Personnage,0
+68,R - Rare,FR - Français,Comédien Lyra,Lyra,Personnage,0
+68,C - Commune,EN - English,Lyra Thespian,Lyra,Personnage,0
+68,C - Commune,FR - Français,Comédien Lyra,Lyra,Personnage,2
+69,F - Transfuge,EN - English,Hathor,Yzmir,Personnage,0
+69,F - Transfuge,FR - Français,Hathor,Yzmir,Personnage,0
+69,R - Rare,EN - English,Hathor,Lyra,Personnage,0
+69,R - Rare,FR - Français,Hathor,Lyra,Personnage,2
+69,C - Commune,EN - English,Hathor,Lyra,Personnage,1
+69,C - Commune,FR - Français,Hathor,Lyra,Personnage,5
+70,F - Transfuge,EN - English,Lyra Navigator,Bravos,Personnage,0
+70,F - Transfuge,FR - Français,Navigatrice Lyra,Bravos,Personnage,0
+70,R - Rare,EN - English,Lyra Navigator,Lyra,Personnage,0
+70,R - Rare,FR - Français,Navigatrice Lyra,Lyra,Personnage,0
+70,C - Commune,EN - English,Lyra Navigator,Lyra,Personnage,1
+70,C - Commune,FR - Français,Navigatrice Lyra,Lyra,Personnage,1
+71,F - Transfuge,EN - English,Anansi,Axiom,Personnage,0
+71,F - Transfuge,FR - Français,Anansi,Axiom,Personnage,1
+71,R - Rare,EN - English,Anansi,Lyra,Personnage,0
+71,R - Rare,FR - Français,Anansi,Lyra,Personnage,0
+71,C - Commune,EN - English,Anansi,Lyra,Personnage,0
+71,C - Commune,FR - Français,Anansi,Lyra,Personnage,1
+72,F - Transfuge,EN - English,Lyra Cloth Dancer,Muna,Personnage,0
+72,F - Transfuge,FR - Français,Danseuse d’Étoffe Lyra,Muna,Personnage,1
+72,R - Rare,EN - English,Lyra Cloth Dancer,Lyra,Personnage,0
+72,R - Rare,FR - Français,Danseuse d’Étoffe Lyra,Lyra,Personnage,1
+72,C - Commune,EN - English,Lyra Cloth Dancer,Lyra,Personnage,0
+72,C - Commune,FR - Français,Danseuse d’Étoffe Lyra,Lyra,Personnage,4
+73,F - Transfuge,EN - English,Lyra Chronicler,Axiom,Personnage,0
+73,F - Transfuge,FR - Français,Chroniqueuse Lyra,Axiom,Personnage,0
+73,R - Rare,EN - English,Lyra Chronicler,Lyra,Personnage,2
+73,R - Rare,FR - Français,Chroniqueuse Lyra,Lyra,Personnage,0
+73,C - Commune,EN - English,Lyra Chronicler,Lyra,Personnage,1
+73,C - Commune,FR - Français,Chroniqueuse Lyra,Lyra,Personnage,4
+74,F - Transfuge,EN - English,Ouroboros Inkcaster,Axiom,Personnage,0
+74,F - Transfuge,FR - Français,Encrière de l’Ouroboros,Axiom,Personnage,0
+74,R - Rare,EN - English,Ouroboros Inkcaster,Lyra,Personnage,0
+74,R - Rare,FR - Français,Encrière de l’Ouroboros,Lyra,Personnage,0
+74,C - Commune,EN - English,Ouroboros Inkcaster,Lyra,Personnage,0
+74,C - Commune,FR - Français,Encrière de l’Ouroboros,Lyra,Personnage,1
+75,F - Transfuge,EN - English,Tanuki,Bravos,Personnage,0
+75,F - Transfuge,FR - Français,Tanuki,Bravos,Personnage,0
+75,R - Rare,EN - English,Tanuki,Lyra,Personnage,0
+75,R - Rare,FR - Français,Tanuki,Lyra,Personnage,1
+75,C - Commune,EN - English,Tanuki,Lyra,Personnage,0
+75,C - Commune,FR - Français,Tanuki,Lyra,Personnage,3
+76,F - Transfuge,EN - English,The Sandman,Ordis,Personnage,1
+76,F - Transfuge,FR - Français,Le Marchand de Sable,Ordis,Personnage,1
+76,R - Rare,EN - English,The Sandman,Lyra,Personnage,0
+76,R - Rare,FR - Français,Le Marchand de Sable,Lyra,Personnage,0
+76,C - Commune,EN - English,The Sandman,Lyra,Personnage,1
+76,C - Commune,FR - Français,Le Marchand de Sable,Lyra,Personnage,2
+77,F - Transfuge,EN - English,Ouroboros Croupier,Axiom,Personnage,0
+77,F - Transfuge,FR - Français,Croupière de l’Ouroboros,Axiom,Personnage,0
+77,R - Rare,EN - English,Ouroboros Croupier,Lyra,Personnage,0
+77,R - Rare,FR - Français,Croupière de l’Ouroboros,Lyra,Personnage,1
+77,C - Commune,EN - English,Ouroboros Croupier,Lyra,Personnage,0
+77,C - Commune,FR - Français,Croupière de l’Ouroboros,Lyra,Personnage,5
+78,F - Transfuge,EN - English,The Hatter,Bravos,Personnage,0
+78,F - Transfuge,FR - Français,Le Chapelier,Bravos,Personnage,1
+78,R - Rare,EN - English,The Hatter,Lyra,Personnage,0
+78,R - Rare,FR - Français,Le Chapelier,Lyra,Personnage,0
+78,C - Commune,EN - English,The Hatter,Lyra,Personnage,1
+78,C - Commune,FR - Français,Le Chapelier,Lyra,Personnage,6
+79,F - Transfuge,EN - English,"Amahle, Asgarthan Outcast",Axiom,Personnage,0
+79,F - Transfuge,FR - Français,"Amahle, Paria Asgarthi",Axiom,Personnage,0
+79,R - Rare,EN - English,"Amahle, Asgarthan Outcast",Lyra,Personnage,0
+79,R - Rare,FR - Français,"Amahle, Paria Asgarthi",Lyra,Personnage,2
+79,C - Commune,EN - English,"Amahle, Asgarthan Outcast",Lyra,Personnage,0
+79,C - Commune,FR - Français,"Amahle, Paria Asgarthi",Lyra,Personnage,3
+80,F - Transfuge,EN - English,Asmodeus,Bravos,Personnage,0
+80,F - Transfuge,FR - Français,Asmodée,Bravos,Personnage,1
+80,R - Rare,EN - English,Asmodeus,Lyra,Personnage,0
+80,R - Rare,FR - Français,Asmodée,Lyra,Personnage,1
+80,C - Commune,EN - English,Asmodeus,Lyra,Personnage,0
+80,C - Commune,FR - Français,Asmodée,Lyra,Personnage,4
+81,F - Transfuge,EN - English,Loki,Muna,Personnage,0
+81,F - Transfuge,FR - Français,Loki,Muna,Personnage,1
+81,R - Rare,EN - English,Loki,Lyra,Personnage,0
+81,R - Rare,FR - Français,Loki,Lyra,Personnage,0
+81,C - Commune,EN - English,Loki,Lyra,Personnage,0
+81,C - Commune,FR - Français,Loki,Lyra,Personnage,0
+82,F - Transfuge,EN - English,A Cappella Training,Muna,Sort,1
+82,F - Transfuge,FR - Français,Entraînement A Cappella,Muna,Sort,1
+82,R - Rare,EN - English,A Cappella Training,Lyra,Sort,0
+82,R - Rare,FR - Français,Entraînement A Cappella,Lyra,Sort,0
+82,C - Commune,EN - English,A Cappella Training,Lyra,Sort,0
+82,C - Commune,FR - Français,Entraînement A Cappella,Lyra,Sort,1
+83,F - Transfuge,EN - English,Ride the Bifröst,Yzmir,Sort,0
+83,F - Transfuge,FR - Français,Franchir le Bifröst,Yzmir,Sort,0
+83,R - Rare,EN - English,Ride the Bifröst,Lyra,Sort,0
+83,R - Rare,FR - Français,Franchir le Bifröst,Lyra,Sort,0
+83,C - Commune,EN - English,Ride the Bifröst,Lyra,Sort,0
+83,C - Commune,FR - Français,Franchir le Bifröst,Lyra,Sort,0
+84,F - Transfuge,EN - English,Twinkle Twinkle,Bravos,Sort,1
+84,F - Transfuge,FR - Français,"Meunier, Tu Dors",Bravos,Sort,0
+84,R - Rare,EN - English,Twinkle Twinkle,Lyra,Sort,0
+84,R - Rare,FR - Français,"Meunier, Tu Dors",Lyra,Sort,0
+84,C - Commune,EN - English,Twinkle Twinkle,Lyra,Sort,1
+84,C - Commune,FR - Français,"Meunier, Tu Dors",Lyra,Sort,0
+85,F - Transfuge,EN - English,All In!,Bravos,Sort,0
+85,F - Transfuge,FR - Français,Tapis !,Bravos,Sort,0
+85,R - Rare,EN - English,All In!,Lyra,Sort,0
+85,R - Rare,FR - Français,Tapis !,Lyra,Sort,1
+85,C - Commune,EN - English,All In!,Lyra,Sort,1
+85,C - Commune,FR - Français,Tapis !,Lyra,Sort,7
+86,F - Transfuge,EN - English,Cloth Cocoon,Muna,Sort,0
+86,F - Transfuge,FR - Français,Cocon d’Étoffe,Muna,Sort,1
+86,R - Rare,EN - English,Cloth Cocoon,Lyra,Sort,0
+86,R - Rare,FR - Français,Cocon d’Étoffe,Lyra,Sort,0
+86,C - Commune,EN - English,Cloth Cocoon,Lyra,Sort,0
+86,C - Commune,FR - Français,Cocon d’Étoffe,Lyra,Sort,2
+87,F - Transfuge,EN - English,Paint Prison,Muna,Sort,0
+87,F - Transfuge,FR - Français,Prison de Peinture,Muna,Sort,0
+87,R - Rare,EN - English,Paint Prison,Lyra,Sort,0
+87,R - Rare,FR - Français,Prison de Peinture,Lyra,Sort,1
+87,C - Commune,EN - English,Paint Prison,Lyra,Sort,0
+87,C - Commune,FR - Français,Prison de Peinture,Lyra,Sort,6
+88,F - Transfuge,EN - English,Mind Apotheosis,Bravos,Sort,0
+88,F - Transfuge,FR - Français,Apothéose de l’Esprit,Bravos,Sort,1
+88,R - Rare,EN - English,Mind Apotheosis,Lyra,Sort,0
+88,R - Rare,FR - Français,Apothéose de l’Esprit,Lyra,Sort,0
+88,C - Commune,EN - English,Mind Apotheosis,Lyra,Sort,0
+88,C - Commune,FR - Français,Apothéose de l’Esprit,Lyra,Sort,1
+89,F - Transfuge,EN - English,Lyra Festival,Muna,Repère Permanent,0
+89,F - Transfuge,FR - Français,Festival Lyra,Muna,Repère Permanent,0
+89,R - Rare,EN - English,Lyra Festival,Lyra,Repère Permanent,0
+89,R - Rare,FR - Français,Festival Lyra,Lyra,Repère Permanent,0
+89,C - Commune,EN - English,Lyra Festival,Lyra,Repère Permanent,0
+89,C - Commune,FR - Français,Festival Lyra,Lyra,Repère Permanent,1
+90,F - Transfuge,EN - English,"The Ouroboros, Lyra Bastion",Axiom,Repère Permanent,0
+90,F - Transfuge,FR - Français,"L’Ouroboros, Bastion Lyra",Axiom,Repère Permanent,3
+90,R - Rare,EN - English,"The Ouroboros, Lyra Bastion",Lyra,Repère Permanent,1
+90,R - Rare,FR - Français,"L’Ouroboros, Bastion Lyra",Lyra,Repère Permanent,1
+90,C - Commune,EN - English,"The Ouroboros, Lyra Bastion",Lyra,Repère Permanent,1
+90,C - Commune,FR - Français,"L’Ouroboros, Bastion Lyra",Lyra,Repère Permanent,3
+91,H - Héro,EN - English,Teija & Nauraa,Muna,,0
+91,H - Héro,FR - Français,Teija & Nauraa,Muna,,2
+92,H - Héro,EN - English,Arjun & Spike,Muna,,0
+92,H - Héro,FR - Français,Arjun & Spike,Muna,,1
+93,H - Héro,EN - English,Rin & Orchid,Muna,,0
+93,H - Héro,FR - Français,Rin & Orchid,Muna,,3
+94,F - Transfuge,EN - English,Muna Caregiver,Yzmir,Personnage,0
+94,F - Transfuge,FR - Français,Soigneuse Muna,Yzmir,Personnage,0
+94,R - Rare,EN - English,Muna Caregiver,Muna,Personnage,0
+94,R - Rare,FR - Français,Soigneuse Muna,Muna,Personnage,2
+94,C - Commune,EN - English,Muna Caregiver,Muna,Personnage,0
+94,C - Commune,FR - Français,Soigneuse Muna,Muna,Personnage,1
+95,F - Transfuge,EN - English,Spindle Harversters,Yzmir,Personnage,0
+95,F - Transfuge,FR - Français,Vendangeurs du Fuseau,Yzmir,Personnage,1
+95,R - Rare,EN - English,Spindle Harversters,Muna,Personnage,0
+95,R - Rare,FR - Français,Vendangeurs du Fuseau,Muna,Personnage,1
+95,C - Commune,EN - English,Spindle Harversters,Muna,Personnage,0
+95,C - Commune,FR - Français,Vendangeurs du Fuseau,Muna,Personnage,6
+96,F - Transfuge,EN - English,Mowgli,Axiom,Personnage,0
+96,F - Transfuge,FR - Français,Mowgli,Axiom,Personnage,0
+96,R - Rare,EN - English,Mowgli,Muna,Personnage,0
+96,R - Rare,FR - Français,Mowgli,Muna,Personnage,0
+96,C - Commune,EN - English,Mowgli,Muna,Personnage,0
+96,C - Commune,FR - Français,Mowgli,Muna,Personnage,4
+97,F - Transfuge,EN - English,Kitsune,Bravos,Personnage,0
+97,F - Transfuge,FR - Français,Kitsune,Bravos,Personnage,0
+97,R - Rare,EN - English,Kitsune,Muna,Personnage,0
+97,R - Rare,FR - Français,Kitsune,Muna,Personnage,1
+97,C - Commune,EN - English,Kitsune,Muna,Personnage,0
+97,C - Commune,FR - Français,Kitsune,Muna,Personnage,7
+98,F - Transfuge,EN - English,Kodama,Lyra,Personnage,0
+98,F - Transfuge,FR - Français,Kodama,Lyra,Personnage,0
+98,R - Rare,EN - English,Kodama,Muna,Personnage,0
+98,R - Rare,FR - Français,Kodama,Muna,Personnage,0
+98,C - Commune,EN - English,Kodama,Muna,Personnage,0
+98,C - Commune,FR - Français,Kodama,Muna,Personnage,1
+99,F - Transfuge,EN - English,Sneezer Shroom,Yzmir,Personnage,1
+99,F - Transfuge,FR - Français,Champignon Éternueur,Yzmir,Personnage,0
+99,R - Rare,EN - English,Sneezer Shroom,Muna,Personnage,0
+99,R - Rare,FR - Français,Champignon Éternueur,Muna,Personnage,1
+99,C - Commune,EN - English,Sneezer Shroom,Muna,Personnage,1
+99,C - Commune,FR - Français,Champignon Éternueur,Muna,Personnage,3
+100,F - Transfuge,EN - English,Muna Merchant,Axiom,Personnage,0
+100,F - Transfuge,FR - Français,Marchand Muna,Axiom,Personnage,1
+100,R - Rare,EN - English,Muna Merchant,Muna,Personnage,0
+100,R - Rare,FR - Français,Marchand Muna,Muna,Personnage,1
+100,C - Commune,EN - English,Muna Merchant,Muna,Personnage,0
+100,C - Commune,FR - Français,Marchand Muna,Muna,Personnage,0
+101,F - Transfuge,EN - English,Inari,Axiom,Personnage,0
+101,F - Transfuge,FR - Français,Inari,Axiom,Personnage,1
+101,R - Rare,EN - English,Inari,Muna,Personnage,0
+101,R - Rare,FR - Français,Inari,Muna,Personnage,0
+101,C - Commune,EN - English,Inari,Muna,Personnage,0
+101,C - Commune,FR - Français,Inari,Muna,Personnage,5
+102,F - Transfuge,EN - English,Muna Druid,Axiom,Personnage,0
+102,F - Transfuge,FR - Français,Druide Muna,Axiom,Personnage,0
+102,R - Rare,EN - English,Muna Druid,Muna,Personnage,0
+102,R - Rare,FR - Français,Druide Muna,Muna,Personnage,1
+102,C - Commune,EN - English,Muna Druid,Muna,Personnage,0
+102,C - Commune,FR - Français,Druide Muna,Muna,Personnage,5
+103,F - Transfuge,EN - English,Aloe Vera,Lyra,Personnage,0
+103,F - Transfuge,FR - Français,Aloe Vera,Lyra,Personnage,0
+103,R - Rare,EN - English,Aloe Vera,Muna,Personnage,0
+103,R - Rare,FR - Français,Aloe Vera,Muna,Personnage,0
+103,C - Commune,EN - English,Aloe Vera,Muna,Personnage,0
+103,C - Commune,FR - Français,Aloe Vera,Muna,Personnage,2
+104,F - Transfuge,EN - English,Daughter of Yggdrasil,Axiom,Personnage,0
+104,F - Transfuge,FR - Français,Fille d’Yggdrasil,Axiom,Personnage,0
+104,R - Rare,EN - English,Daughter of Yggdrasil,Muna,Personnage,0
+104,R - Rare,FR - Français,Fille d’Yggdrasil,Muna,Personnage,0
+104,C - Commune,EN - English,Daughter of Yggdrasil,Muna,Personnage,0
+104,C - Commune,FR - Français,Fille d’Yggdrasil,Muna,Personnage,4
+105,F - Transfuge,EN - English,Dracaena,Bravos,Personnage,0
+105,F - Transfuge,FR - Français,Dracaena,Bravos,Personnage,0
+105,R - Rare,EN - English,Dracaena,Muna,Personnage,0
+105,R - Rare,FR - Français,Dracaena,Muna,Personnage,1
+105,C - Commune,EN - English,Dracaena,Muna,Personnage,1
+105,C - Commune,FR - Français,Dracaena,Muna,Personnage,1
+106,F - Transfuge,EN - English,"Yong-Su, Verdant Weaver",Lyra,Personnage,0
+106,F - Transfuge,FR - Français,"Yong-Su, Tisserand Verdoyant",Lyra,Personnage,1
+106,R - Rare,EN - English,"Yong-Su, Verdant Weaver",Muna,Personnage,0
+106,R - Rare,FR - Français,"Yong-Su, Tisserand Verdoyant",Muna,Personnage,1
+106,C - Commune,EN - English,"Yong-Su, Verdant Weaver",Muna,Personnage,0
+106,C - Commune,FR - Français,"Yong-Su, Tisserand Verdoyant",Muna,Personnage,4
+107,F - Transfuge,EN - English,Parvati,Bravos,Personnage,0
+107,F - Transfuge,FR - Français,Parvati,Bravos,Personnage,1
+107,R - Rare,EN - English,Parvati,Muna,Personnage,0
+107,R - Rare,FR - Français,Parvati,Muna,Personnage,2
+107,C - Commune,EN - English,Parvati,Muna,Personnage,0
+107,C - Commune,FR - Français,Parvati,Muna,Personnage,1
+108,F - Transfuge,EN - English,Cernunnos,Lyra,Personnage,1
+108,F - Transfuge,FR - Français,Cernunnos,Lyra,Personnage,0
+108,R - Rare,EN - English,Cernunnos,Muna,Personnage,0
+108,R - Rare,FR - Français,Cernunnos,Muna,Personnage,0
+108,C - Commune,EN - English,Cernunnos,Muna,Personnage,2
+108,C - Commune,FR - Français,Cernunnos,Muna,Personnage,3
+109,F - Transfuge,EN - English,Aja,Bravos,Personnage,0
+109,F - Transfuge,FR - Français,Aja,Bravos,Personnage,0
+109,R - Rare,EN - English,Aja,Muna,Personnage,0
+109,R - Rare,FR - Français,Aja,Muna,Personnage,0
+109,C - Commune,EN - English,Aja,Muna,Personnage,1
+109,C - Commune,FR - Français,Aja,Muna,Personnage,1
+110,F - Transfuge,EN - English,Verdantback,Ordis,Personnage,0
+110,F - Transfuge,FR - Français,Vertéchine,Ordis,Personnage,0
+110,R - Rare,EN - English,Verdantback,Muna,Personnage,0
+110,R - Rare,FR - Français,Vertéchine,Muna,Personnage,0
+110,C - Commune,EN - English,Verdantback,Muna,Personnage,0
+110,C - Commune,FR - Français,Vertéchine,Muna,Personnage,1
+111,F - Transfuge,EN - English,Coniferal Coneman,Lyra,Personnage,0
+111,F - Transfuge,FR - Français,Pignon Pugnace,Lyra,Personnage,0
+111,R - Rare,EN - English,Coniferal Coneman,Muna,Personnage,0
+111,R - Rare,FR - Français,Pignon Pugnace,Muna,Personnage,2
+111,C - Commune,EN - English,Coniferal Coneman,Muna,Personnage,0
+111,C - Commune,FR - Français,Pignon Pugnace,Muna,Personnage,2
+112,F - Transfuge,EN - English,Son of Yggdrasil,Bravos,Personnage,0
+112,F - Transfuge,FR - Français,Fils d’Yggdrasil,Bravos,Personnage,0
+112,R - Rare,EN - English,Son of Yggdrasil,Muna,Personnage,0
+112,R - Rare,FR - Français,Fils d’Yggdrasil,Muna,Personnage,0
+112,C - Commune,EN - English,Son of Yggdrasil,Muna,Personnage,3
+112,C - Commune,FR - Français,Fils d’Yggdrasil,Muna,Personnage,3
+113,F - Transfuge,EN - English,Hydracaena,Lyra,Personnage,0
+113,F - Transfuge,FR - Français,Hydracaena,Lyra,Personnage,0
+113,R - Rare,EN - English,Hydracaena,Muna,Personnage,0
+113,R - Rare,FR - Français,Hydracaena,Muna,Personnage,0
+113,C - Commune,EN - English,Hydracaena,Muna,Personnage,0
+113,C - Commune,FR - Français,Hydracaena,Muna,Personnage,2
+114,F - Transfuge,EN - English,Harvest,Axiom,Sort,0
+114,F - Transfuge,FR - Français,Récolter,Axiom,Sort,1
+114,R - Rare,EN - English,Harvest,Muna,Sort,0
+114,R - Rare,FR - Français,Récolter,Muna,Sort,1
+114,C - Commune,EN - English,Harvest,Muna,Sort,1
+114,C - Commune,FR - Français,Récolter,Muna,Sort,4
+115,F - Transfuge,EN - English,Beauty Sleep,Yzmir,Sort,0
+115,F - Transfuge,FR - Français,Sommeil Réparateur,Yzmir,Sort,1
+115,R - Rare,EN - English,Beauty Sleep,Muna,Sort,0
+115,R - Rare,FR - Français,Sommeil Réparateur,Muna,Sort,0
+115,C - Commune,EN - English,Beauty Sleep,Muna,Sort,0
+115,C - Commune,FR - Français,Sommeil Réparateur,Muna,Sort,5
+116,F - Transfuge,EN - English,Nurture,Ordis,Sort,0
+116,F - Transfuge,FR - Français,Abreuver,Ordis,Sort,0
+116,R - Rare,EN - English,Nurture,Muna,Sort,0
+116,R - Rare,FR - Français,Abreuver,Muna,Sort,1
+116,C - Commune,EN - English,Nurture,Muna,Sort,0
+116,C - Commune,FR - Français,Abreuver,Muna,Sort,4
+117,F - Transfuge,EN - English,Meditation Training,Muna,Sort,0
+117,F - Transfuge,FR - Français,Entraînement à la Méditation,Muna,Sort,2
+117,R - Rare,EN - English,Meditation Training,Muna,Sort,0
+117,R - Rare,FR - Français,Entraînement à la Méditation,Muna,Sort,1
+117,C - Commune,EN - English,Meditation Training,Muna,Sort,0
+117,C - Commune,FR - Français,Entraînement à la Méditation,Muna,Sort,5
+118,F - Transfuge,EN - English,Mana Reaping,Bravos,Sort,1
+118,F - Transfuge,FR - Français,Moisson de Mana,Bravos,Sort,0
+118,R - Rare,EN - English,Mana Reaping,Muna,Sort,0
+118,R - Rare,FR - Français,Moisson de Mana,Muna,Sort,0
+118,C - Commune,EN - English,Mana Reaping,Muna,Sort,1
+118,C - Commune,FR - Français,Moisson de Mana,Muna,Sort,2
+119,F - Transfuge,EN - English,Bountiful Meadow,Ordis,Repère Permanent,0
+119,F - Transfuge,FR - Français,Prairie Prolifique,Ordis,Repère Permanent,1
+119,R - Rare,EN - English,Bountiful Meadow,Muna,Repère Permanent,0
+119,R - Rare,FR - Français,Prairie Prolifique,Muna,Repère Permanent,0
+119,C - Commune,EN - English,Bountiful Meadow,Muna,Repère Permanent,0
+119,C - Commune,FR - Français,Prairie Prolifique,Muna,Repère Permanent,2
+120,F - Transfuge,EN - English,"The Spindle, Muna Bastion",Bravos,Repère Permanent,0
+120,F - Transfuge,FR - Français,"Le Fuseau, Bastion Muna",Bravos,Repère Permanent,1
+120,R - Rare,EN - English,"The Spindle, Muna Bastion",Muna,Repère Permanent,0
+120,R - Rare,FR - Français,"Le Fuseau, Bastion Muna",Muna,Repère Permanent,0
+120,C - Commune,EN - English,"The Spindle, Muna Bastion",Muna,Repère Permanent,0
+120,C - Commune,FR - Français,"Le Fuseau, Bastion Muna",Muna,Repère Permanent,2
+121,H - Héro,EN - English,Sigismar & Wingspan,Ordis,,0
+121,H - Héro,FR - Français,Sigismar & Wingspan,Ordis,,3
+122,H - Héro,EN - English,Gulrang & Tocsin,Ordis,,0
+122,H - Héro,FR - Français,Gulrang & Tocsin,Ordis,,3
+123,H - Héro,EN - English,Waru & Mack,Ordis,,1
+123,H - Héro,FR - Français,Waru & Mack,Ordis,,3
+124,F - Transfuge,EN - English,Ordis Trooper,Yzmir,Personnage,0
+124,F - Transfuge,FR - Français,Troupière Ordis,Yzmir,Personnage,0
+124,R - Rare,EN - English,Ordis Trooper,Ordis,Personnage,0
+124,R - Rare,FR - Français,Troupière Ordis,Ordis,Personnage,1
+124,C - Commune,EN - English,Ordis Trooper,Ordis,Personnage,0
+124,C - Commune,FR - Français,Troupière Ordis,Ordis,Personnage,3
+125,F - Transfuge,EN - English,Paper Herald,Lyra,Personnage,0
+125,F - Transfuge,FR - Français,Héraut de Papier,Lyra,Personnage,1
+125,R - Rare,EN - English,Paper Herald,Ordis,Personnage,1
+125,R - Rare,FR - Français,Héraut de Papier,Ordis,Personnage,0
+125,C - Commune,EN - English,Paper Herald,Ordis,Personnage,0
+125,C - Commune,FR - Français,Héraut de Papier,Ordis,Personnage,5
+126,F - Transfuge,EN - English,Monolith Archivist,Yzmir,Personnage,0
+126,F - Transfuge,FR - Français,Archiviste du Monolithe,Yzmir,Personnage,1
+126,R - Rare,EN - English,Monolith Archivist,Ordis,Personnage,0
+126,R - Rare,FR - Français,Archiviste du Monolithe,Ordis,Personnage,0
+126,C - Commune,EN - English,Monolith Archivist,Ordis,Personnage,0
+126,C - Commune,FR - Français,Archiviste du Monolithe,Ordis,Personnage,0
+127,F - Transfuge,EN - English,Monolith Legate,Yzmir,Personnage,0
+127,F - Transfuge,FR - Français,Légat du Monolithe,Yzmir,Personnage,0
+127,R - Rare,EN - English,Monolith Legate,Ordis,Personnage,0
+127,R - Rare,FR - Français,Légat du Monolithe,Ordis,Personnage,0
+127,C - Commune,EN - English,Monolith Legate,Ordis,Personnage,1
+127,C - Commune,FR - Français,Légat du Monolithe,Ordis,Personnage,2
+128,F - Transfuge,EN - English,Monolith Rune-Scribe,Axiom,Personnage,0
+128,F - Transfuge,FR - Français,Scribe Runique du Monolithe,Axiom,Personnage,0
+128,R - Rare,EN - English,Monolith Rune-Scribe,Ordis,Personnage,0
+128,R - Rare,FR - Français,Scribe Runique du Monolithe,Ordis,Personnage,2
+128,C - Commune,EN - English,Monolith Rune-Scribe,Ordis,Personnage,1
+128,C - Commune,FR - Français,Scribe Runique du Monolithe,Ordis,Personnage,2
+129,F - Transfuge,EN - English,Ordis Cadets,Yzmir,Personnage,0
+129,F - Transfuge,FR - Français,Cadets Ordis,Yzmir,Personnage,1
+129,R - Rare,EN - English,Ordis Cadets,Ordis,Personnage,0
+129,R - Rare,FR - Français,Cadets Ordis,Ordis,Personnage,1
+129,C - Commune,EN - English,Ordis Cadets,Ordis,Personnage,0
+129,C - Commune,FR - Français,Cadets Ordis,Ordis,Personnage,5
+130,F - Transfuge,EN - English,Ozma,Bravos,Personnage,0
+130,F - Transfuge,FR - Français,Ozma,Bravos,Personnage,0
+130,R - Rare,EN - English,Ozma,Ordis,Personnage,1
+130,R - Rare,FR - Français,Ozma,Ordis,Personnage,1
+130,C - Commune,EN - English,Ozma,Ordis,Personnage,0
+130,C - Commune,FR - Français,Ozma,Ordis,Personnage,4
+131,F - Transfuge,EN - English,The Frog Prince,Axiom,Personnage,0
+131,F - Transfuge,FR - Français,Le Roi-Grenouille,Axiom,Personnage,1
+131,R - Rare,EN - English,The Frog Prince,Ordis,Personnage,0
+131,R - Rare,FR - Français,Le Roi-Grenouille,Ordis,Personnage,1
+131,C - Commune,EN - English,The Frog Prince,Ordis,Personnage,0
+131,C - Commune,FR - Français,Le Roi-Grenouille,Ordis,Personnage,4
+132,F - Transfuge,EN - English,Ordis Spy,Bravos,Personnage,0
+132,F - Transfuge,FR - Français,Espionne Ordis,Bravos,Personnage,0
+132,R - Rare,EN - English,Ordis Spy,Ordis,Personnage,0
+132,R - Rare,FR - Français,Espionne Ordis,Ordis,Personnage,1
+132,C - Commune,EN - English,Ordis Spy,Ordis,Personnage,0
+132,C - Commune,FR - Français,Espionne Ordis,Ordis,Personnage,4
+133,F - Transfuge,EN - English,"Kakoba, Legion Commander",Muna,Personnage,0
+133,F - Transfuge,FR - Français,"Kakoba, Commandant de Légion",Muna,Personnage,0
+133,R - Rare,EN - English,"Kakoba, Legion Commander",Ordis,Personnage,0
+133,R - Rare,FR - Français,"Kakoba, Commandant de Légion",Ordis,Personnage,1
+133,C - Commune,EN - English,"Kakoba, Legion Commander",Ordis,Personnage,1
+133,C - Commune,FR - Français,"Kakoba, Commandant de Légion",Ordis,Personnage,4
+134,F - Transfuge,EN - English,Ordis Attorney,Yzmir,Personnage,0
+134,F - Transfuge,FR - Français,Procuratrice Ordis,Yzmir,Personnage,1
+134,R - Rare,EN - English,Ordis Attorney,Ordis,Personnage,0
+134,R - Rare,FR - Français,Procuratrice Ordis,Ordis,Personnage,1
+134,C - Commune,EN - English,Ordis Attorney,Ordis,Personnage,0
+134,C - Commune,FR - Français,Procuratrice Ordis,Ordis,Personnage,2
+135,F - Transfuge,EN - English,Ordis Gatekeeper,Muna,Personnage,1
+135,F - Transfuge,FR - Français,Gardienne Ordis,Muna,Personnage,1
+135,R - Rare,EN - English,Ordis Gatekeeper,Ordis,Personnage,0
+135,R - Rare,FR - Français,Gardienne Ordis,Ordis,Personnage,1
+135,C - Commune,EN - English,Ordis Gatekeeper,Ordis,Personnage,0
+135,C - Commune,FR - Français,Gardienne Ordis,Ordis,Personnage,6
+136,F - Transfuge,EN - English,Thoth,Yzmir,Personnage,0
+136,F - Transfuge,FR - Français,Thot,Yzmir,Personnage,1
+136,R - Rare,EN - English,Thoth,Ordis,Personnage,0
+136,R - Rare,FR - Français,Thot,Ordis,Personnage,0
+136,C - Commune,EN - English,Thoth,Ordis,Personnage,0
+136,C - Commune,FR - Français,Thot,Ordis,Personnage,0
+137,F - Transfuge,EN - English,Jeanne d’Arc,Axiom,Personnage,0
+137,F - Transfuge,FR - Français,Jeanne d’Arc,Axiom,Personnage,0
+137,R - Rare,EN - English,Jeanne d’Arc,Ordis,Personnage,0
+137,R - Rare,FR - Français,Jeanne d’Arc,Ordis,Personnage,2
+137,C - Commune,EN - English,Jeanne d’Arc,Ordis,Personnage,0
+137,C - Commune,FR - Français,Jeanne d’Arc,Ordis,Personnage,4
+138,F - Transfuge,EN - English,Quetzalcóatl,Muna,Personnage,0
+138,F - Transfuge,FR - Français,Quetzalcóatl,Muna,Personnage,0
+138,R - Rare,EN - English,Quetzalcóatl,Ordis,Personnage,0
+138,R - Rare,FR - Français,Quetzalcóatl,Ordis,Personnage,1
+138,C - Commune,EN - English,Quetzalcóatl,Ordis,Personnage,1
+138,C - Commune,FR - Français,Quetzalcóatl,Ordis,Personnage,4
+139,F - Transfuge,EN - English,Robin Hood,Lyra,Personnage,0
+139,F - Transfuge,FR - Français,Robin des Bois,Lyra,Personnage,1
+139,R - Rare,EN - English,Robin Hood,Ordis,Personnage,0
+139,R - Rare,FR - Français,Robin des Bois,Ordis,Personnage,1
+139,C - Commune,EN - English,Robin Hood,Ordis,Personnage,1
+139,C - Commune,FR - Français,Robin des Bois,Ordis,Personnage,2
+140,F - Transfuge,EN - English,The Council,Bravos,Personnage,0
+140,F - Transfuge,FR - Français,Le Conseil,Bravos,Personnage,0
+140,R - Rare,EN - English,The Council,Ordis,Personnage,0
+140,R - Rare,FR - Français,Le Conseil,Ordis,Personnage,1
+140,C - Commune,EN - English,The Council,Ordis,Personnage,0
+140,C - Commune,FR - Français,Le Conseil,Ordis,Personnage,4
+141,F - Transfuge,EN - English,Anubis,Yzmir,Personnage,0
+141,F - Transfuge,FR - Français,Anubis,Yzmir,Personnage,1
+141,R - Rare,EN - English,Anubis,Ordis,Personnage,0
+141,R - Rare,FR - Français,Anubis,Ordis,Personnage,0
+141,C - Commune,EN - English,Anubis,Ordis,Personnage,1
+141,C - Commune,FR - Français,Anubis,Ordis,Personnage,1
+142,F - Transfuge,EN - English,Issitoq,Yzmir,Personnage,0
+142,F - Transfuge,FR - Français,Issitoq,Yzmir,Personnage,0
+142,R - Rare,EN - English,Issitoq,Ordis,Personnage,0
+142,R - Rare,FR - Français,Issitoq,Ordis,Personnage,0
+142,C - Commune,EN - English,Issitoq,Ordis,Personnage,0
+142,C - Commune,FR - Français,Issitoq,Ordis,Personnage,5
+143,F - Transfuge,EN - English,Charge!,Muna,Sort,0
+143,F - Transfuge,FR - Français,Chargez!,Muna,Sort,0
+143,R - Rare,EN - English,Charge!,Ordis,Sort,0
+143,R - Rare,FR - Français,Chargez!,Ordis,Sort,0
+143,C - Commune,EN - English,Charge!,Ordis,Sort,0
+143,C - Commune,FR - Français,Chargez!,Ordis,Sort,6
+144,F - Transfuge,EN - English,Teamwork Training,Axiom,Sort,0
+144,F - Transfuge,FR - Français,Entraînement à l’Esprit d’Équipe,Axiom,Sort,0
+144,R - Rare,EN - English,Teamwork Training,Ordis,Sort,1
+144,R - Rare,FR - Français,Entraînement à l’Esprit d’Équipe,Ordis,Sort,0
+144,C - Commune,EN - English,Teamwork Training,Ordis,Sort,0
+144,C - Commune,FR - Français,Entraînement à l’Esprit d’Équipe,Ordis,Sort,2
+145,F - Transfuge,EN - English,Sticky Note Seals,Axiom,Sort,0
+145,F - Transfuge,FR - Français,Sceaux Adhésifs,Axiom,Sort,0
+145,R - Rare,EN - English,Sticky Note Seals,Ordis,Sort,0
+145,R - Rare,FR - Français,Sceaux Adhésifs,Ordis,Sort,0
+145,C - Commune,EN - English,Sticky Note Seals,Ordis,Sort,0
+145,C - Commune,FR - Français,Sceaux Adhésifs,Ordis,Sort,5
+146,F - Transfuge,EN - English,Celebration Day,Yzmir,Sort,0
+146,F - Transfuge,FR - Français,Jour de Célébration,Yzmir,Sort,0
+146,R - Rare,EN - English,Celebration Day,Ordis,Sort,0
+146,R - Rare,FR - Français,Jour de Célébration,Ordis,Sort,2
+146,C - Commune,EN - English,Celebration Day,Ordis,Sort,3
+146,C - Commune,FR - Français,Jour de Célébration,Ordis,Sort,0
+147,F - Transfuge,EN - English,Open the Gates,Axiom,Sort,0
+147,F - Transfuge,FR - Français,Ouvrez les Portes,Axiom,Sort,0
+147,R - Rare,EN - English,Open the Gates,Ordis,Sort,0
+147,R - Rare,FR - Français,Ouvrez les Portes,Ordis,Sort,1
+147,C - Commune,EN - English,Open the Gates,Ordis,Sort,1
+147,C - Commune,FR - Français,Ouvrez les Portes,Ordis,Sort,2
+148,F - Transfuge,EN - English,Ordis Carrier,Yzmir,Repère Permanent,0
+148,F - Transfuge,FR - Français,Transporteur Ordis,Yzmir,Repère Permanent,1
+148,R - Rare,EN - English,Ordis Carrier,Ordis,Repère Permanent,0
+148,R - Rare,FR - Français,Transporteur Ordis,Ordis,Repère Permanent,0
+148,C - Commune,EN - English,Ordis Carrier,Ordis,Repère Permanent,0
+148,C - Commune,FR - Français,Transporteur Ordis,Ordis,Repère Permanent,3
+149,F - Transfuge,EN - English,"The Monolith, Ordis Bastion",Muna,Repère Permanent,0
+149,F - Transfuge,FR - Français,"Le Monolithe, Bastion Ordis",Muna,Repère Permanent,0
+149,R - Rare,EN - English,"The Monolith, Ordis Bastion",Ordis,Repère Permanent,0
+149,R - Rare,FR - Français,"Le Monolithe, Bastion Ordis",Ordis,Repère Permanent,0
+149,C - Commune,EN - English,"The Monolith, Ordis Bastion",Ordis,Repère Permanent,0
+149,C - Commune,FR - Français,"Le Monolithe, Bastion Ordis",Ordis,Repère Permanent,4
+150,F - Transfuge,EN - English,Grand Endeavor,Yzmir,Repère Permanent,0
+150,F - Transfuge,FR - Français,Grand Projet,Yzmir,Repère Permanent,0
+150,R - Rare,EN - English,Grand Endeavor,Ordis,Repère Permanent,0
+150,R - Rare,FR - Français,Grand Projet,Ordis,Repère Permanent,1
+150,C - Commune,EN - English,Grand Endeavor,Ordis,Repère Permanent,0
+150,C - Commune,FR - Français,Grand Projet,Ordis,Repère Permanent,2
+151,H - Héro,EN - English,Akesha & Taru,Yzmir,,0
+151,H - Héro,FR - Français,Akesha & Taru,Yzmir,,1
+152,H - Héro,EN - English,Afanas & Senka,Yzmir,,1
+152,H - Héro,FR - Français,Afanas & Senka,Yzmir,,0
+153,H - Héro,EN - English,Lindiwe & Maw,Yzmir,,1
+153,H - Héro,FR - Français,Lindiwe & Maw,Yzmir,,3
+154,F - Transfuge,EN - English,Moonlight Jellyfish,Axiom,Personnage,0
+154,F - Transfuge,FR - Français,Méduse Lunaire,Axiom,Personnage,1
+154,R - Rare,EN - English,Moonlight Jellyfish,Yzmir,Personnage,0
+154,R - Rare,FR - Français,Méduse Lunaire,Yzmir,Personnage,0
+154,C - Commune,EN - English,Moonlight Jellyfish,Yzmir,Personnage,0
+154,C - Commune,FR - Français,Méduse Lunaire,Yzmir,Personnage,4
+155,F - Transfuge,EN - English,Studious Disciple,Lyra,Personnage,0
+155,F - Transfuge,FR - Français,Disciple Studieux,Lyra,Personnage,1
+155,R - Rare,EN - English,Studious Disciple,Yzmir,Personnage,0
+155,R - Rare,FR - Français,Disciple Studieux,Yzmir,Personnage,0
+155,C - Commune,EN - English,Studious Disciple,Yzmir,Personnage,0
+155,C - Commune,FR - Français,Disciple Studieux,Yzmir,Personnage,4
+156,F - Transfuge,EN - English,Kadigiran Mage-Dancer,Lyra,Personnage,0
+156,F - Transfuge,FR - Français,Mage-Danseur du Kadigir,Lyra,Personnage,1
+156,R - Rare,EN - English,Kadigiran Mage-Dancer,Yzmir,Personnage,0
+156,R - Rare,FR - Français,Mage-Danseur du Kadigir,Yzmir,Personnage,2
+156,C - Commune,EN - English,Kadigiran Mage-Dancer,Yzmir,Personnage,1
+156,C - Commune,FR - Français,Mage-Danseur du Kadigir,Yzmir,Personnage,0
+157,F - Transfuge,EN - English,Yzmir Stargazer,Axiom,Personnage,0
+157,F - Transfuge,FR - Français,Augure Yzmir,Axiom,Personnage,0
+157,R - Rare,EN - English,Yzmir Stargazer,Yzmir,Personnage,0
+157,R - Rare,FR - Français,Augure Yzmir,Yzmir,Personnage,0
+157,C - Commune,EN - English,Yzmir Stargazer,Yzmir,Personnage,0
+157,C - Commune,FR - Français,Augure Yzmir,Yzmir,Personnage,5
+158,F - Transfuge,EN - English,Lady of the Lake,Bravos,Personnage,0
+158,F - Transfuge,FR - Français,Dame du Lac,Bravos,Personnage,1
+158,R - Rare,EN - English,Lady of the Lake,Yzmir,Personnage,1
+158,R - Rare,FR - Français,Dame du Lac,Yzmir,Personnage,0
+158,C - Commune,EN - English,Lady of the Lake,Yzmir,Personnage,0
+158,C - Commune,FR - Français,Dame du Lac,Yzmir,Personnage,4
+159,F - Transfuge,EN - English,Tooth Fairy,Bravos,Personnage,0
+159,F - Transfuge,FR - Français,Fée des Dents,Bravos,Personnage,0
+159,R - Rare,EN - English,Tooth Fairy,Yzmir,Personnage,0
+159,R - Rare,FR - Français,Fée des Dents,Yzmir,Personnage,2
+159,C - Commune,EN - English,Tooth Fairy,Yzmir,Personnage,1
+159,C - Commune,FR - Français,Fée des Dents,Yzmir,Personnage,0
+160,F - Transfuge,EN - English,Kadigiran Alchemist,Ordis,Personnage,0
+160,F - Transfuge,FR - Français,Alchimiste du Kadigir,Ordis,Personnage,0
+160,R - Rare,EN - English,Kadigiran Alchemist,Yzmir,Personnage,0
+160,R - Rare,FR - Français,Alchimiste du Kadigir,Yzmir,Personnage,1
+160,C - Commune,EN - English,Kadigiran Alchemist,Yzmir,Personnage,0
+160,C - Commune,FR - Français,Alchimiste du Kadigir,Yzmir,Personnage,3
+161,F - Transfuge,EN - English,Baba Yaga,Ordis,Personnage,0
+161,F - Transfuge,FR - Français,Baba Yaga,Ordis,Personnage,0
+161,R - Rare,EN - English,Baba Yaga,Yzmir,Personnage,0
+161,R - Rare,FR - Français,Baba Yaga,Yzmir,Personnage,2
+161,C - Commune,EN - English,Baba Yaga,Yzmir,Personnage,1
+161,C - Commune,FR - Français,Baba Yaga,Yzmir,Personnage,3
+162,F - Transfuge,EN - English,Alice,Lyra,Personnage,0
+162,F - Transfuge,FR - Français,Alice,Lyra,Personnage,0
+162,R - Rare,EN - English,Alice,Yzmir,Personnage,0
+162,R - Rare,FR - Français,Alice,Yzmir,Personnage,2
+162,C - Commune,EN - English,Alice,Yzmir,Personnage,1
+162,C - Commune,FR - Français,Alice,Yzmir,Personnage,3
+163,F - Transfuge,EN - English,Baku,Axiom,Personnage,0
+163,F - Transfuge,FR - Français,Baku,Axiom,Personnage,0
+163,R - Rare,EN - English,Baku,Yzmir,Personnage,0
+163,R - Rare,FR - Français,Baku,Yzmir,Personnage,0
+163,C - Commune,EN - English,Baku,Yzmir,Personnage,1
+163,C - Commune,FR - Français,Baku,Yzmir,Personnage,0
+164,F - Transfuge,EN - English,Flamel,Lyra,Personnage,0
+164,F - Transfuge,FR - Français,Flamel,Lyra,Personnage,0
+164,R - Rare,EN - English,Flamel,Yzmir,Personnage,0
+164,R - Rare,FR - Français,Flamel,Yzmir,Personnage,0
+164,C - Commune,EN - English,Flamel,Yzmir,Personnage,2
+164,C - Commune,FR - Français,Flamel,Yzmir,Personnage,2
+165,F - Transfuge,EN - English,"Kuwat, the Dissenter",Ordis,Personnage,0
+165,F - Transfuge,FR - Français,"Kuwat, le Dissident",Ordis,Personnage,0
+165,R - Rare,EN - English,"Kuwat, the Dissenter",Yzmir,Personnage,0
+165,R - Rare,FR - Français,"Kuwat, le Dissident",Yzmir,Personnage,0
+165,C - Commune,EN - English,"Kuwat, the Dissenter",Yzmir,Personnage,1
+165,C - Commune,FR - Français,"Kuwat, le Dissident",Yzmir,Personnage,2
+166,F - Transfuge,EN - English,Dorothy Gale,Bravos,Personnage,0
+166,F - Transfuge,FR - Français,Dorothy Gale,Bravos,Personnage,2
+166,R - Rare,EN - English,Dorothy Gale,Yzmir,Personnage,0
+166,R - Rare,FR - Français,Dorothy Gale,Yzmir,Personnage,1
+166,C - Commune,EN - English,Dorothy Gale,Yzmir,Personnage,0
+166,C - Commune,FR - Français,Dorothy Gale,Yzmir,Personnage,4
+167,F - Transfuge,EN - English,Sakarabru,Bravos,Personnage,0
+167,F - Transfuge,FR - Français,Sakarabru,Bravos,Personnage,0
+167,R - Rare,EN - English,Sakarabru,Yzmir,Personnage,0
+167,R - Rare,FR - Français,Sakarabru,Yzmir,Personnage,1
+167,C - Commune,EN - English,Sakarabru,Yzmir,Personnage,0
+167,C - Commune,FR - Français,Sakarabru,Yzmir,Personnage,4
+168,F - Transfuge,EN - English,The Kraken,Ordis,Personnage,0
+168,F - Transfuge,FR - Français,Le Kraken,Ordis,Personnage,0
+168,R - Rare,EN - English,The Kraken,Yzmir,Personnage,0
+168,R - Rare,FR - Français,Le Kraken,Yzmir,Personnage,0
+168,C - Commune,EN - English,The Kraken,Yzmir,Personnage,0
+168,C - Commune,FR - Français,Le Kraken,Yzmir,Personnage,1
+169,F - Transfuge,EN - English,Magical Training,Lyra,Sort,0
+169,F - Transfuge,FR - Français,Entraînement Magique,Lyra,Sort,1
+169,R - Rare,EN - English,Magical Training,Ordis,Sort,0
+169,R - Rare,FR - Français,Entraînement Magique,Ordis,Sort,0
+169,C - Commune,EN - English,Magical Training,Ordis,Sort,0
+169,C - Commune,FR - Français,"Entraînement Magique               ",Ordis,Sort,3
+170,F - Transfuge,EN - English,Gift of Self,Ordis,Sort,0
+170,F - Transfuge,FR - Français,Don de Soi,Ordis,Sort,0
+170,R - Rare,EN - English,Gift of Self,Yzmir,Sort,0
+170,R - Rare,FR - Français,Don de Soi,Yzmir,Sort,0
+170,C - Commune,EN - English,Gift of Self,Yzmir,Sort,1
+170,C - Commune,FR - Français,Don de Soi,Yzmir,Sort,0
+171,F - Transfuge,EN - English,Spy Craft,Lyra,Sort,0
+171,F - Transfuge,FR - Français,Espionnage,Lyra,Sort,1
+171,R - Rare,EN - English,Spy Craft,Yzmir,Sort,0
+171,R - Rare,FR - Français,Espionnage,Yzmir,Sort,0
+171,C - Commune,EN - English,Spy Craft,Yzmir,Sort,0
+171,C - Commune,FR - Français,Espionnage,Yzmir,Sort,3
+172,F - Transfuge,EN - English,Off You Go!,Lyra,Sort,0
+172,F - Transfuge,FR - Français,Zou !,Lyra,Sort,1
+172,R - Rare,EN - English,Off You Go!,Yzmir,Sort,0
+172,R - Rare,FR - Français,Zou !,Yzmir,Sort,0
+172,C - Commune,EN - English,Off You Go!,Yzmir,Sort,0
+172,C - Commune,FR - Français,Zou !,Yzmir,Sort,6
+173,F - Transfuge,EN - English,Conjuring Seal,Ordis,Sort,0
+173,F - Transfuge,FR - Français,Sceau de Conjuration,Ordis,Sort,0
+173,R - Rare,EN - English,Conjuring Seal,Yzmir,Sort,0
+173,R - Rare,FR - Français,Sceau de Conjuration,Yzmir,Sort,0
+173,C - Commune,EN - English,Conjuring Seal,Yzmir,Sort,1
+173,C - Commune,FR - Français,Sceau de Conjuration,Yzmir,Sort,3
+174,F - Transfuge,EN - English,Banishing Gate,Ordis,Sort,0
+174,F - Transfuge,FR - Français,Portail de Bannissement,Ordis,Sort,0
+174,R - Rare,EN - English,Banishing Gate,Yzmir,Sort,0
+174,R - Rare,FR - Français,Portail de Bannissement,Yzmir,Sort,0
+174,C - Commune,EN - English,Banishing Gate,Yzmir,Sort,0
+174,C - Commune,FR - Français,Portail de Bannissement,Yzmir,Sort,4
+175,F - Transfuge,EN - English,Kraken’s Wrath,Axiom,Sort,0
+175,F - Transfuge,FR - Français,Furie de Kraken,Axiom,Sort,0
+175,R - Rare,EN - English,Kraken’s Wrath,Yzmir,Sort,0
+175,R - Rare,FR - Français,Furie de Kraken,Yzmir,Sort,0
+175,C - Commune,EN - English,Kraken’s Wrath,Yzmir,Sort,0
+175,C - Commune,FR - Français,Furie de Kraken,Yzmir,Sort,5
+176,F - Transfuge,EN - English,"Small Step, Giant Leap",Lyra,Sort,0
+176,F - Transfuge,FR - Français,"Petit Pas, Bond de Géant",Lyra,Sort,0
+176,R - Rare,EN - English,"Small Step, Giant Leap",Yzmir,Sort,0
+176,R - Rare,FR - Français,"Petit Pas, Bond de Géant",Yzmir,Sort,0
+176,C - Commune,EN - English,"Small Step, Giant Leap",Yzmir,Sort,0
+176,C - Commune,FR - Français,"Petit Pas, Bond de Géant",Yzmir,Sort,0
+177,F - Transfuge,EN - English,Celestial Blast,Ordis,Sort,0
+177,F - Transfuge,FR - Français,Explosion Céleste,Ordis,Sort,0
+177,R - Rare,EN - English,Celestial Blast,Yzmir,Sort,0
+177,R - Rare,FR - Français,Explosion Céleste,Yzmir,Sort,0
+177,C - Commune,EN - English,Celestial Blast,Yzmir,Sort,0
+177,C - Commune,FR - Français,Explosion Céleste,Yzmir,Sort,5
+178,F - Transfuge,EN - English,Baba’s Isba,Ordis,Repère Permanent,0
+178,F - Transfuge,FR - Français,L’Isba de Baba,Ordis,Repère Permanent,0
+178,R - Rare,EN - English,Baba’s Isba,Yzmir,Repère Permanent,0
+178,R - Rare,FR - Français,L’Isba de Baba,Yzmir,Repère Permanent,0
+178,C - Commune,EN - English,Baba’s Isba,Yzmir,Repère Permanent,0
+178,C - Commune,FR - Français,L’Isba de Baba,Yzmir,Repère Permanent,2
+179,F - Transfuge,EN - English,Aether Shard,Lyra,Repère Permanent,0
+179,F - Transfuge,FR - Français,Fragment d’Éther,Lyra,Repère Permanent,1
+179,R - Rare,EN - English,Aether Shard,Yzmir,Repère Permanent,0
+179,R - Rare,FR - Français,Fragment d’Éther,Yzmir,Repère Permanent,0
+179,C - Commune,EN - English,Aether Shard,Yzmir,Repère Permanent,0
+179,C - Commune,FR - Français,Fragment d’Éther,Yzmir,Repère Permanent,4
+180,F - Transfuge,FR - Français,"Le Kadigir, Bastion Yzmir",Lyra,Repère Permanent,0
+180,F - Transfuge,EN - English,"The Kadigir, Yzmir Bastion",Lyra,Repère Permanent,0
+180,R - Rare,FR - Français,"Le Kadigir, Bastion Yzmir",Yzmir,Repère Permanent,1
+180,R - Rare,EN - English,"The Kadigir, Yzmir Bastion",Yzmir,Repère Permanent,0
+180,C - Commune,EN - English,"The Kadigir, Yzmir Bastion",Yzmir,Repère Permanent,0
+180,C - Commune,FR - Français,"Le Kadigir, Bastion Yzmir",Yzmir,Repère Permanent,1

@@ -1,0 +1,1009 @@
+﻿Nom,Aguerrie,Capacité de Soutien,Code,Code de Type,Coriace,Cout Main,Cout Reserve,Défenseur,Eau,Faction,Feuille,Fleche,Formula,Fugace,Gigantesque,ID,Identifiant,Langue,Main,Possession,Reserve,Roche,Set,Type unité,Éternel
+Sierra & Oddball,No,No,BTG-001-H-FR,H - Héro,,,,No,,Axiom,,No,,No,No,1,MCA-1,FR - Français,No,1,No,,BTG - Au-delà des portes,,No
+Sierra & Oddball,No,No,BTG-001-H-EN,H - Héro,,,,No,,Axiom,,No,,No,No,1,MCA-2,EN - English,No,0,No,,BTG - Au-delà des portes,,No
+Subhash & Marmo,No,No,BTG-002-H-FR,H - Héro,,,,No,,Axiom,,No,,No,No,2,MCA-3,FR - Français,No,2,No,,BTG - Au-delà des portes,,No
+Subhash & Marmo,No,No,BTG-002-H-EN,H - Héro,,,,No,,Axiom,,No,,No,No,2,MCA-4,EN - English,No,1,No,,BTG - Au-delà des portes,,No
+Treyst & Rossum,No,No,BTG-003-H-FR,H - Héro,,,,No,,Axiom,,No,,No,No,3,MCA-5,FR - Français,No,4,No,,BTG - Au-delà des portes,,No
+Treyst & Rossum,No,No,BTG-003-H-EN,H - Héro,,,,No,,Axiom,,No,,No,No,3,MCA-6,EN - English,No,1,No,,BTG - Au-delà des portes,,No
+Mécanicienne de la Fonderie,No,Yes,BTG-004-C-FR,C - Commune,,1,1,No,1,Axiom,0,No,,No,No,4,MCA-7,FR - Français,No,3,No,1,BTG - Au-delà des portes,Personnage,No
+Foundry Mechanic,No,Yes,BTG-004-C-EN,C - Commune,,1,1,No,1,Axiom,0,No,,No,No,4,MCA-8,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Mécanicienne de la Fonderie,No,Yes,BTG-004-R-FR,R - Rare,,1,1,No,2,Axiom,1,No,,No,No,4,MCA-9,FR - Français,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Foundry Mechanic,No,Yes,BTG-004-R-EN,R - Rare,,1,1,No,2,Axiom,1,No,,No,No,4,MCA-10,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Mécanicienne de la Fonderie,No,Yes,BTG-004-F-FR,F - Transfuge,,1,1,No,2,Ordis,1,No,,No,No,4,MCA-11,FR - Français,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Récupérateur Axiom,No,No,BTG-005-F-FR,C - Commune,,1,2,No,1,Axiom,1,No,,No,No,5,MCA-12,FR - Français,No,5,Yes,1,BTG - Au-delà des portes,Personnage,No
+Foundry Mechanic,No,Yes,BTG-004-F-EN,F - Transfuge,,1,1,No,2,Ordis,1,No,,No,No,4,MCA-13,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Récupérateur Axiom,No,No,BTG-005-R-FR,R - Rare,,1,1,No,0,Axiom,1,No,,No,No,5,MCA-14,FR - Français,No,0,Yes,1,BTG - Au-delà des portes,Personnage,No
+Axiom Salvager,No,No,BTG-005-F-EN,C - Commune,,1,2,No,1,Axiom,1,No,,No,No,5,MCA-15,EN - English,No,1,Yes,1,BTG - Au-delà des portes,Personnage,No
+Axiom Salvager,No,No,BTG-005-R-EN,R - Rare,,1,1,No,0,Axiom,1,No,,No,No,5,MCA-16,EN - English,No,0,Yes,1,BTG - Au-delà des portes,Personnage,No
+Récupérateur Axiom,No,No,BTG-005-F-FR,F - Transfuge,,1,2,No,1,Bravos,1,No,,No,No,5,MCA-17,FR - Français,No,0,Yes,1,BTG - Au-delà des portes,Personnage,No
+Axiom Salvager,No,No,BTG-005-F-EN,F - Transfuge,,1,2,No,1,Bravos,1,No,,No,No,5,MCA-18,EN - English,No,0,Yes,1,BTG - Au-delà des portes,Personnage,No
+Ada Lovelace,No,No,BTG-006-C-FR,C - Commune,,2,2,No,1,Axiom,1,No,,No,No,6,MCA-19,FR - Français,No,4,Yes,3,BTG - Au-delà des portes,Personnage,No
+Ada Lovelace,No,No,BTG-006-R-FR,R - Rare,,2,2,No,1,Axiom,1,No,,No,No,6,MCA-20,FR - Français,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Ada Lovelace,No,No,BTG-006-C-EN,C - Commune,,2,2,No,1,Axiom,1,No,,No,No,6,MCA-21,EN - English,No,1,Yes,3,BTG - Au-delà des portes,Personnage,No
+Ada Lovelace,No,No,BTG-006-F-FR,F - Transfuge,,2,2,No,1,Yzmir,1,No,,No,No,6,MCA-22,FR - Français,No,0,Yes,3,BTG - Au-delà des portes,Personnage,No
+Ada Lovelace,No,No,BTG-006-R-EN,R - Rare,,2,2,No,1,Axiom,1,No,,No,No,6,MCA-23,EN - English,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Coppélia,No,No,BTG-007-C-FR,C - Commune,,2,2,No,0,Axiom,2,No,,No,No,7,MCA-24,FR - Français,No,4,No,2,BTG - Au-delà des portes,Personnage,No
+Ada Lovelace,No,No,BTG-006-F-EN,F - Transfuge,,2,2,No,1,Yzmir,1,No,,No,No,6,MCA-25,EN - English,No,0,Yes,3,BTG - Au-delà des portes,Personnage,No
+Coppélia,No,No,BTG-007-C-EN,C - Commune,,2,2,No,0,Axiom,2,No,,No,No,7,MCA-26,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Coppélia,No,No,BTG-007-R-FR,R - Rare,,2,2,No,0,Axiom,3,No,,No,No,7,MCA-27,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Coppélia,No,No,BTG-007-R-EN,R - Rare,,2,2,No,0,Axiom,3,No,,No,No,7,MCA-28,EN - English,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Coppélia,No,No,BTG-007-F-FR,F - Transfuge,,2,2,No,0,Muna,3,No,,No,No,7,MCA-29,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Coppélia,No,No,BTG-007-F-EN,F - Transfuge,,2,2,No,0,Muna,3,No,,No,No,7,MCA-30,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Ingénieure de la Fonderie,No,No,BTG-008-C-FR,C - Commune,,2,2,No,1,Axiom,2,No,,No,No,8,MCA-31,FR - Français,No,2,Yes,2,BTG - Au-delà des portes,Personnage,No
+Foundry Engineer,No,No,BTG-008-C-EN,C - Commune,,2,2,No,1,Axiom,2,No,,No,No,8,MCA-32,EN - English,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Ingénieure de la Fonderie,No,No,BTG-008-R-FR,R - Rare,,2,2,No,1,Axiom,2,No,,No,No,8,MCA-33,FR - Français,No,1,Yes,2,BTG - Au-delà des portes,Personnage,No
+Foundry Engineer,No,No,BTG-008-R-EN,R - Rare,,2,2,No,1,Axiom,2,No,,No,No,8,MCA-34,EN - English,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Foundry Engineer,No,No,BTG-008-R-EN,F - Transfuge,,2,2,No,1,Ordis,2,No,,No,No,8,MCA-35,EN - English,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Ingénieure de la Fonderie,No,No,BTG-008-R-FR,F - Transfuge,,2,2,No,1,Ordis,2,No,,No,No,8,MCA-36,FR - Français,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+"Jian, Superviseur d’Assemblage",No,No,BTG-009-C-FR,C - Commune,,2,2,No,0,Axiom,3,No,,No,No,9,MCA-37,FR - Français,No,3,No,2,BTG - Au-delà des portes,Personnage,No
+"Jian, Assembly Overseer",No,No,BTG-009-C-EN,C - Commune,,2,2,No,0,Axiom,3,No,,No,No,9,MCA-38,EN - English,No,2,No,2,BTG - Au-delà des portes,Personnage,No
+"Jian, Superviseur d’Assemblage",No,Yes,BTG-009-R-FR,R - Rare,,2,2,No,0,Axiom,3,No,,No,No,9,MCA-39,FR - Français,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+"Jian, Assembly Overseer",No,Yes,BTG-009-R-EN,R - Rare,,2,2,No,0,Axiom,3,No,,No,No,9,MCA-40,EN - English,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+"Jian, Superviseur d’Assemblage",No,Yes,BTG-009-F-FR,F - Transfuge,,2,2,No,0,Ordis,3,No,,No,No,9,MCA-41,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+"Jian, Assembly Overseer",No,Yes,BTG-009-F-EN,F - Transfuge,,2,2,No,0,Ordis,3,No,,No,No,9,MCA-42,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Élémentaire de Kélon,No,No,BTG-010-F-FR,C - Commune,,2,2,No,3,Axiom,1,No,,No,No,10,MCA-43,FR - Français,Yes,6,No,3,BTG - Au-delà des portes,Personnage,No
+Kelon Elemental,No,No,BTG-010-F-EN,C - Commune,,2,2,No,3,Axiom,1,No,,No,No,10,MCA-44,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Élémentaire de Kélon,No,No,BTG-010-R-FR,R - Rare,,2,2,No,3,Axiom,1,No,,No,No,10,MCA-45,FR - Français,Yes,1,No,3,BTG - Au-delà des portes,Personnage,No
+Kelon Elemental,No,No,BTG-010-R-EN,R - Rare,,2,2,No,3,Axiom,1,No,,No,No,10,MCA-46,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Élémentaire de Kélon,No,No,BTG-010-R-FR,F - Transfuge,,2,2,No,3,Muna,1,No,,No,No,10,MCA-47,FR - Français,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Kelon Elemental,No,No,BTG-010-R-EN,F - Transfuge,,2,2,No,3,Muna,1,No,,No,No,10,MCA-48,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Ogun,No,No,BTG-011-C-FR,C - Commune,,2,2,No,1,Axiom,2,Yes,,No,No,11,MCA-49,FR - Français,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Ogun,No,No,BTG-011-C-EN,C - Commune,,2,2,No,1,Axiom,2,Yes,,No,No,11,MCA-50,EN - English,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Ogun,No,No,BTG-011-R-FR,R - Rare,,2,2,No,1,Axiom,2,Yes,,No,No,11,MCA-51,FR - Français,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Ogun,No,No,BTG-011-R-EN,R - Rare,,2,2,No,1,Axiom,2,Yes,,No,No,11,MCA-52,EN - English,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Ogun,No,No,BTG-011-F-FR,F - Transfuge,,2,2,No,1,Muna,2,Yes,,No,No,11,MCA-53,FR - Français,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Ogun,No,No,BTG-011-F-EN,F - Transfuge,,2,2,No,1,Muna,2,Yes,,No,No,11,MCA-54,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Amelia Earhart,No,No,BTG-012-C-FR,C - Commune,,3,1,No,2,Axiom,2,No,,No,No,12,MCA-55,FR - Français,No,3,No,2,BTG - Au-delà des portes,Personnage,No
+Amelia Earhart,No,No,BTG-012-C-EN,C - Commune,,3,1,No,2,Axiom,2,No,,No,No,12,MCA-56,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Amelia Earhart,No,No,BTG-012-R-FR,R - Rare,,3,1,No,2,Axiom,2,No,,No,No,12,MCA-57,FR - Français,Yes,1,No,2,BTG - Au-delà des portes,Personnage,No
+Amelia Earhart,No,No,BTG-012-R-EN,R - Rare,,3,1,No,2,Axiom,2,No,,No,No,12,MCA-58,EN - English,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Amelia Earhart,No,No,BTG-012-F-FR,F - Transfuge,,3,1,No,2,Ordis,2,No,,No,No,12,MCA-59,FR - Français,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Amelia Earhart,No,No,BTG-012-F-EN,F - Transfuge,,3,1,No,2,Ordis,2,No,,No,No,12,MCA-60,EN - English,Yes,1,No,2,BTG - Au-delà des portes,Personnage,No
+Armurière de la Fonderie,No,No,BTG-013-C-FR,C - Commune,,3,3,No,2,Axiom,2,No,,No,No,12,MCA-61,FR - Français,No,3,Yes,2,BTG - Au-delà des portes,Personnage,No
+Foundry Armorer,No,No,BTG-013-C-EN,C - Commune,,3,3,No,2,Axiom,2,No,,No,No,12,MCA-62,EN - English,No,1,Yes,2,BTG - Au-delà des portes,Personnage,No
+Armurière de la Fonderie,No,No,BTG-013-R-FR,C - Commune,,3,3,No,2,Axiom,2,Yes,,No,No,13,MCA-63,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Foundry Armorer,No,No,BTG-013-R-EN,C - Commune,,3,3,No,2,Axiom,2,Yes,,No,No,13,MCA-64,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Armurière de la Fonderie,No,No,BTG-013-F-FR,F - Transfuge,,2,3,No,2,Bravos,2,No,,No,No,13,MCA-65,FR - Français,No,1,Yes,2,BTG - Au-delà des portes,Personnage,No
+Foundry Armorer,No,No,BTG-013-F-EN,F - Transfuge,,2,3,No,2,Bravos,2,No,,No,No,13,MCA-66,EN - English,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Trois Petits Cochons,No,No,BTG-014-C-FR,C - Commune,,3,3,No,3,Axiom,3,Yes,,No,No,14,MCA-67,FR - Français,No,3,No,3,BTG - Au-delà des portes,Personnage,No
+Three Little Pigs,No,No,BTG-014-C-EN,C - Commune,,3,3,No,3,Axiom,3,Yes,,No,No,14,MCA-68,EN - English,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Trois Petits Cochons,No,No,BTG-014-R-FR,R - Rare,,3,3,No,3,Axiom,3,Yes,,No,No,14,MCA-69,FR - Français,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Three Little Pigs,No,No,BTG-014-R-EN,R - Rare,,3,3,No,3,Axiom,3,Yes,,No,No,14,MCA-70,EN - English,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Trois Petits Cochons,No,No,BTG-014-F-FR,F - Transfuge,,3,3,No,3,Bravos,3,Yes,,No,No,14,MCA-71,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Three Little Pigs,No,No,BTG-014-F-EN,F - Transfuge,,3,3,No,3,Bravos,3,Yes,,No,No,14,MCA-72,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Fée Clochette,No,No,BTG-015-C-FR,C - Commune,,3,3,No,3,Axiom,1,No,,No,No,15,MCA-73,FR - Français,No,1,Yes,3,BTG - Au-delà des portes,Personnage,No
+Tinker Bell,No,No,BTG-015-C-EN,C - Commune,,3,3,No,3,Axiom,1,No,,No,No,15,MCA-74,EN - English,No,1,Yes,3,BTG - Au-delà des portes,Personnage,No
+Fée Clochette,No,No,BTG-015-R-FR,R - Rare,,2,3,No,3,Axiom,1,No,,No,No,15,MCA-75,FR - Français,No,0,Yes,3,BTG - Au-delà des portes,Personnage,No
+Tinker Bell,No,No,BTG-015-R-EN,R - Rare,,2,3,No,3,Axiom,1,No,,No,No,15,MCA-76,EN - English,No,0,Yes,3,BTG - Au-delà des portes,Personnage,No
+Fée Clochette,No,No,BTG-015-F-FR,F - Transfuge,,2,3,No,3,Lyra,1,No,,No,No,15,MCA-77,FR - Français,No,0,Yes,3,BTG - Au-delà des portes,Personnage,No
+Tinker Bell,No,No,BTG-015-F-EN,F - Transfuge,,2,3,No,3,Lyra,1,No,,No,No,15,MCA-78,EN - English,No,0,Yes,3,BTG - Au-delà des portes,Personnage,No
+Brouilleur Axiom,No,No,BTG-016-C-FR,C - Commune,,4,3,No,2,Axiom,2,No,,No,No,16,MCA-79,FR - Français,Yes,3,No,4,BTG - Au-delà des portes,Personnage,No
+Axiom Scrambler,No,No,BTG-016-C-EN,C - Commune,,4,3,No,2,Axiom,2,No,,No,No,16,MCA-80,EN - English,Yes,1,No,4,BTG - Au-delà des portes,Personnage,No
+Brouilleur Axiom,No,No,BTG-016-R-FR,R - Rare,,3,3,No,2,Axiom,2,No,,No,No,16,MCA-81,FR - Français,Yes,1,No,4,BTG - Au-delà des portes,Personnage,No
+Axiom Scrambler,No,No,BTG-016-R-EN,R - Rare,,3,3,No,2,Axiom,2,No,,No,No,16,MCA-82,EN - English,Yes,0,No,4,BTG - Au-delà des portes,Personnage,No
+Brouilleur Axiom,No,No,BTG-016-F-FR,F - Transfuge,,4,3,No,2,Muna,2,No,,No,No,16,MCA-83,FR - Français,Yes,0,No,4,BTG - Au-delà des portes,Personnage,No
+Axiom Scrambler,No,No,BTG-016-F-EN,F - Transfuge,,4,3,No,2,Muna,2,No,,No,No,16,MCA-84,EN - English,Yes,0,No,4,BTG - Au-delà des portes,Personnage,No
+Dr Frankenstein,No,No,BTG-017-C-FR,C - Commune,,4,3,No,3,Axiom,3,No,,No,No,17,MCA-85,FR - Français,No,2,Yes,3,BTG - Au-delà des portes,Personnage,No
+Dr. Frankenstein,No,No,BTG-017-C-EN,C - Commune,,4,3,No,3,Axiom,3,No,,No,No,17,MCA-86,EN - English,No,1,Yes,3,BTG - Au-delà des portes,Personnage,No
+Dr Frankenstein,No,No,BTG-017-R-FR,R - Rare,,4,2,No,3,Axiom,3,No,,No,No,17,MCA-87,FR - Français,No,0,Yes,3,BTG - Au-delà des portes,Personnage,No
+Dr. Frankenstein,No,No,BTG-017-R-EN,R - Rare,,4,2,No,3,Axiom,3,No,,No,No,17,MCA-88,EN - English,No,1,Yes,3,BTG - Au-delà des portes,Personnage,No
+Dr Frankenstein,No,No,BTG-017-F-FR,F - Transfuge,,4,2,No,3,Lyra,3,No,,No,No,17,MCA-89,FR - Français,No,1,Yes,3,BTG - Au-delà des portes,Personnage,No
+Dr. Frankenstein,No,No,BTG-017-F-EN,F - Transfuge,,4,2,No,3,Lyra,3,No,,No,No,17,MCA-90,EN - English,No,0,Yes,3,BTG - Au-delà des portes,Personnage,No
+Athéna,No,No,BTG-018-C-FR,C - Commune,,5,3,No,4,Axiom,3,No,,No,No,18,MCA-91,FR - Français,No,3,Yes,4,BTG - Au-delà des portes,Personnage,No
+Athena,No,No,BTG-018-C-EN,C - Commune,,5,3,No,4,Axiom,3,No,,No,No,18,MCA-92,EN - English,No,0,Yes,4,BTG - Au-delà des portes,Personnage,No
+Athéna,No,No,BTG-018-R-FR,R - Rare,,5,3,No,4,Axiom,3,No,,No,No,18,MCA-93,FR - Français,Yes,0,Yes,4,BTG - Au-delà des portes,Personnage,No
+Athena,No,No,BTG-018-R-EN,R - Rare,,5,3,No,4,Axiom,3,No,,No,No,18,MCA-94,EN - English,Yes,1,Yes,4,BTG - Au-delà des portes,Personnage,No
+Athéna,No,No,BTG-018-F-FR,F - Transfuge,,5,3,No,4,Ordis,3,No,,No,No,18,MCA-95,FR - Français,Yes,1,Yes,4,BTG - Au-delà des portes,Personnage,No
+Athena,No,No,BTG-018-F-EN,F - Transfuge,,5,3,No,4,Ordis,3,No,,No,No,18,MCA-96,EN - English,Yes,0,Yes,4,BTG - Au-delà des portes,Personnage,No
+Ganesh,No,No,BTG-019-C-FR,C - Commune,,7,7,No,5,Axiom,5,Yes,,No,No,19,MCA-97,FR - Français,No,2,No,5,BTG - Au-delà des portes,Personnage,No
+Ganesha,No,No,BTG-019-C-EN,C - Commune,,7,7,No,5,Axiom,5,Yes,,No,No,19,MCA-98,EN - English,No,1,No,5,BTG - Au-delà des portes,Personnage,No
+Ganesh,No,No,BTG-019-R-FR,R - Rare,,6,6,No,4,Axiom,4,Yes,,No,No,19,MCA-99,FR - Français,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Ganesha,No,No,BTG-019-R-EN,R - Rare,,6,6,No,4,Axiom,4,Yes,,No,No,19,MCA-100,EN - English,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Ganesh,No,No,BTG-019-F-FR,F - Transfuge,,7,7,No,5,Muna,5,Yes,,No,No,19,MCA-101,FR - Français,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Ganesha,No,No,BTG-019-F-EN,F - Transfuge,,7,7,No,5,Muna,5,Yes,,No,No,19,MCA-102,EN - English,No,1,No,5,BTG - Au-delà des portes,Personnage,No
+Happé,No,No,BTG-020-C-FR,C - Commune,,1,2,No,,Axiom,,No,,No,No,20,MCA-103,FR - Français,No,2,No,,BTG - Au-delà des portes,Sort,No
+Hooked,No,No,BTG-020-C-EN,C - Commune,,1,2,No,,Axiom,,No,,No,No,20,MCA-104,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Happé,No,No,BTG-020-R-FR,R - Rare,,2,2,No,,Axiom,,No,,No,No,20,MCA-105,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Hooked,No,No,BTG-020-R-EN,R - Rare,,2,2,No,,Axiom,,No,,No,No,20,MCA-106,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Happé,No,No,BTG-020-F-FR,F - Transfuge,,1,2,No,,Lyra,,No,,No,No,20,MCA-107,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Hooked,No,No,BTG-020-F-EN,F - Transfuge,,1,2,No,,Lyra,,No,,No,No,20,MCA-108,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Entraînement Mécanique,No,No,BTG-021-C-FR,C - Commune,,1,2,No,,Axiom,,No,,No,No,21,MCA-109,FR - Français,No,2,No,,BTG - Au-delà des portes,Sort,No
+Mechanical Training,No,No,BTG-021-C-EN,C - Commune,,1,2,No,,Axiom,,No,,No,No,21,MCA-110,EN - English,No,1,No,,BTG - Au-delà des portes,Sort,No
+Entraînement Mécanique,No,No,BTG-021-R-FR,R - Rare,,2,2,No,,Axiom,,No,,No,No,21,MCA-111,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+Mechanical Training,No,No,BTG-021-R-EN,R - Rare,,2,2,No,,Axiom,,No,,No,No,21,MCA-112,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Entraînement Mécanique,No,No,BTG-021-F-FR,F - Transfuge,,2,2,No,,Muna,,No,,No,No,21,MCA-113,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Mechanical Training,No,No,BTG-021-F-EN,F - Transfuge,,2,2,No,,Muna,,No,,No,No,21,MCA-114,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Boum!,No,No,BTG-022-C-FR,C - Commune,,3,3,No,,Axiom,,No,,Yes,No,22,MCA-115,FR - Français,No,2,No,,BTG - Au-delà des portes,Sort,No
+Boom!,No,No,BTG-022-C-EN,C - Commune,,3,3,No,,Axiom,,No,,Yes,No,22,MCA-116,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Boum!,No,No,BTG-022-R-FR,R - Rare,,3,3,No,,Axiom,,No,,Yes,No,22,MCA-117,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+Boom!,No,No,BTG-022-R-EN,R - Rare,,3,3,No,,Axiom,,No,,Yes,No,22,MCA-118,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Boum!,No,No,BTG-022-F-FR,F - Transfuge,,3,3,No,,Yzmir,,No,,Yes,No,22,MCA-119,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Boom!,No,No,BTG-022-F-EN,F - Transfuge,,3,3,No,,Yzmir,,No,,Yes,No,22,MCA-120,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Décharge de Kélon,No,No,BTG-023-C-FR,C - Commune,,3,3,No,,Axiom,,No,,Yes,No,23,MCA-121,FR - Français,No,5,No,,BTG - Au-delà des portes,Sort,No
+Kelon Burst,No,No,BTG-023-C-EN,C - Commune,,3,3,No,,Axiom,,No,,Yes,No,23,MCA-122,EN - English,No,1,No,,BTG - Au-delà des portes,Sort,No
+Décharge de Kélon,No,No,BTG-023-R-FR,R - Rare,,4,4,No,,Axiom,,No,,Yes,No,23,MCA-123,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Kelon Burst,No,No,BTG-023-R-EN,R - Rare,,4,4,No,,Axiom,,No,,Yes,No,23,MCA-124,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Décharge de Kélon,No,No,BTG-023-F-FR,F - Transfuge,,3,3,No,,Ordis,,No,,Yes,No,23,MCA-125,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+Kelon Burst,No,No,BTG-023-F-EN,F - Transfuge,,3,3,No,,Ordis,,No,,Yes,No,23,MCA-126,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Cylindre de Kélon,No,No,BTG-024-F-FR,C - Commune,,1,1,No,,Axiom,,No,,No,No,24,MCA-127,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Kelon Cylinder,No,No,BTG-024-F-EN,C - Commune,,1,1,No,,Axiom,,No,,No,No,24,MCA-128,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Cylindre de Kélon,No,No,BTG-024-R-FR,R - Rare,,1,1,No,,Axiom,,Yes,,No,No,24,MCA-129,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Kelon Cylinder,No,No,BTG-024-R-EN,R - Rare,,1,1,No,,Axiom,,Yes,,No,No,24,MCA-130,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Cylindre de Kélon,No,No,BTG-024-F-FR,F - Transfuge,,1,1,No,,Bravos,,No,,No,No,24,MCA-131,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Kelon Cylinder,No,No,BTG-024-F-EN,F - Transfuge,,1,1,No,,Bravos,,No,,No,No,24,MCA-132,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Brouilleur Blindé,No,No,BTG-025-C-FR,C - Commune,,2,2,No,,Axiom,,Yes,,No,No,25,MCA-133,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Armored Jammer,No,No,BTG-025-C-EN,C - Commune,,2,2,No,,Axiom,,Yes,,No,No,25,MCA-134,EN - English,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Brouilleur Blindé,No,No,BTG-025-R-FR,R - Rare,,2,2,No,,Axiom,,Yes,,No,No,25,MCA-135,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Armored Jammer,No,No,BTG-025-R-EN,R - Rare,,2,2,No,,Axiom,,Yes,,No,No,25,MCA-136,EN - English,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Brouilleur Blindé,No,No,BTG-025-F-FR,F - Transfuge,,2,2,No,,Ordis,,Yes,,No,No,25,MCA-137,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Armored Jammer,No,No,BTG-025-F-EN,F - Transfuge,,2,2,No,,Ordis,,Yes,,No,No,25,MCA-138,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Hub des Scarabots,No,No,BTG-026-C-FR,C - Commune,,3,3,No,,Axiom,,Yes,,No,No,26,MCA-139,FR - Français,No,4,No,,BTG - Au-delà des portes,Repère Permanent,No
+Brassbug Hub,No,No,BTG-026-C-EN,C - Commune,,3,3,No,,Axiom,,Yes,,No,No,26,MCA-140,EN - English,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Hub des Scarabots,No,No,BTG-026-R-FR,R - Rare,,2,2,No,,Axiom,,Yes,,No,No,26,MCA-141,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Brassbug Hub,No,No,BTG-026-R-EN,R - Rare,,2,2,No,,Axiom,,Yes,,No,No,26,MCA-142,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Hub des Scarabots,No,No,BTG-026-F-FR,F - Transfuge,,2,2,No,,Ordis,,Yes,,No,No,26,MCA-143,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Brassbug Hub,No,No,BTG-026-F-EN,F - Transfuge,,2,2,No,,Ordis,,Yes,,No,No,26,MCA-144,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Générateur Kélonique,No,No,BTG-027-C-FR,C - Commune,,3,3,No,,Axiom,,No,,No,No,27,MCA-145,FR - Français,No,2,No,,BTG - Au-delà des portes,Repère Permanent,No
+Kelonic Generator,No,No,BTG-027-C-EN,C - Commune,,3,3,No,,Axiom,,No,,No,No,27,MCA-146,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Générateur Kélonique,No,No,BTG-027-R-FR,R - Rare,,4,4,No,,Axiom,,No,,No,No,27,MCA-147,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Kelonic Generator,No,No,BTG-027-R-EN,R - Rare,,4,4,No,,Axiom,,No,,No,No,27,MCA-148,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Générateur Kélonique,No,No,BTG-027-F-FR,F - Transfuge,,4,4,No,,Ordis,,No,,No,No,27,MCA-149,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Kelonic Generator,No,No,BTG-027-F-EN,F - Transfuge,,4,4,No,,Ordis,,No,,No,No,27,MCA-150,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+"La fonderie, Bastion Axiom",No,No,BTG-028-C-FR,C - Commune,,3,3,No,,Axiom,,No,,No,No,28,MCA-151,FR - Français,No,3,No,,BTG - Au-delà des portes,Repère Permanent,No
+"The Foundry, Axiom Bastion",No,No,BTG-028-C-EN,C - Commune,,3,3,No,,Axiom,,No,,No,No,28,MCA-152,EN - English,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+"La fonderie, Bastion Axiom",No,No,BTG-028-R-FR,R - Rare,,4,4,No,,Axiom,,Yes,,No,No,28,MCA-153,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+"The Foundry, Axiom Bastion",No,No,BTG-028-R-EN,R - Rare,,4,4,No,,Axiom,,Yes,,No,No,28,MCA-154,EN - English,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+"La fonderie, Bastion Axiom",No,No,BTG-028-F-FR,F - Transfuge,,3,3,No,,Bravos,,No,,No,No,28,MCA-155,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+"The Foundry, Axiom Bastion",No,No,BTG-028-F-EN,F - Transfuge,,3,3,No,,Bravos,,No,,No,No,28,MCA-156,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Recycleur Axiom,No,No,BTG-029-C-FR,C - Commune,,4,4,No,,Axiom,,No,,No,No,29,MCA-157,FR - Français,No,3,No,,BTG - Au-delà des portes,Repère Permanent,No
+Axiom Reprocessor,No,No,BTG-029-C-EN,C - Commune,,4,4,No,,Axiom,,No,,No,No,29,MCA-158,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Recycleur Axiom,No,No,BTG-029-R-FR,R - Rare,,4,4,No,,Axiom,,Yes,,No,No,29,MCA-159,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Axiom Reprocessor,No,No,BTG-029-R-EN,R - Rare,,4,4,No,,Axiom,,Yes,,No,No,29,MCA-160,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Recycleur Axiom,No,No,BTG-029-R-FR,F - Transfuge,,4,4,No,,Muna,,No,,No,No,29,MCA-161,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Axiom Reprocessor,No,No,BTG-029-R-EN,F - Transfuge,,4,4,No,,Muna,,No,,No,No,29,MCA-162,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Ruche des Scarabots,No,No,BTG-030-C-FR,C - Commune,,5,5,No,,Axiom,,Yes,,No,No,30,MCA-163,FR - Français,No,7,No,,BTG - Au-delà des portes,Repère Permanent,No
+Brassbug Hive,No,No,BTG-030-C-EN,C - Commune,,5,5,No,,Axiom,,Yes,,No,No,30,MCA-164,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Ruche des Scarabots,No,No,BTG-030-R-FR,R - Rare,,6,6,No,,Axiom,,Yes,,No,No,30,MCA-165,FR - Français,No,2,No,,BTG - Au-delà des portes,Repère Permanent,No
+Brassbug Hive,No,No,BTG-030-R-EN,R - Rare,,6,6,No,,Axiom,,Yes,,No,No,30,MCA-166,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Ruche des Scarabots,No,No,BTG-030-F-FR,F - Transfuge,,5,5,No,,Yzmir,,Yes,,No,No,30,MCA-167,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Brassbug Hive,No,No,BTG-030-F-EN,F - Transfuge,,5,5,No,,Yzmir,,Yes,,No,No,30,MCA-168,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Kojo & Booda,No,No,BTG-031-H-FR,H - Héro,,,,No,,Bravos,,No,,No,No,31,MCA-169,FR - Français,No,4,No,,BTG - Au-delà des portes,,No
+Kojo & Booda,No,No,BTG-031-H-EN,H - Héro,,,,No,,Bravos,,No,,No,No,31,MCA-170,EN - English,No,1,No,,BTG - Au-delà des portes,,No
+Atsadi & Surge,No,No,BTG-032-H-FR,H - Héro,,,,No,,Bravos,,No,,No,No,32,MCA-171,FR - Français,No,4,No,,BTG - Au-delà des portes,,No
+Atsadi & Surge,No,No,BTG-032-H-EN,H - Héro,,,,No,,Bravos,,No,,No,No,32,MCA-172,EN - English,No,1,No,,BTG - Au-delà des portes,,No
+Basira & Kaizaimon,No,No,BTG-033-H-FR,H - Héro,,,,No,,Bravos,,No,,No,No,33,MCA-173,FR - Français,No,1,No,,BTG - Au-delà des portes,,No
+Basira & Kaizaimon,No,No,BTG-033-H-EN,H - Héro,,,,No,,Bravos,,No,,No,No,33,MCA-174,EN - English,No,0,No,,BTG - Au-delà des portes,,No
+Issun-bōshi,No,Yes,BTG-034-C-FR,C - Commune,,1,1,No,2,Bravos,0,No,,No,No,34,MCA-175,FR - Français,No,4,No,0,BTG - Au-delà des portes,Personnage,No
+Issun-bōshi,No,Yes,BTG-034-C-EN,C - Commune,,1,1,No,2,Bravos,0,No,,No,No,34,MCA-176,EN - English,No,1,No,0,BTG - Au-delà des portes,Personnage,No
+Issun-bōshi,No,Yes,BTG-034-R-FR,R - Rare,,1,2,No,2,Bravos,0,No,,No,No,34,MCA-177,FR - Français,No,0,Yes,0,BTG - Au-delà des portes,Personnage,No
+Issun-bōshi,No,Yes,BTG-034-R-EN,R - Rare,,1,2,No,2,Bravos,0,No,,No,No,34,MCA-178,EN - English,No,0,Yes,0,BTG - Au-delà des portes,Personnage,No
+Issun-bōshi,No,Yes,BTG-034-F-FR,F - Transfuge,,1,2,No,2,Muna,0,No,,No,No,34,MCA-179,FR - Français,No,0,Yes,0,BTG - Au-delà des portes,Personnage,No
+Issun-bōshi,No,Yes,BTG-034-F-EN,F - Transfuge,,1,2,No,2,Muna,0,No,,No,No,34,MCA-180,EN - English,No,0,Yes,0,BTG - Au-delà des portes,Personnage,No
+Danseuse de Lames Bravos,Yes,No,BTG-035-C-FR,C - Commune,,1,3,No,0,Bravos,0,Yes,,No,No,35,MCA-181,FR - Français,No,2,No,0,BTG - Au-delà des portes,Personnage,No
+Bravos Bladedance,Yes,No,BTG-035-C-EN,C - Commune,,1,3,No,0,Bravos,0,Yes,,No,No,35,MCA-182,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Danseuse de Lames Bravos,Yes,No,BTG-035-R-FR,R - Rare,,1,3,No,0,Bravos,0,Yes,,No,No,35,MCA-183,FR - Français,No,1,Yes,0,BTG - Au-delà des portes,Personnage,No
+Bravos Bladedance,Yes,No,BTG-035-R-EN,R - Rare,,1,3,No,0,Bravos,0,Yes,,No,No,35,MCA-184,EN - English,No,0,Yes,0,BTG - Au-delà des portes,Personnage,No
+Danseuse de Lames Bravos,Yes,No,BTG-035-F-FR,F - Transfuge,,1,2,No,0,Yzmir,0,Yes,,No,No,35,MCA-185,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Bravos Bladedance,Yes,No,BTG-035-F-EN,F - Transfuge,,1,2,No,0,Yzmir,0,Yes,,No,No,35,MCA-186,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Ratatosk,No,No,BTG-036-C-FR,C - Commune,,1,3,No,1,Bravos,1,No,,No,No,36,MCA-187,FR - Français,No,3,Yes,1,BTG - Au-delà des portes,Personnage,No
+Ratatoskr,No,No,BTG-036-C-EN,C - Commune,,1,3,No,1,Bravos,1,No,,No,No,36,MCA-188,EN - English,No,1,Yes,1,BTG - Au-delà des portes,Personnage,No
+Ratatosk,No,No,BTG-036-R-FR,R - Rare,,1,3,No,1,Bravos,1,No,,No,No,36,MCA-189,FR - Français,No,3,Yes,1,BTG - Au-delà des portes,Personnage,No
+Ratatoskr,No,No,BTG-036-R-EN,R - Rare,,1,3,No,1,Bravos,1,No,,No,No,36,MCA-190,EN - English,No,0,Yes,1,BTG - Au-delà des portes,Personnage,No
+Ratatosk,No,No,BTG-036-F-FR,F - Transfuge,,1,3,No,1,Ordis,1,No,,No,No,36,MCA-191,FR - Français,No,1,Yes,1,BTG - Au-delà des portes,Personnage,No
+Ratatoskr,No,No,BTG-036-F-EN,F - Transfuge,,1,3,No,1,Ordis,1,No,,No,No,36,MCA-192,EN - English,No,0,Yes,1,BTG - Au-delà des portes,Personnage,No
+Pionnière Bravos,No,No,BTG-037-C-FR,C - Commune,,2,2,No,3,Bravos,0,No,,No,No,37,MCA-193,FR - Français,No,4,No,3,BTG - Au-delà des portes,Personnage,No
+Bravos Pathfinder,No,No,BTG-037-C-EN,C - Commune,,2,2,No,3,Bravos,0,No,,No,No,37,MCA-194,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Pionnière Bravos,Yes,No,BTG-037-R-FR,R - Rare,,2,2,No,3,Bravos,0,No,,No,No,37,MCA-195,FR - Français,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Bravos Pathfinder,Yes,No,BTG-037-R-EN,R - Rare,,2,2,No,3,Bravos,0,No,,No,No,37,MCA-196,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Pionnière Bravos,No,No,BTG-037-F-FR,F - Transfuge,,2,2,No,3,Lyra,0,No,,No,No,37,MCA-197,FR - Français,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Bravos Pathfinder,No,No,BTG-037-F-EN,F - Transfuge,,2,2,No,3,Lyra,0,No,,No,No,37,MCA-198,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Traceuse Bravos,No,No,BTG-038-C-FR,C - Commune,,2,2,No,3,Bravos,3,Yes,,Yes,No,38,MCA-199,FR - Français,No,4,No,3,BTG - Au-delà des portes,Personnage,No
+Bravos Tracer,No,No,BTG-038-C-EN,C - Commune,,2,2,No,3,Bravos,3,Yes,,Yes,No,38,MCA-200,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Traceuse Bravos,No,No,BTG-038-R-FR,R - Rare,,2,2,No,4,Bravos,4,Yes,,Yes,No,38,MCA-201,FR - Français,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Bravos Tracer,No,No,BTG-038-R-EN,R - Rare,,2,2,No,4,Bravos,4,Yes,,Yes,No,38,MCA-202,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Traceuse Bravos,No,No,BTG-038-F-FR,F - Transfuge,,2,2,No,3,Axiom,3,Yes,,Yes,No,38,MCA-203,FR - Français,No,2,No,3,BTG - Au-delà des portes,Personnage,No
+Bravos Tracer,No,No,BTG-038-F-EN,F - Transfuge,,2,2,No,3,Axiom,3,Yes,,Yes,No,38,MCA-204,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Chiron,No,No,BTG-039-C-FR,C - Commune,,2,2,No,1,Bravos,1,Yes,,No,No,39,MCA-205,FR - Français,No,2,No,1,BTG - Au-delà des portes,Personnage,No
+Chiron,No,No,BTG-039-C-EN,C - Commune,,2,2,No,1,Bravos,1,Yes,,No,No,39,MCA-206,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Chiron,No,No,BTG-039-R-FR,R - Rare,,2,2,No,0,Bravos,1,Yes,,No,No,39,MCA-207,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Chiron,No,No,BTG-039-R-EN,R - Rare,,2,2,No,0,Bravos,1,Yes,,No,No,39,MCA-208,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Chiron,No,No,BTG-039-F-FR,F - Transfuge,,2,2,No,0,Muna,1,Yes,,No,No,39,MCA-209,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Chiron,No,No,BTG-039-F-EN,F - Transfuge,,2,2,No,0,Muna,1,Yes,,No,No,39,MCA-210,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Red,Yes,No,BTG-040-C-FR,C - Commune,,2,2,No,2,Bravos,2,No,,No,No,40,MCA-211,FR - Français,No,2,No,2,BTG - Au-delà des portes,Personnage,No
+Red,Yes,No,BTG-040-C-EN,C - Commune,,2,2,No,2,Bravos,2,No,,No,No,40,MCA-212,EN - English,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Red,Yes,No,BTG-040-R-FR,R - Rare,,2,3,No,2,Bravos,2,No,,No,No,40,MCA-213,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Red,Yes,No,BTG-040-R-EN,R - Rare,,2,3,No,2,Bravos,2,No,,No,No,40,MCA-214,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Red,Yes,No,BTG-040-F-FR,F - Transfuge,,2,2,No,2,Yzmir,2,No,,No,No,40,MCA-215,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Red,Yes,No,BTG-040-F-EN,F - Transfuge,,2,2,No,2,Yzmir,2,No,,No,No,40,MCA-216,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Petit Djinn,No,No,BTG-041-C-FR,C - Commune,,2,3,No,0,Bravos,0,No,,No,No,41,MCA-217,FR - Français,No,2,Yes,3,BTG - Au-delà des portes,Personnage,No
+Tiny Jinn,No,No,BTG-041-C-EN,C - Commune,,2,3,No,0,Bravos,0,No,,No,No,41,MCA-218,EN - English,No,0,Yes,3,BTG - Au-delà des portes,Personnage,No
+Petit Djinn,No,No,BTG-041-R-FR,R - Rare,,1,2,No,0,Bravos,0,No,,No,No,41,MCA-219,FR - Français,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Tiny Jinn,No,No,BTG-041-R-EN,R - Rare,,1,2,No,0,Bravos,0,No,,No,No,41,MCA-220,EN - English,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Petit Djinn,No,No,BTG-041-F-FR,F - Transfuge,,2,3,No,0,Muna,0,No,,No,No,41,MCA-221,FR - Français,No,0,Yes,3,BTG - Au-delà des portes,Personnage,No
+Tiny Jinn,No,No,BTG-041-F-EN,F - Transfuge,,2,3,No,0,Muna,0,No,,No,No,41,MCA-222,EN - English,No,1,Yes,3,BTG - Au-delà des portes,Personnage,No
+Aspirant de Havre,No,No,BTG-042-C-FR,C - Commune,,2,4,No,1,Bravos,3,No,,No,No,42,MCA-223,FR - Français,No,5,Yes,1,BTG - Au-delà des portes,Personnage,No
+Haven Trainee,No,No,BTG-042-C-EN,C - Commune,,2,4,No,1,Bravos,3,No,,No,No,42,MCA-224,EN - English,No,1,Yes,1,BTG - Au-delà des portes,Personnage,No
+Aspirant de Havre,No,Yes,BTG-042-R-FR,R - Rare,,2,4,No,1,Bravos,3,No,,No,No,42,MCA-225,FR - Français,No,1,Yes,1,BTG - Au-delà des portes,Personnage,No
+Haven Trainee,No,Yes,BTG-042-R-EN,R - Rare,,2,4,No,1,Bravos,3,No,,No,No,42,MCA-226,EN - English,No,0,Yes,1,BTG - Au-delà des portes,Personnage,No
+Aspirant de Havre,No,No,BTG-042-F-FR,F - Transfuge,,2,4,No,1,Ordis,3,No,,No,No,42,MCA-227,FR - Français,No,0,Yes,1,BTG - Au-delà des portes,Personnage,No
+Haven Trainee,No,No,BTG-042-F-EN,F - Transfuge,,2,4,No,1,Ordis,3,No,,No,No,42,MCA-228,EN - English,No,0,Yes,1,BTG - Au-delà des portes,Personnage,No
+Avant-Garde Bravos,No,No,BTG-043-C-FR,C - Commune,,3,3,No,2,Bravos,4,Yes,,No,No,43,MCA-229,FR - Français,No,3,No,2,BTG - Au-delà des portes,Personnage,No
+Bravos Vanguard,No,No,BTG-043-C-EN,C - Commune,,3,3,No,2,Bravos,4,Yes,,No,No,43,MCA-230,EN - English,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Avant-Garde Bravos,No,No,BTG-043-R-FR,R - Rare,,3,3,No,2,Bravos,4,Yes,,No,No,43,MCA-231,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Bravos Vanguard,No,No,BTG-043-R-EN,R - Rare,,3,3,No,2,Bravos,4,Yes,,No,No,43,MCA-232,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Avant-Garde Bravos,No,No,BTG-043-F-FR,F - Transfuge,,3,3,No,2,Axiom,4,Yes,,No,No,43,MCA-233,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Bravos Vanguard,No,No,BTG-043-F-EN,F - Transfuge,,3,3,No,2,Axiom,4,Yes,,No,No,43,MCA-234,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Videuse Bravos,No,No,BTG-044-C-FR,C - Commune,,3,3,No,2,Bravos,2,No,,No,No,44,MCA-235,FR - Français,Yes,3,Yes,2,BTG - Au-delà des portes,Personnage,No
+Haven Bouncer,No,No,BTG-044-C-EN,C - Commune,,3,3,No,2,Bravos,2,No,,No,No,44,MCA-236,EN - English,Yes,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Videuse Bravos,No,No,BTG-044-R-FR,R - Rare,,3,3,No,2,Bravos,2,No,,No,No,44,MCA-237,FR - Français,Yes,1,Yes,2,BTG - Au-delà des portes,Personnage,No
+Haven Bouncer,No,No,BTG-044-R-EN,R - Rare,,3,3,No,2,Bravos,2,No,,No,No,44,MCA-238,EN - English,Yes,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Videuse Bravos,No,No,BTG-044-F-FR,F - Transfuge,,3,3,No,2,Axiom,2,No,,No,No,44,MCA-239,FR - Français,Yes,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Haven Bouncer,No,No,BTG-044-F-EN,F - Transfuge,,3,3,No,2,Axiom,2,No,,No,No,44,MCA-240,EN - English,Yes,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Guerrière de Havre,No,No,BTG-045-C-FR,C - Commune,,3,3,No,4,Bravos,4,No,,No,No,45,MCA-241,FR - Français,No,2,No,2,BTG - Au-delà des portes,Personnage,No
+Haven Warrior,No,No,BTG-045-C-EN,C - Commune,,3,3,No,4,Bravos,4,No,,No,No,45,MCA-242,EN - English,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Guerrière de Havre,No,Yes,BTG-045-R-FR,R - Rare,,3,3,No,4,Bravos,4,No,,No,No,45,MCA-243,FR - Français,No,1,No,4,BTG - Au-delà des portes,Personnage,No
+Haven Warrior,No,Yes,BTG-045-R-EN,R - Rare,,3,3,No,4,Bravos,4,No,,No,No,45,MCA-244,EN - English,No,1,No,4,BTG - Au-delà des portes,Personnage,No
+Guerrière de Havre,No,Yes,BTG-045-F-FR,F - Transfuge,,3,3,No,4,Ordis,4,No,,No,No,45,MCA-245,FR - Français,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Haven Warrior,No,Yes,BTG-045-F-EN,F - Transfuge,,3,3,No,4,Ordis,4,No,,No,No,45,MCA-246,EN - English,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Hua Mulan,No,No,BTG-046-C-FR,C - Commune,,3,3,No,3,Bravos,1,No,,No,No,46,MCA-247,FR - Français,No,2,Yes,3,BTG - Au-delà des portes,Personnage,No
+Hua Mulan,No,No,BTG-046-C-EN,C - Commune,,3,3,No,3,Bravos,1,No,,No,No,46,MCA-248,EN - English,No,1,Yes,3,BTG - Au-delà des portes,Personnage,No
+Hua Mulan,No,No,BTG-046-R-FR,R - Rare,,2,2,No,2,Bravos,1,No,,No,No,46,MCA-249,FR - Français,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Hua Mulan,No,No,BTG-046-R-EN,R - Rare,,2,2,No,2,Bravos,1,No,,No,No,46,MCA-250,EN - English,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Hua Mulan,No,No,BTG-046-F-FR,F - Transfuge,,2,2,No,2,Yzmir,1,No,,No,No,46,MCA-251,FR - Français,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Hua Mulan,No,No,BTG-046-F-EN,F - Transfuge,,2,2,No,2,Yzmir,1,No,,No,No,46,MCA-252,EN - English,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Tomoe Gozen,No,No,BTG-047-R-FR,R - Rare,,3,3,No,5,Bravos,2,No,,No,No,47,MCA-253,FR - Français,No,1,No,5,BTG - Au-delà des portes,Personnage,No
+Tomoe Gozen,No,No,BTG-047-R-EN,R - Rare,,3,3,No,5,Bravos,2,No,,No,No,47,MCA-254,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Tomoe Gozen,No,No,BTG-047-F-FR,F - Transfuge,,3,3,No,5,Lyra,2,No,,No,No,47,MCA-255,FR - Français,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Tomoe Gozen,No,No,BTG-047-F-EN,F - Transfuge,,3,3,No,5,Lyra,2,No,,No,No,47,MCA-256,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Sun Wukong,No,No,BTG-048-C-FR,C - Commune,,3,4,No,2,Bravos,2,No,,No,No,48,MCA-257,FR - Français,No,4,Yes,4,BTG - Au-delà des portes,Personnage,No
+Sun Wukong,No,No,BTG-048-C-EN,C - Commune,,3,4,No,2,Bravos,2,No,,No,No,48,MCA-258,EN - English,No,1,Yes,4,BTG - Au-delà des portes,Personnage,No
+Sun Wukong,No,No,BTG-048-R-FR,R - Rare,,3,4,No,2,Bravos,2,No,,No,No,48,MCA-259,FR - Français,No,1,Yes,4,BTG - Au-delà des portes,Personnage,No
+Sun Wukong,No,No,BTG-048-R-EN,R - Rare,,3,4,No,2,Bravos,2,No,,No,No,48,MCA-260,EN - English,No,0,Yes,4,BTG - Au-delà des portes,Personnage,No
+Sun Wukong,No,No,BTG-048-F-FR,F - Transfuge,,3,4,No,2,Muna,2,No,,No,No,48,MCA-261,FR - Français,No,0,Yes,4,BTG - Au-delà des portes,Personnage,No
+Sun Wukong,No,No,BTG-048-F-EN,F - Transfuge,,3,4,No,2,Muna,2,No,,No,No,48,MCA-262,EN - English,No,1,Yes,4,BTG - Au-delà des portes,Personnage,No
+Puissant Djinn,No,No,BTG-049-C-FR,C - Commune,,4,3,No,0,Bravos,4,No,,No,No,49,MCA-263,FR - Français,No,2,No,4,BTG - Au-delà des portes,Personnage,No
+Mighty Jinn,No,No,BTG-049-C-EN,C - Commune,,4,3,No,0,Bravos,4,No,,No,No,49,MCA-264,EN - English,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Puissant Djinn,No,No,BTG-049-R-FR,R - Rare,,4,3,No,0,Bravos,4,No,,No,No,49,MCA-265,FR - Français,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Mighty Jinn,No,No,BTG-049-R-EN,R - Rare,,4,3,No,0,Bravos,4,No,,No,No,49,MCA-266,EN - English,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Puissant Djinn,No,No,BTG-049-F-FR,F - Transfuge,,4,3,No,0,Lyra,4,No,,No,No,49,MCA-267,FR - Français,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Mighty Jinn,No,No,BTG-049-F-EN,F - Transfuge,,4,3,No,0,Lyra,4,No,,No,No,49,MCA-268,EN - English,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Kappa,No,No,BTG-050-C-FR,C - Commune,,4,4,No,5,Bravos,4,No,,No,No,50,MCA-269,FR - Français,No,5,No,4,BTG - Au-delà des portes,Personnage,No
+Kappa,No,No,BTG-050-C-EN,C - Commune,,4,4,No,5,Bravos,4,No,,No,No,50,MCA-270,EN - English,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Kappa,Yes,Yes,BTG-050-R-FR,R - Rare,,4,4,No,5,Bravos,4,No,,No,No,50,MCA-271,FR - Français,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Kappa,Yes,Yes,BTG-050-R-EN,R - Rare,,4,4,No,5,Bravos,4,No,,No,No,50,MCA-272,EN - English,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Kappa,No,No,BTG-050-F-FR,F - Transfuge,,4,4,No,5,Lyra,4,No,,No,No,50,MCA-273,FR - Français,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Kappa,No,No,BTG-050-F-EN,F - Transfuge,,4,4,No,5,Lyra,4,No,,No,No,50,MCA-274,EN - English,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Achille,No,No,BTG-051-C-FR,C - Commune,1,5,5,No,5,Bravos,5,No,,No,No,51,MCA-275,FR - Français,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Achilles,No,No,BTG-051-C-EN,C - Commune,1,5,5,No,5,Bravos,5,No,,No,No,51,MCA-276,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Achille,No,No,BTG-051-R-FR,R - Rare,2,5,5,No,6,Bravos,5,No,,No,No,51,MCA-277,FR - Français,No,1,No,6,BTG - Au-delà des portes,Personnage,No
+Achilles,No,No,BTG-051-R-EN,R - Rare,2,5,5,No,6,Bravos,5,No,,No,No,51,MCA-278,EN - English,No,0,No,6,BTG - Au-delà des portes,Personnage,No
+Achille,No,No,BTG-051-F-FR,F - Transfuge,1,5,5,No,5,Ordis,5,No,,No,No,51,MCA-279,FR - Français,No,1,No,5,BTG - Au-delà des portes,Personnage,No
+Achilles,No,No,BTG-051-F-EN,F - Transfuge,1,5,5,No,5,Ordis,5,No,,No,No,51,MCA-280,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Atlas,No,No,BTG-052-C-FR,C - Commune,,5,5,No,3,Bravos,3,No,,No,Yes,52,MCA-281,FR - Français,No,6,No,3,BTG - Au-delà des portes,Personnage,No
+Atlas,No,No,BTG-052-C-EN,C - Commune,,5,5,No,3,Bravos,3,No,,No,Yes,52,MCA-282,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Atlas,Yes,Yes,BTG-052-R-FR,R - Rare,,5,5,No,3,Bravos,3,No,,No,Yes,52,MCA-283,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Atlas,Yes,Yes,BTG-052-R-EN,R - Rare,,5,5,No,3,Bravos,3,No,,No,Yes,52,MCA-284,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Atlas,No,No,BTG-052-F-FR,F - Transfuge,,5,5,No,1,Ordis,1,No,,No,Yes,52,MCA-285,FR - Français,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Atlas,No,No,BTG-052-F-EN,F - Transfuge,,5,5,No,1,Ordis,1,No,,No,Yes,52,MCA-286,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Shenlong,No,No,BTG-053-C-FR,C - Commune,,6,6,No,8,Bravos,8,No,,No,No,53,MCA-287,FR - Français,No,1,No,8,BTG - Au-delà des portes,Personnage,No
+Shenlong,No,No,BTG-053-C-EN,C - Commune,,6,6,No,8,Bravos,8,No,,No,No,53,MCA-288,EN - English,No,0,No,8,BTG - Au-delà des portes,Personnage,No
+Shenlong,No,No,BTG-053-R-FR,R - Rare,1,6,6,No,9,Bravos,9,No,,No,No,53,MCA-289,FR - Français,No,2,No,9,BTG - Au-delà des portes,Personnage,No
+Shenlong,No,No,BTG-053-R-EN,R - Rare,1,6,6,No,9,Bravos,9,No,,No,No,53,MCA-290,EN - English,No,1,No,9,BTG - Au-delà des portes,Personnage,No
+Shenlong,No,No,BTG-053-F-FR,F - Transfuge,,6,6,No,8,Lyra,8,No,,No,No,53,MCA-291,FR - Français,No,0,No,8,BTG - Au-delà des portes,Personnage,No
+Shenlong,No,No,BTG-053-F-EN,F - Transfuge,,6,6,No,8,Lyra,8,No,,No,No,53,MCA-292,EN - English,No,0,No,8,BTG - Au-delà des portes,Personnage,No
+"Kaibara, Léviathan Asgarthi",No,No,BTG-054-C-FR,C - Commune,X,8,8,No,6,Bravos,6,No,,No,Yes,54,MCA-293,FR - Français,No,1,No,6,BTG - Au-delà des portes,Personnage,No
+"Kaibara, Asgarthan Leviathan",No,No,BTG-054-C-EN,C - Commune,X,8,8,No,6,Bravos,6,No,,No,Yes,54,MCA-294,EN - English,No,0,No,6,BTG - Au-delà des portes,Personnage,No
+"Kaibara, Léviathan Asgarthi",No,No,BTG-054-R-FR,R - Rare,X,9,9,No,8,Bravos,8,No,,No,Yes,54,MCA-295,FR - Français,No,3,No,8,BTG - Au-delà des portes,Personnage,No
+"Kaibara, Asgarthan Leviathan",No,No,BTG-054-R-EN,R - Rare,X,9,9,No,8,Bravos,8,No,,No,Yes,54,MCA-296,EN - English,No,0,No,8,BTG - Au-delà des portes,Personnage,No
+"Kaibara, Léviathan Asgarthi",No,No,BTG-054-F-FR,F - Transfuge,X,8,8,No,6,Lyra,6,No,,No,Yes,54,MCA-297,FR - Français,No,0,No,6,BTG - Au-delà des portes,Personnage,No
+"Kaibara, Asgarthan Leviathan",No,No,BTG-054-F-EN,F - Transfuge,X,8,8,No,6,Lyra,6,No,,No,Yes,54,MCA-298,EN - English,No,0,No,6,BTG - Au-delà des portes,Personnage,No
+Main Tendue,No,No,BTG-055-C-FR,C - Commune,,1,2,No,,Bravos,,No,,No,No,55,MCA-299,FR - Français,No,3,No,,BTG - Au-delà des portes,Sort,No
+Helping Hand,No,No,BTG-055-C-EN,C - Commune,,1,2,No,,Bravos,,No,,No,No,55,MCA-300,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Main Tendue,No,No,BTG-055-R-FR,R - Rare,,1,1,No,,Bravos,,No,,Yes,No,55,MCA-301,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Helping Hand,No,No,BTG-055-R-EN,R - Rare,,1,1,No,,Bravos,,No,,Yes,No,55,MCA-302,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Main Tendue,No,No,BTG-055-F-FR,F - Transfuge,,1,2,No,,Yzmir,,No,,No,No,55,MCA-303,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Helping Hand,No,No,BTG-055-F-EN,F - Transfuge,,1,2,No,,Yzmir,,No,,No,No,55,MCA-304,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Intimidation,No,No,BTG-056-C-FR,C - Commune,,2,2,No,,Bravos,,No,,Yes,No,56,MCA-305,FR - Français,No,6,No,,BTG - Au-delà des portes,Sort,No
+Intimidation,No,No,BTG-056-C-EN,C - Commune,,2,2,No,,Bravos,,No,,Yes,No,56,MCA-306,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Intimidation,No,No,BTG-056-C-FR,R - Rare,,2,2,No,,Bravos,,No,,Yes,No,56,MCA-307,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Intimidation,No,No,BTG-056-C-EN,R - Rare,,2,2,No,,Bravos,,No,,Yes,No,56,MCA-308,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Intimidation,No,No,BTG-056-F-FR,F - Transfuge,,2,2,No,,Yzmir,,No,,Yes,No,56,MCA-309,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Intimidation,No,No,BTG-056-F-EN,F - Transfuge,,2,2,No,,Yzmir,,No,,Yes,No,56,MCA-310,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Canalisation de Mana,No,No,BTG-057-C-FR,C - Commune,,2,2,No,,Bravos,,No,,Yes,No,57,MCA-311,FR - Français,No,2,No,,BTG - Au-delà des portes,Sort,No
+Mana Channeling,No,No,BTG-057-C-EN,C - Commune,,2,2,No,,Bravos,,No,,Yes,No,57,MCA-312,EN - English,No,1,No,,BTG - Au-delà des portes,Sort,No
+Canalisation de Mana,No,No,BTG-057-R-FR,R - Rare,,5,5,No,,Bravos,,No,,No,No,57,MCA-313,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Mana Channeling,No,No,BTG-057-R-EN,R - Rare,,5,5,No,,Bravos,,No,,No,No,57,MCA-314,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Canalisation de Mana,No,No,BTG-057-F-FR,F - Transfuge,,2,2,No,,Muna,,No,,Yes,No,57,MCA-315,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+Mana Channeling,No,No,BTG-057-F-EN,F - Transfuge,,2,2,No,,Muna,,No,,Yes,No,57,MCA-316,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Entraînement Physique,No,No,BTG-058-C-FR,C - Commune,,2,3,No,,Bravos,,No,,No,No,58,MCA-317,FR - Français,No,4,No,,BTG - Au-delà des portes,Sort,No
+Physical Training,No,No,BTG-058-C-EN,C - Commune,,2,3,No,,Bravos,,No,,No,No,58,MCA-318,EN - English,No,2,No,,BTG - Au-delà des portes,Sort,No
+Entraînement Physique,No,No,BTG-058-R-FR,R - Rare,,3,3,No,,Bravos,,No,,No,No,58,MCA-319,FR - Français,No,2,No,,BTG - Au-delà des portes,Sort,No
+Physical Training,No,No,BTG-058-R-EN,R - Rare,,3,3,No,,Bravos,,No,,No,No,58,MCA-320,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Entraînement Physique,No,No,BTG-058-F-FR,F - Transfuge,,2,3,No,,Muna,,No,,No,No,58,MCA-321,FR - Français,No,2,No,,BTG - Au-delà des portes,Sort,No
+Physical Training,No,No,BTG-058-F-EN,F - Transfuge,,2,3,No,,Muna,,No,,No,No,58,MCA-322,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Éruption de Mana,No,No,BTG-059-C-FR,C - Commune,,3,3,No,,Bravos,,No,,Yes,No,59,MCA-323,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+Mana Eruption,No,No,BTG-059-C-EN,C - Commune,,3,3,No,,Bravos,,No,,Yes,No,59,MCA-324,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Éruption de Mana,No,No,BTG-059-R-FR,R - Rare,,2,2,No,,Bravos,,No,,Yes,No,59,MCA-325,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Mana Eruption,No,No,BTG-059-R-EN,R - Rare,,2,2,No,,Bravos,,No,,Yes,No,59,MCA-326,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Éruption de Mana,No,No,BTG-059-F-FR,F - Transfuge,,2,2,No,,Muna,,No,,Yes,No,59,MCA-327,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+Mana Eruption,No,No,BTG-059-F-EN,F - Transfuge,,2,2,No,,Muna,,No,,Yes,No,59,MCA-328,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+"Havre, Bastion Bravos",No,No,BTG-060-C-FR,C - Commune,,2,2,No,,Bravos,,No,,No,No,60,MCA-329,FR - Français,No,5,No,,BTG - Au-delà des portes,Repère Permanent,No
+"Haven, Bravos Bastion",No,No,BTG-060-C-EN,C - Commune,,2,2,No,,Bravos,,No,,No,No,60,MCA-330,EN - English,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+"Havre, Bastion Bravos",No,No,BTG-060-R-FR,R - Rare,,2,2,No,,Bravos,,Yes,,No,No,60,MCA-331,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+"Haven, Bravos Bastion",No,No,BTG-060-R-EN,R - Rare,,2,2,No,,Bravos,,Yes,,No,No,60,MCA-332,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+"Havre, Bastion Bravos",No,No,BTG-060-F-FR,F - Transfuge,,2,2,No,,Axiom,,Yes,,No,No,60,MCA-333,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+"Haven, Bravos Bastion",No,No,BTG-060-F-EN,F - Transfuge,,2,2,No,,Axiom,,Yes,,No,No,60,MCA-334,EN - English,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Nevenka & Blotch,No,No,BTG-061-H-FR,H - Héro,,,,No,,Lyra,,No,,No,No,61,MCA-335,FR - Français,No,4,No,,BTG - Au-delà des portes,,No
+Nevenka & Blotch,No,No,BTG-061-H-EN,H - Héro,,,,No,,Lyra,,No,,No,No,61,MCA-336,EN - English,No,1,No,,BTG - Au-delà des portes,,No
+Auraq & Kibble,No,No,BTG-062-H-FR,H - Héro,,,,No,,Lyra,,No,,No,No,62,MCA-337,FR - Français,No,2,No,,BTG - Au-delà des portes,,No
+Auraq & Kibble,No,No,BTG-062-H-EN,H - Héro,,,,No,,Lyra,,No,,No,No,62,MCA-338,EN - English,No,2,No,,BTG - Au-delà des portes,,No
+Fen & Crowbar,No,No,BTG-063-H-FR,H - Héro,,,,No,,Lyra,,No,,No,No,63,MCA-339,FR - Français,No,3,No,,BTG - Au-delà des portes,,No
+Fen & Crowbar,No,No,BTG-063-H-EN,H - Héro,,,,No,,Lyra,,No,,No,No,63,MCA-340,EN - English,No,0,No,,BTG - Au-delà des portes,,No
+Martengale,No,Yes,BTG-064-C-FR,C - Commune,,1,1,No,0,Lyra,1,No,,No,No,64,MCA-341,FR - Français,No,2,No,1,BTG - Au-delà des portes,Personnage,No
+Martengale,No,Yes,BTG-064-C-EN,C - Commune,,1,1,No,0,Lyra,1,No,,No,No,64,MCA-342,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Martengale,No,Yes,BTG-064-R-FR,R - Rare,,1,1,No,0,Lyra,1,No,,No,No,64,MCA-343,FR - Français,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Martengale,No,Yes,BTG-064-R-EN,R - Rare,,1,1,No,0,Lyra,1,No,,No,No,64,MCA-344,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Martengale,No,Yes,BTG-064-F-FR,F - Transfuge,,1,1,No,0,Axiom,1,No,,No,No,64,MCA-345,FR - Français,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Martengale,No,Yes,BTG-064-F-EN,F - Transfuge,,1,1,No,0,Axiom,1,No,,No,No,64,MCA-346,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Prestidigitatrice de l’Ouroboros,No,No,BTG-065-C-FR,C - Commune,,2,1,No,0,Lyra,0,Yes,,No,No,65,MCA-347,FR - Français,No,5,No,0,BTG - Au-delà des portes,Personnage,No
+Ouroboros Trickster,No,No,BTG-065-C-EN,C - Commune,,2,1,No,0,Lyra,0,Yes,,No,No,65,MCA-348,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Prestidigitatrice de l’Ouroboros,No,No,BTG-065-R-FR,R - Rare,,2,2,No,0,Lyra,0,Yes,,No,No,65,MCA-349,FR - Français,No,1,No,0,BTG - Au-delà des portes,Personnage,No
+Ouroboros Trickster,No,No,BTG-065-R-EN,R - Rare,,2,2,No,0,Lyra,0,Yes,,No,No,65,MCA-350,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Prestidigitatrice de l’Ouroboros,No,No,BTG-065-F-FR,F - Transfuge,,2,1,No,0,Bravos,0,Yes,,No,No,65,MCA-351,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Ouroboros Trickster,No,No,BTG-065-F-EN,F - Transfuge,,2,1,No,0,Bravos,0,Yes,,No,No,65,MCA-352,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Esmeralda,No,No,BTG-066-C-FR,C - Commune,,2,2,No,2,Lyra,0,No,,No,No,66,MCA-353,FR - Français,Yes,5,No,2,BTG - Au-delà des portes,Personnage,No
+Esmeralda,No,No,BTG-066-C-EN,C - Commune,,2,2,No,2,Lyra,0,No,,No,No,66,MCA-354,EN - English,Yes,3,No,2,BTG - Au-delà des portes,Personnage,No
+Esmeralda,No,No,BTG-066-R-FR,R - Rare,,2,3,No,2,Lyra,0,Yes,,No,No,66,MCA-355,FR - Français,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Esmeralda,No,No,BTG-066-R-EN,R - Rare,,2,3,No,2,Lyra,0,Yes,,No,No,66,MCA-356,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Esmeralda,No,No,BTG-066-F-FR,F - Transfuge,,2,2,No,2,Muna,0,No,,No,No,66,MCA-357,FR - Français,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Esmeralda,No,No,BTG-066-F-EN,F - Transfuge,,2,2,No,2,Muna,0,No,,No,No,66,MCA-358,EN - English,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Skald Lyra,No,No,BTG-067-C-FR,C - Commune,,2,2,No,2,Lyra,3,No,,No,No,67,MCA-359,FR - Français,No,4,No,0,BTG - Au-delà des portes,Personnage,No
+Lyra Skald,No,No,BTG-067-C-EN,C - Commune,,2,2,No,2,Lyra,3,No,,No,No,67,MCA-360,EN - English,No,1,No,0,BTG - Au-delà des portes,Personnage,No
+Skald Lyra,No,Yes,BTG-067-R-FR,R - Rare,,2,2,No,2,Lyra,3,No,,No,No,67,MCA-361,FR - Français,Yes,0,No,0,BTG - Au-delà des portes,Personnage,No
+Lyra Skald,No,Yes,BTG-067-R-EN,R - Rare,,2,2,No,2,Lyra,3,No,,No,No,67,MCA-362,EN - English,Yes,0,No,0,BTG - Au-delà des portes,Personnage,No
+Skald Lyra,No,Yes,BTG-067-F-FR,F - Transfuge,,2,2,No,2,Yzmir,3,No,,No,No,67,MCA-363,FR - Français,Yes,0,No,0,BTG - Au-delà des portes,Personnage,No
+Lyra Skald,No,Yes,BTG-067-F-EN,F - Transfuge,,2,2,No,2,Yzmir,3,No,,No,No,67,MCA-364,EN - English,Yes,0,No,0,BTG - Au-delà des portes,Personnage,No
+Comédien Lyra,No,No,BTG-068-C-FR,C - Commune,,2,2,No,2,Lyra,2,Yes,,No,No,68,MCA-365,FR - Français,No,2,No,2,BTG - Au-delà des portes,Personnage,No
+Lyra Thespian,No,No,BTG-068-C-EN,C - Commune,,2,2,No,2,Lyra,2,Yes,,No,No,68,MCA-366,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Comédien Lyra,No,No,BTG-068-R-FR,R - Rare,,2,2,No,2,Lyra,2,Yes,,No,No,68,MCA-367,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Lyra Thespian,No,No,BTG-068-R-EN,R - Rare,,2,2,No,2,Lyra,2,Yes,,No,No,68,MCA-368,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Comédien Lyra,No,No,BTG-068-F-FR,F - Transfuge,,2,2,No,2,Muna,2,Yes,,No,No,68,MCA-369,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Lyra Thespian,No,No,BTG-068-F-EN,F - Transfuge,,2,2,No,2,Muna,2,Yes,,No,No,68,MCA-370,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Hathor,No,Yes,BTG-069-C-FR,C - Commune,,2,3,No,0,Lyra,3,No,,No,No,69,MCA-371,FR - Français,No,5,No,3,BTG - Au-delà des portes,Personnage,No
+Hathor,No,Yes,BTG-069-C-EN,C - Commune,,2,3,No,0,Lyra,3,No,,No,No,69,MCA-372,EN - English,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Hathor,No,Yes,BTG-069-R-FR,R - Rare,,2,2,No,0,Lyra,3,No,,No,No,69,MCA-373,FR - Français,No,2,No,3,BTG - Au-delà des portes,Personnage,No
+Hathor,No,Yes,BTG-069-R-EN,R - Rare,,2,2,No,0,Lyra,3,No,,No,No,69,MCA-374,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Hathor,No,Yes,BTG-069-F-FR,F - Transfuge,,2,2,No,0,Yzmir,3,No,,No,No,69,MCA-375,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Hathor,No,Yes,BTG-069-F-EN,F - Transfuge,,2,2,No,0,Yzmir,3,No,,No,No,69,MCA-376,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Navigatrice Lyra,No,No,BTG-070-C-FR,C - Commune,,2,3,No,4,Lyra,0,No,,No,No,70,MCA-377,FR - Français,No,1,No,0,BTG - Au-delà des portes,Personnage,No
+Lyra Navigator,No,No,BTG-070-C-EN,C - Commune,,2,3,No,4,Lyra,0,No,,No,No,70,MCA-378,EN - English,No,1,No,0,BTG - Au-delà des portes,Personnage,No
+Navigatrice Lyra,No,Yes,BTG-070-R-FR,R - Rare,,2,2,No,4,Lyra,0,No,,No,No,70,MCA-379,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Lyra Navigator,No,Yes,BTG-070-R-EN,R - Rare,,2,2,No,4,Lyra,0,No,,No,No,70,MCA-380,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Navigatrice Lyra,No,No,BTG-070-F-FR,F - Transfuge,,2,3,No,4,Bravos,0,No,,No,No,70,MCA-381,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Lyra Navigator,No,No,BTG-070-F-EN,F - Transfuge,,2,3,No,4,Bravos,0,No,,No,No,70,MCA-382,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Anansi,No,No,BTG-071-C-FR,C - Commune,,3,2,No,2,Lyra,2,Yes,,No,No,71,MCA-383,FR - Français,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Anansi,No,No,BTG-071-C-EN,C - Commune,,3,2,No,2,Lyra,2,Yes,,No,No,71,MCA-384,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Anansi,No,No,BTG-071-R-FR,R - Rare,,3,2,No,0,Lyra,0,Yes,,No,No,71,MCA-385,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Anansi,No,No,BTG-071-R-EN,R - Rare,,3,2,No,0,Lyra,0,Yes,,No,No,71,MCA-386,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Anansi,No,No,BTG-071-F-FR,F - Transfuge,,3,2,No,2,Axiom,2,Yes,,No,No,71,MCA-387,FR - Français,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Anansi,No,No,BTG-071-F-EN,F - Transfuge,,3,2,No,2,Axiom,2,Yes,,No,No,71,MCA-388,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Danseuse d’Étoffe Lyra,No,No,BTG-072-C-FR,C - Commune,,3,2,No,2,Lyra,0,No,,No,No,72,MCA-389,FR - Français,Yes,4,No,3,BTG - Au-delà des portes,Personnage,No
+Lyra Cloth Dancer,No,No,BTG-072-C-EN,C - Commune,,3,2,No,2,Lyra,0,No,,No,No,72,MCA-390,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Danseuse d’Étoffe Lyra,No,No,BTG-072-R-FR,R - Rare,,3,2,No,2,Lyra,0,No,,No,No,72,MCA-391,FR - Français,Yes,1,No,2,BTG - Au-delà des portes,Personnage,No
+Lyra Cloth Dancer,No,No,BTG-072-R-EN,R - Rare,,3,2,No,2,Lyra,0,No,,No,No,72,MCA-392,EN - English,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Danseuse d’Étoffe Lyra,No,No,BTG-072-F-FR,F - Transfuge,,3,2,No,2,Muna,0,No,,No,No,72,MCA-393,FR - Français,Yes,1,No,3,BTG - Au-delà des portes,Personnage,No
+Lyra Cloth Dancer,No,No,BTG-072-F-EN,F - Transfuge,,3,2,No,2,Muna,0,No,,No,No,72,MCA-394,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Chroniqueuse Lyra,No,No,BTG-073-C-FR,C - Commune,,3,3,No,4,Lyra,4,No,,No,No,73,MCA-395,FR - Français,No,4,No,0,BTG - Au-delà des portes,Personnage,No
+Lyra Chronicler,No,No,BTG-073-C-EN,C - Commune,,3,3,No,4,Lyra,4,No,,No,No,73,MCA-396,EN - English,No,1,No,0,BTG - Au-delà des portes,Personnage,No
+Chroniqueuse Lyra,No,Yes,BTG-073-R-FR,R - Rare,,3,3,No,4,Lyra,4,No,,No,No,73,MCA-397,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Lyra Chronicler,No,Yes,BTG-073-R-EN,R - Rare,,3,3,No,4,Lyra,4,No,,No,No,73,MCA-398,EN - English,No,2,No,0,BTG - Au-delà des portes,Personnage,No
+Chroniqueuse Lyra,No,Yes,BTG-073-F-FR,F - Transfuge,,3,3,No,4,Axiom,4,No,,No,No,73,MCA-399,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Lyra Chronicler,No,Yes,BTG-073-F-EN,F - Transfuge,,3,3,No,4,Axiom,4,No,,No,No,73,MCA-400,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Encrière de l’Ouroboros,No,No,BTG-074-C-FR,C - Commune,,3,3,No,2,Lyra,3,No,,No,No,74,MCA-401,FR - Français,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Ouroboros Inkcaster,No,No,BTG-074-C-EN,C - Commune,,3,3,No,2,Lyra,3,No,,No,No,74,MCA-402,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Encrière de l’Ouroboros,No,Yes,BTG-074-R-FR,R - Rare,,2,2,No,2,Lyra,2,No,,No,No,74,MCA-403,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Ouroboros Inkcaster,No,Yes,BTG-074-R-EN,R - Rare,,2,2,No,2,Lyra,2,No,,No,No,74,MCA-404,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Encrière de l’Ouroboros,No,No,BTG-074-F-FR,F - Transfuge,,2,2,No,2,Axiom,2,No,,No,No,74,MCA-405,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Ouroboros Inkcaster,No,No,BTG-074-F-EN,F - Transfuge,,2,2,No,2,Axiom,2,No,,No,No,74,MCA-406,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Tanuki,No,No,BTG-075-C-FR,C - Commune,,3,3,No,0,Lyra,3,No,,No,No,75,MCA-407,FR - Français,Yes,3,No,3,BTG - Au-delà des portes,Personnage,No
+Tanuki,No,No,BTG-075-C-EN,C - Commune,,3,3,No,0,Lyra,3,No,,No,No,75,MCA-408,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Tanuki,No,No,BTG-075-R-FR,R - Rare,,3,3,No,0,Lyra,3,No,,No,No,75,MCA-409,FR - Français,Yes,1,Yes,3,BTG - Au-delà des portes,Personnage,No
+Tanuki,No,No,BTG-075-R-EN,R - Rare,,3,3,No,0,Lyra,3,No,,No,No,75,MCA-410,EN - English,Yes,0,Yes,3,BTG - Au-delà des portes,Personnage,No
+Tanuki,No,No,BTG-075-F-FR,F - Transfuge,,3,3,No,0,Bravos,3,No,,No,No,75,MCA-411,FR - Français,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Tanuki,No,No,BTG-075-F-EN,F - Transfuge,,3,3,No,0,Bravos,3,No,,No,No,75,MCA-412,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Le Marchand de Sable,No,No,BTG-076-C-FR,C - Commune,,3,3,No,3,Lyra,0,No,,No,No,76,MCA-413,FR - Français,Yes,2,No,3,BTG - Au-delà des portes,Personnage,No
+The Sandman,No,No,BTG-076-C-EN,C - Commune,,3,3,No,3,Lyra,0,No,,No,No,76,MCA-414,EN - English,Yes,1,No,3,BTG - Au-delà des portes,Personnage,No
+Le Marchand de Sable,No,No,BTG-076-R-FR,R - Rare,,3,2,No,3,Lyra,0,No,,No,No,76,MCA-415,FR - Français,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+The Sandman,No,No,BTG-076-R-EN,R - Rare,,3,2,No,3,Lyra,0,No,,No,No,76,MCA-416,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Le Marchand de Sable,No,No,BTG-076-F-FR,F - Transfuge,,3,2,No,3,Ordis,0,No,,No,No,76,MCA-417,FR - Français,Yes,1,No,3,BTG - Au-delà des portes,Personnage,No
+The Sandman,No,No,BTG-076-F-EN,F - Transfuge,,3,2,No,3,Ordis,0,No,,No,No,76,MCA-418,EN - English,Yes,1,No,3,BTG - Au-delà des portes,Personnage,No
+Croupière de l’Ouroboros,No,No,BTG-077-C-FR,C - Commune,,4,4,No,4,Lyra,0,No,,No,No,77,MCA-419,FR - Français,Yes,5,No,4,BTG - Au-delà des portes,Personnage,No
+Ouroboros Croupier,No,No,BTG-077-C-EN,C - Commune,,4,4,No,4,Lyra,0,No,,No,No,77,MCA-420,EN - English,Yes,0,No,4,BTG - Au-delà des portes,Personnage,No
+Croupière de l’Ouroboros,No,Yes,BTG-077-R-FR,R - Rare,,4,4,No,5,Lyra,0,No,,No,No,77,MCA-421,FR - Français,Yes,1,No,5,BTG - Au-delà des portes,Personnage,No
+Ouroboros Croupier,No,Yes,BTG-077-R-EN,R - Rare,,4,4,No,5,Lyra,0,No,,No,No,77,MCA-422,EN - English,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Croupière de l’Ouroboros,No,Yes,BTG-077-F-FR,F - Transfuge,,4,4,No,5,Axiom,0,No,,No,No,77,MCA-423,FR - Français,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Ouroboros Croupier,No,Yes,BTG-077-F-EN,F - Transfuge,,4,4,No,5,Axiom,0,No,,No,No,77,MCA-424,EN - English,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Le Chapelier,No,Yes,BTG-078-C-FR,C - Commune,,4,5,No,0,Lyra,5,No,,No,No,78,MCA-425,FR - Français,No,6,No,5,BTG - Au-delà des portes,Personnage,No
+The Hatter,No,Yes,BTG-078-C-EN,C - Commune,,4,5,No,0,Lyra,5,No,,No,No,78,MCA-426,EN - English,No,1,No,5,BTG - Au-delà des portes,Personnage,No
+Le Chapelier,No,Yes,BTG-078-R-FR,R - Rare,,4,4,No,5,Lyra,5,No,,No,No,78,MCA-427,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+The Hatter,No,Yes,BTG-078-R-EN,R - Rare,,4,4,No,5,Lyra,5,No,,No,No,78,MCA-428,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Le Chapelier,No,Yes,BTG-078-F-FR,F - Transfuge,,4,5,No,0,Bravos,5,No,,No,No,78,MCA-429,FR - Français,No,1,No,5,BTG - Au-delà des portes,Personnage,No
+The Hatter,No,Yes,BTG-078-F-EN,F - Transfuge,,4,5,No,0,Bravos,5,No,,No,No,78,MCA-430,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+"Amahle, Paria Asgarthi",No,No,BTG-079-C-FR,C - Commune,,5,5,No,5,Lyra,5,Yes,,No,No,79,MCA-431,FR - Français,No,3,No,5,BTG - Au-delà des portes,Personnage,No
+"Amahle, Asgarthan Outcast",No,No,BTG-079-C-EN,C - Commune,,5,5,No,5,Lyra,5,Yes,,No,No,79,MCA-432,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+"Amahle, Paria Asgarthi",No,No,BTG-079-R-FR,R - Rare,,5,5,No,5,Lyra,5,Yes,,No,No,79,MCA-433,FR - Français,No,2,No,5,BTG - Au-delà des portes,Personnage,No
+"Amahle, Asgarthan Outcast",No,No,BTG-079-R-EN,R - Rare,,5,5,No,5,Lyra,5,Yes,,No,No,79,MCA-434,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+"Amahle, Paria Asgarthi",No,No,BTG-079-F-FR,F - Transfuge,,5,5,No,5,Axiom,5,Yes,,No,No,79,MCA-435,FR - Français,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+"Amahle, Asgarthan Outcast",No,No,BTG-079-F-EN,F - Transfuge,,5,5,No,5,Axiom,5,Yes,,No,No,79,MCA-436,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Asmodée,No,No,BTG-080-C-FR,C - Commune,,6,6,No,5,Lyra,5,Yes,,No,No,80,MCA-437,FR - Français,No,4,No,5,BTG - Au-delà des portes,Personnage,No
+Asmodeus,No,No,BTG-080-C-EN,C - Commune,,6,6,No,5,Lyra,5,Yes,,No,No,80,MCA-438,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Asmodée,No,No,BTG-080-R-FR,R - Rare,,5,5,No,4,Lyra,4,Yes,,No,No,80,MCA-439,FR - Français,No,1,No,4,BTG - Au-delà des portes,Personnage,No
+Asmodeus,No,No,BTG-080-R-EN,R - Rare,,5,5,No,4,Lyra,4,Yes,,No,No,80,MCA-440,EN - English,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Asmodée,No,No,BTG-080-F-FR,F - Transfuge,,6,6,No,5,Bravos,5,Yes,,No,No,80,MCA-441,FR - Français,No,1,No,5,BTG - Au-delà des portes,Personnage,No
+Asmodeus,No,No,BTG-080-F-EN,F - Transfuge,,6,6,No,5,Bravos,5,Yes,,No,No,80,MCA-442,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Loki,No,No,BTG-081-C-FR,C - Commune,,7,5,No,5,Lyra,5,No,,No,No,81,MCA-443,FR - Français,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Loki,No,No,BTG-081-C-EN,C - Commune,,7,5,No,5,Lyra,5,No,,No,No,81,MCA-444,EN - English,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Loki,No,No,BTG-081-R-FR,R - Rare,,7,5,No,5,Lyra,5,No,,No,No,81,MCA-445,FR - Français,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Loki,No,No,BTG-081-R-EN,R - Rare,,7,5,No,5,Lyra,5,No,,No,No,81,MCA-446,EN - English,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Loki,No,No,BTG-081-F-FR,F - Transfuge,,7,5,No,5,Muna,5,No,,No,No,81,MCA-447,FR - Français,Yes,1,No,5,BTG - Au-delà des portes,Personnage,No
+Loki,No,No,BTG-081-F-EN,F - Transfuge,,7,5,No,5,Muna,5,No,,No,No,81,MCA-448,EN - English,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Entraînement A Cappella,No,No,BTG-082-C-FR,C - Commune,,1,1,No,,Lyra,,No,,No,No,82,MCA-449,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+A Cappella Training,No,No,BTG-082-C-EN,C - Commune,,1,1,No,,Lyra,,No,,No,No,82,MCA-450,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Entraînement A Cappella,No,No,BTG-082-R-FR,R - Rare,,2,2,No,,Lyra,,No,,Yes,No,82,MCA-451,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+A Cappella Training,No,No,BTG-082-R-EN,R - Rare,,2,2,No,,Lyra,,No,,Yes,No,82,MCA-452,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Entraînement A Cappella,No,No,BTG-082-F-FR,F - Transfuge,,1,1,No,,Muna,,No,,No,No,82,MCA-453,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+A Cappella Training,No,No,BTG-082-F-EN,F - Transfuge,,1,1,No,,Muna,,No,,No,No,82,MCA-454,EN - English,No,1,No,,BTG - Au-delà des portes,Sort,No
+Franchir le Bifröst,No,No,BTG-083-C-FR,C - Commune,,2,2,No,,Lyra,,No,,Yes,No,83,MCA-455,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Ride the Bifröst,No,No,BTG-083-C-EN,C - Commune,,2,2,No,,Lyra,,No,,Yes,No,83,MCA-456,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Franchir le Bifröst,No,No,BTG-083-R-FR,R - Rare,,2,2,No,,Lyra,,No,,Yes,No,83,MCA-457,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Ride the Bifröst,No,No,BTG-083-R-EN,R - Rare,,2,2,No,,Lyra,,No,,Yes,No,83,MCA-458,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Franchir le Bifröst,No,No,BTG-083-F-FR,F - Transfuge,,2,2,No,,Yzmir,,No,,Yes,No,83,MCA-459,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Ride the Bifröst,No,No,BTG-083-F-EN,F - Transfuge,,2,2,No,,Yzmir,,No,,Yes,No,83,MCA-460,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+"Meunier, Tu Dors",No,Yes,BTG-084-C-FR,C - Commune,,2,2,No,,Lyra,,No,,No,No,84,MCA-461,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Twinkle Twinkle,No,Yes,BTG-084-C-EN,C - Commune,,2,2,No,,Lyra,,No,,No,No,84,MCA-462,EN - English,No,1,No,,BTG - Au-delà des portes,Sort,No
+"Meunier, Tu Dors",No,Yes,BTG-084-R-FR,R - Rare,,4,4,No,,Lyra,,No,,Yes,No,84,MCA-463,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Twinkle Twinkle,No,Yes,BTG-084-R-EN,R - Rare,,4,4,No,,Lyra,,No,,Yes,No,84,MCA-464,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+"Meunier, Tu Dors",No,Yes,BTG-084-F-FR,F - Transfuge,,2,2,No,,Bravos,,No,,No,No,84,MCA-465,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Twinkle Twinkle,No,Yes,BTG-084-F-EN,F - Transfuge,,2,2,No,,Bravos,,No,,No,No,84,MCA-466,EN - English,No,1,No,,BTG - Au-delà des portes,Sort,No
+Tapis !,No,No,BTG-085-C-FR,C - Commune,,3,3,No,,Lyra,,No,,No,No,85,MCA-467,FR - Français,No,7,No,,BTG - Au-delà des portes,Sort,No
+All In!,No,No,BTG-085-C-EN,C - Commune,,3,3,No,,Lyra,,No,,No,No,85,MCA-468,EN - English,No,1,No,,BTG - Au-delà des portes,Sort,No
+Tapis !,No,No,BTG-085-R-FR,R - Rare,,3,3,No,,Lyra,,No,,No,No,85,MCA-469,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+All In!,No,No,BTG-085-R-EN,R - Rare,,3,3,No,,Lyra,,No,,No,No,85,MCA-470,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Tapis !,No,No,BTG-085-F-FR,F - Transfuge,,3,3,No,,Bravos,,No,,No,No,85,MCA-471,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+All In!,No,No,BTG-085-F-EN,F - Transfuge,,3,3,No,,Bravos,,No,,No,No,85,MCA-472,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Cocon d’Étoffe,No,No,BTG-086-C-FR,C - Commune,,3,3,No,,Lyra,,No,,Yes,No,86,MCA-473,FR - Français,No,2,No,,BTG - Au-delà des portes,Sort,No
+Cloth Cocoon,No,No,BTG-086-C-EN,C - Commune,,3,3,No,,Lyra,,No,,Yes,No,86,MCA-474,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Cocon d’Étoffe,No,No,BTG-086-R-FR,R - Rare,,2,2,No,,Lyra,,No,,Yes,No,86,MCA-475,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Cloth Cocoon,No,No,BTG-086-R-EN,R - Rare,,2,2,No,,Lyra,,No,,Yes,No,86,MCA-476,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Cocon d’Étoffe,No,No,BTG-086-F-FR,F - Transfuge,,3,3,No,,Muna,,No,,Yes,No,86,MCA-477,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+Cloth Cocoon,No,No,BTG-086-F-EN,F - Transfuge,,3,3,No,,Muna,,No,,Yes,No,86,MCA-478,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Prison de Peinture,No,No,BTG-087-C-FR,C - Commune,,5,5,No,,Lyra,,No,,Yes,No,87,MCA-479,FR - Français,No,6,No,,BTG - Au-delà des portes,Sort,No
+Paint Prison,No,No,BTG-087-C-EN,C - Commune,,5,5,No,,Lyra,,No,,Yes,No,87,MCA-480,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Prison de Peinture,No,No,BTG-087-R-FR,R - Rare,,4,4,No,,Lyra,,No,,Yes,No,87,MCA-481,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+Paint Prison,No,No,BTG-087-R-EN,R - Rare,,4,4,No,,Lyra,,No,,Yes,No,87,MCA-482,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Prison de Peinture,No,No,BTG-087-F-FR,F - Transfuge,,5,5,No,,Muna,,No,,Yes,No,87,MCA-483,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Paint Prison,No,No,BTG-087-F-EN,F - Transfuge,,5,5,No,,Muna,,No,,Yes,No,87,MCA-484,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Apothéose de l’Esprit,No,No,BTG-088-C-FR,C - Commune,,9,9,No,,Lyra,,No,,Yes,No,88,MCA-485,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+Mind Apotheosis,No,No,BTG-088-C-EN,C - Commune,,9,9,No,,Lyra,,No,,Yes,No,88,MCA-486,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Apothéose de l’Esprit,No,No,BTG-088-R-FR,R - Rare,,8,8,No,,Lyra,,No,,Yes,No,88,MCA-487,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Mind Apotheosis,No,No,BTG-088-R-EN,R - Rare,,8,8,No,,Lyra,,No,,Yes,No,88,MCA-488,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Apothéose de l’Esprit,No,No,BTG-088-F-FR,F - Transfuge,,9,9,No,,Bravos,,No,,Yes,No,88,MCA-489,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+Mind Apotheosis,No,No,BTG-088-F-EN,F - Transfuge,,9,9,No,,Bravos,,No,,Yes,No,88,MCA-490,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Festival Lyra,No,No,BTG-089-C-FR,C - Commune,,4,4,No,,Lyra,,Yes,,No,No,89,MCA-491,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Lyra Festival,No,No,BTG-089-C-EN,C - Commune,,4,4,No,,Lyra,,Yes,,No,No,89,MCA-492,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Festival Lyra,No,No,BTG-089-R-FR,R - Rare,,4,4,No,,Lyra,,Yes,,No,No,89,MCA-493,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Lyra Festival,No,No,BTG-089-R-EN,R - Rare,,4,4,No,,Lyra,,Yes,,No,No,89,MCA-494,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Festival Lyra,No,No,BTG-089-F-FR,F - Transfuge,,4,4,No,,Muna,,Yes,,No,No,89,MCA-495,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Lyra Festival,No,No,BTG-089-F-EN,F - Transfuge,,4,4,No,,Muna,,Yes,,No,No,89,MCA-496,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+"L’Ouroboros, Bastion Lyra",No,No,BTG-090-C-FR,C - Commune,,4,4,No,,Lyra,,No,,No,No,90,MCA-497,FR - Français,No,3,No,,BTG - Au-delà des portes,Repère Permanent,No
+"The Ouroboros, Lyra Bastion",No,No,BTG-090-C-EN,C - Commune,,4,4,No,,Lyra,,No,,No,No,90,MCA-498,EN - English,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+"L’Ouroboros, Bastion Lyra",No,No,BTG-090-R-FR,R - Rare,,3,3,No,,Lyra,,No,,No,No,90,MCA-499,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+"The Ouroboros, Lyra Bastion",No,No,BTG-090-R-EN,R - Rare,,3,3,No,,Lyra,,No,,No,No,90,MCA-500,EN - English,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+"L’Ouroboros, Bastion Lyra",No,No,BTG-090-F-FR,F - Transfuge,,3,3,No,,Axiom,,Yes,,No,No,90,MCA-501,FR - Français,No,3,No,,BTG - Au-delà des portes,Repère Permanent,No
+"The Ouroboros, Lyra Bastion",No,No,BTG-090-F-EN,F - Transfuge,,3,3,No,,Axiom,,Yes,,No,No,90,MCA-502,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Teija & Nauraa,No,No,BTG-091-H-FR,H - Héro,,,,No,,Muna,,No,,No,No,91,MCA-503,FR - Français,No,2,No,,BTG - Au-delà des portes,,No
+Teija & Nauraa,No,No,BTG-091-H-EN,H - Héro,,,,No,,Muna,,No,,No,No,91,MCA-504,EN - English,No,0,No,,BTG - Au-delà des portes,,No
+Arjun & Spike,No,No,BTG-092-H-FR,H - Héro,,,,No,,Muna,,No,,No,No,92,MCA-505,FR - Français,No,1,No,,BTG - Au-delà des portes,,No
+Arjun & Spike,No,No,BTG-092-H-EN,H - Héro,,,,No,,Muna,,No,,No,No,92,MCA-506,EN - English,No,0,No,,BTG - Au-delà des portes,,No
+Rin & Orchid,No,No,BTG-093-H-FR,H - Héro,,,,No,,Muna,,No,,No,No,93,MCA-507,FR - Français,No,3,No,,BTG - Au-delà des portes,,No
+Rin & Orchid,No,No,BTG-093-H-EN,H - Héro,,,,No,,Muna,,No,,No,No,93,MCA-508,EN - English,No,0,No,,BTG - Au-delà des portes,,No
+Soigneuse Muna,No,Yes,BTG-094-C-FR,C - Commune,,1,1,No,0,Muna,0,No,,No,No,94,MCA-509,FR - Français,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Muna Caregiver,No,Yes,BTG-094-C-EN,C - Commune,,1,1,No,0,Muna,0,No,,No,No,94,MCA-510,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Soigneuse Muna,No,Yes,BTG-094-R-FR,R - Rare,,1,1,No,0,Muna,1,No,,No,No,94,MCA-511,FR - Français,No,2,No,2,BTG - Au-delà des portes,Personnage,No
+Muna Caregiver,No,Yes,BTG-094-R-EN,R - Rare,,1,1,No,0,Muna,1,No,,No,No,94,MCA-512,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Soigneuse Muna,No,Yes,BTG-094-F-FR,F - Transfuge,,1,1,No,0,Yzmir,0,No,,No,No,94,MCA-513,FR - Français,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Muna Caregiver,No,Yes,BTG-094-F-EN,F - Transfuge,,1,1,No,0,Yzmir,0,No,,No,No,94,MCA-514,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Vendangeurs du Fuseau,No,No,BTG-095-C-FR,C - Commune,,1,1,No,0,Muna,1,Yes,,No,No,95,MCA-515,FR - Français,No,6,No,0,BTG - Au-delà des portes,Personnage,No
+Spindle Harversters,No,No,BTG-095-C-EN,C - Commune,,1,1,No,0,Muna,1,Yes,,No,No,95,MCA-516,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Vendangeurs du Fuseau,No,No,BTG-095-R-FR,R - Rare,,1,1,No,0,Muna,1,Yes,,No,No,95,MCA-517,FR - Français,No,1,No,0,BTG - Au-delà des portes,Personnage,No
+Spindle Harversters,No,No,BTG-095-R-EN,R - Rare,,1,1,No,0,Muna,1,Yes,,No,No,95,MCA-518,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Vendangeurs du Fuseau,No,No,BTG-095-F-FR,F - Transfuge,,1,1,No,0,Yzmir,1,Yes,,No,No,95,MCA-519,FR - Français,No,1,No,0,BTG - Au-delà des portes,Personnage,No
+Spindle Harversters,No,No,BTG-095-F-EN,F - Transfuge,,1,1,No,0,Yzmir,1,Yes,,No,No,95,MCA-520,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Mowgli,No,No,BTG-096-C-FR,C - Commune,,2,1,No,0,Muna,3,No,,No,No,96,MCA-521,FR - Français,No,4,No,0,BTG - Au-delà des portes,Personnage,No
+Mowgli,No,No,BTG-096-C-EN,C - Commune,,2,1,No,0,Muna,3,No,,No,No,96,MCA-522,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Mowgli,No,Yes,BTG-096-R-FR,R - Rare,,2,1,No,0,Muna,3,No,,No,No,96,MCA-523,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Mowgli,No,Yes,BTG-096-R-EN,R - Rare,,2,1,No,0,Muna,3,No,,No,No,96,MCA-524,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Mowgli,No,No,BTG-096-F-FR,F - Transfuge,,2,1,No,0,Axiom,3,No,,No,No,96,MCA-525,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Mowgli,No,No,BTG-096-F-EN,F - Transfuge,,2,1,No,0,Axiom,3,No,,No,No,96,MCA-526,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Kitsune,No,No,BTG-097-C-FR,C - Commune,,2,2,No,2,Muna,0,No,,No,No,97,MCA-527,FR - Français,Yes,7,No,3,BTG - Au-delà des portes,Personnage,No
+Kitsune,No,No,BTG-097-C-EN,C - Commune,,2,2,No,2,Muna,0,No,,No,No,97,MCA-528,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Kitsune,No,No,BTG-097-R-FR,R - Rare,,2,2,No,3,Muna,0,No,,No,No,97,MCA-529,FR - Français,Yes,1,No,3,BTG - Au-delà des portes,Personnage,No
+Kitsune,No,No,BTG-097-R-EN,R - Rare,,2,2,No,3,Muna,0,No,,No,No,97,MCA-530,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Kitsune,No,No,BTG-097-F-FR,F - Transfuge,,2,2,No,2,Bravos,0,No,,No,No,97,MCA-531,FR - Français,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Kitsune,No,No,BTG-097-F-EN,F - Transfuge,,2,2,No,2,Bravos,0,No,,No,No,97,MCA-532,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Kodama,No,No,BTG-098-C-FR,C - Commune,,2,2,No,3,Muna,3,No,,No,No,98,MCA-533,FR - Français,Yes,1,No,3,BTG - Au-delà des portes,Personnage,No
+Kodama,No,No,BTG-098-C-EN,C - Commune,,2,2,No,3,Muna,3,No,,No,No,98,MCA-534,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Kodama,No,Yes,BTG-098-R-FR,R - Rare,,2,2,No,3,Muna,3,No,,No,No,98,MCA-535,FR - Français,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Kodama,No,Yes,BTG-098-R-EN,R - Rare,,2,2,No,3,Muna,3,No,,No,No,98,MCA-536,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Kodama,No,Yes,BTG-098-F-FR,F - Transfuge,,2,2,No,3,Lyra,3,No,,No,No,98,MCA-537,FR - Français,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Kodama,No,Yes,BTG-098-F-EN,F - Transfuge,,2,2,No,3,Lyra,3,No,,No,No,98,MCA-538,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Champignon Éternueur,No,No,BTG-099-C-FR,C - Commune,,2,2,No,1,Muna,1,Yes,,No,No,99,MCA-539,FR - Français,No,3,No,1,BTG - Au-delà des portes,Personnage,No
+Sneezer Shroom,No,No,BTG-099-C-EN,C - Commune,,2,2,No,1,Muna,1,Yes,,No,No,99,MCA-540,EN - English,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Champignon Éternueur,No,No,BTG-099-R-FR,R - Rare,,2,2,No,1,Muna,1,Yes,,No,No,99,MCA-541,FR - Français,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Sneezer Shroom,No,No,BTG-099-R-EN,R - Rare,,2,2,No,1,Muna,1,Yes,,No,No,99,MCA-542,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Champignon Éternueur,No,No,BTG-099-F-FR,F - Transfuge,,2,2,No,1,Yzmir,1,Yes,,No,No,99,MCA-543,FR - Français,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Sneezer Shroom,No,No,BTG-099-F-EN,F - Transfuge,,2,2,No,1,Yzmir,1,Yes,,No,No,99,MCA-544,EN - English,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Marchand Muna,No,No,BTG-100-C-FR,C - Commune,,2,3,No,0,Muna,3,No,,No,No,100,MCA-545,FR - Français,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Muna Merchant,No,No,BTG-100-C-EN,C - Commune,,2,3,No,0,Muna,3,No,,No,No,100,MCA-546,EN - English,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Marchand Muna,No,No,BTG-100-R-FR,R - Rare,,2,2,No,0,Muna,3,No,,No,No,100,MCA-547,FR - Français,No,1,Yes,2,BTG - Au-delà des portes,Personnage,No
+Muna Merchant,No,No,BTG-100-R-EN,R - Rare,,2,2,No,0,Muna,3,No,,No,No,100,MCA-548,EN - English,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Marchand Muna,No,No,BTG-100-F-FR,F - Transfuge,,2,3,No,0,Axiom,3,No,,No,No,100,MCA-549,FR - Français,No,1,Yes,2,BTG - Au-delà des portes,Personnage,No
+Muna Merchant,No,No,BTG-100-F-EN,F - Transfuge,,2,3,No,0,Axiom,3,No,,No,No,100,MCA-550,EN - English,No,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Inari,No,No,BTG-101-C-FR,C - Commune,,3,2,No,3,Muna,3,No,,No,No,101,MCA-551,FR - Français,No,5,No,1,BTG - Au-delà des portes,Personnage,No
+Inari,No,No,BTG-101-C-EN,C - Commune,,3,2,No,3,Muna,3,No,,No,No,101,MCA-552,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Inari,No,No,BTG-101-R-FR,R - Rare,,3,2,No,3,Muna,3,No,,No,No,101,MCA-553,FR - Français,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Inari,No,No,BTG-101-R-EN,R - Rare,,3,2,No,3,Muna,3,No,,No,No,101,MCA-554,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Inari,No,Yes,BTG-101-F-FR,F - Transfuge,,3,2,No,3,Axiom,3,No,,No,No,101,MCA-555,FR - Français,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Inari,No,Yes,BTG-101-F-EN,F - Transfuge,,3,2,No,3,Axiom,3,No,,No,No,101,MCA-556,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Druide Muna,No,Yes,BTG-102-C-FR,C - Commune,,3,2,No,2,Muna,3,No,,No,No,102,MCA-557,FR - Français,No,5,No,2,BTG - Au-delà des portes,Personnage,No
+Muna Druid,No,Yes,BTG-102-C-EN,C - Commune,,3,2,No,2,Muna,3,No,,No,No,102,MCA-558,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Druide Muna,No,Yes,BTG-102-R-FR,R - Rare,,3,2,No,1,Muna,2,No,,No,No,102,MCA-559,FR - Français,Yes,1,No,1,BTG - Au-delà des portes,Personnage,No
+Muna Druid,No,Yes,BTG-102-R-EN,R - Rare,,3,2,No,1,Muna,2,No,,No,No,102,MCA-560,EN - English,Yes,0,No,1,BTG - Au-delà des portes,Personnage,No
+Druide Muna,No,Yes,BTG-102-F-FR,F - Transfuge,,3,2,No,2,Axiom,3,No,,No,No,102,MCA-561,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Muna Druid,No,Yes,BTG-102-F-EN,F - Transfuge,,3,2,No,2,Axiom,3,No,,No,No,102,MCA-562,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Aloe Vera,No,No,BTG-103-C-FR,C - Commune,,3,3,No,4,Muna,2,No,,No,No,103,MCA-563,FR - Français,No,2,No,2,BTG - Au-delà des portes,Personnage,No
+Aloe Vera,No,No,BTG-103-C-EN,C - Commune,,3,3,No,4,Muna,2,No,,No,No,103,MCA-564,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Aloe Vera,No,No,BTG-103-R-FR,R - Rare,,3,3,No,4,Muna,2,Yes,,No,No,103,MCA-565,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Aloe Vera,No,No,BTG-103-R-EN,R - Rare,,3,3,No,4,Muna,2,Yes,,No,No,103,MCA-566,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Aloe Vera,No,No,BTG-103-F-FR,F - Transfuge,,3,3,No,4,Lyra,2,Yes,,No,No,103,MCA-567,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Aloe Vera,No,No,BTG-103-F-EN,F - Transfuge,,3,3,No,4,Lyra,2,Yes,,No,No,103,MCA-568,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Fille d’Yggdrasil,No,No,BTG-104-C-FR,C - Commune,,3,3,No,3,Muna,5,No,,No,No,104,MCA-569,FR - Français,Yes,4,No,5,BTG - Au-delà des portes,Personnage,No
+Daughter of Yggdrasil,No,No,BTG-104-C-EN,C - Commune,,3,3,No,3,Muna,5,No,,No,No,104,MCA-570,EN - English,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Fille d’Yggdrasil,No,No,BTG-104-R-FR,R - Rare,,3,3,No,3,Muna,5,No,,No,No,104,MCA-571,FR - Français,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Daughter of Yggdrasil,No,No,BTG-104-R-EN,R - Rare,,3,3,No,3,Muna,5,No,,No,No,104,MCA-572,EN - English,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Fille d’Yggdrasil,No,No,BTG-104-F-FR,F - Transfuge,,3,3,No,3,Axiom,5,No,,No,No,104,MCA-573,FR - Français,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Daughter of Yggdrasil,No,No,BTG-104-F-EN,F - Transfuge,,3,3,No,3,Axiom,5,No,,No,No,104,MCA-574,EN - English,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Dracaena,No,No,BTG-105-C-FR,C - Commune,,3,3,No,2,Muna,0,Yes,,No,No,105,MCA-575,FR - Français,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Dracaena,No,No,BTG-105-C-EN,C - Commune,,3,3,No,2,Muna,0,Yes,,No,No,105,MCA-576,EN - English,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Dracaena,No,No,BTG-105-R-FR,R - Rare,,3,3,No,1,Muna,0,Yes,,No,No,105,MCA-577,FR - Français,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Dracaena,No,No,BTG-105-R-EN,R - Rare,,3,3,No,1,Muna,0,Yes,,No,No,105,MCA-578,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Dracaena,No,No,BTG-105-F-FR,F - Transfuge,,3,3,No,2,Bravos,0,Yes,,No,No,105,MCA-579,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Dracaena,No,No,BTG-105-F-EN,F - Transfuge,,3,3,No,2,Bravos,0,Yes,,No,No,105,MCA-580,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+"Yong-Su, Tisserand Verdoyant",No,No,BTG-106-C-FR,C - Commune,,3,3,No,3,Muna,3,Yes,,No,No,106,MCA-581,FR - Français,No,4,No,3,BTG - Au-delà des portes,Personnage,No
+"Yong-Su, Verdant Weaver",No,No,BTG-106-C-EN,C - Commune,,3,3,No,3,Muna,3,Yes,,No,No,106,MCA-582,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+"Yong-Su, Tisserand Verdoyant",No,No,BTG-106-R-FR,R - Rare,,2,2,No,2,Muna,2,Yes,,No,No,106,MCA-583,FR - Français,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+"Yong-Su, Verdant Weaver",No,No,BTG-106-R-EN,R - Rare,,2,2,No,2,Muna,2,Yes,,No,No,106,MCA-584,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+"Yong-Su, Tisserand Verdoyant",No,No,BTG-106-F-FR,F - Transfuge,,3,3,No,3,Lyra,3,Yes,,No,No,106,MCA-585,FR - Français,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+"Yong-Su, Verdant Weaver",No,No,BTG-106-F-EN,F - Transfuge,,3,3,No,3,Lyra,3,Yes,,No,No,106,MCA-586,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Parvati,No,No,BTG-107-C-FR,C - Commune,,4,2,No,3,Muna,3,No,,No,No,107,MCA-587,FR - Français,Yes,1,No,0,BTG - Au-delà des portes,Personnage,No
+Parvati,No,No,BTG-107-C-EN,C - Commune,,4,2,No,3,Muna,3,No,,No,No,107,MCA-588,EN - English,Yes,0,No,0,BTG - Au-delà des portes,Personnage,No
+Parvati,No,No,BTG-107-R-FR,R - Rare,,4,3,No,3,Muna,3,Yes,,No,No,107,MCA-589,FR - Français,No,2,No,0,BTG - Au-delà des portes,Personnage,No
+Parvati,No,No,BTG-107-R-EN,R - Rare,,4,3,No,3,Muna,3,Yes,,No,No,107,MCA-590,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Parvati,No,No,BTG-107-F-FR,F - Transfuge,,4,3,No,3,Bravos,3,Yes,,No,No,107,MCA-591,FR - Français,No,1,No,0,BTG - Au-delà des portes,Personnage,No
+Parvati,No,No,BTG-107-F-EN,F - Transfuge,,4,3,No,3,Bravos,3,Yes,,No,No,107,MCA-592,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Cernunnos,No,No,BTG-108-C-FR,C - Commune,,4,3,No,4,Muna,4,No,,No,No,108,MCA-593,FR - Français,No,3,No,4,BTG - Au-delà des portes,Personnage,No
+Cernunnos,No,No,BTG-108-C-EN,C - Commune,,4,3,No,4,Muna,4,No,,No,No,108,MCA-594,EN - English,No,2,No,4,BTG - Au-delà des portes,Personnage,No
+Cernunnos,No,No,BTG-108-R-FR,R - Rare,,3,3,No,4,Muna,4,No,,No,No,108,MCA-595,FR - Français,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Cernunnos,No,No,BTG-108-R-EN,R - Rare,,3,3,No,4,Muna,4,No,,No,No,108,MCA-596,EN - English,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Cernunnos,No,No,BTG-108-F-FR,F - Transfuge,,3,3,No,4,Lyra,4,No,,No,No,108,MCA-597,FR - Français,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Cernunnos,No,No,BTG-108-F-EN,F - Transfuge,,3,3,No,4,Lyra,4,No,,No,No,108,MCA-598,EN - English,No,1,No,4,BTG - Au-delà des portes,Personnage,No
+Aja,No,No,BTG-109-C-FR,C - Commune,,4,4,No,4,Muna,4,No,,No,No,109,MCA-599,FR - Français,Yes,1,No,5,BTG - Au-delà des portes,Personnage,No
+Aja,No,No,BTG-109-C-EN,C - Commune,,4,4,No,4,Muna,4,No,,No,No,109,MCA-600,EN - English,Yes,1,No,5,BTG - Au-delà des portes,Personnage,No
+Aja,No,Yes,BTG-109-R-FR,R - Rare,,4,4,No,4,Muna,4,Yes,,No,No,109,MCA-601,FR - Français,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Aja,No,Yes,BTG-109-R-EN,R - Rare,,4,4,No,4,Muna,4,Yes,,No,No,109,MCA-602,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Aja,No,No,BTG-109-F-FR,F - Transfuge,,4,4,No,4,Bravos,4,No,,No,No,109,MCA-603,FR - Français,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Aja,No,No,BTG-109-F-EN,F - Transfuge,,4,4,No,4,Bravos,4,No,,No,No,109,MCA-604,EN - English,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Vertéchine,No,No,BTG-110-C-FR,C - Commune,,4,4,No,6,Muna,5,No,,No,No,110,MCA-605,FR - Français,No,1,No,5,BTG - Au-delà des portes,Personnage,No
+Verdantback,No,No,BTG-110-C-EN,C - Commune,,4,4,No,6,Muna,5,No,,No,No,110,MCA-606,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Vertéchine,No,No,BTG-110-R-FR,R - Rare,,3,3,No,5,Muna,4,No,,No,No,110,MCA-607,FR - Français,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Verdantback,No,No,BTG-110-R-EN,R - Rare,,3,3,No,5,Muna,4,No,,No,No,110,MCA-608,EN - English,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Vertéchine,No,No,BTG-110-F-FR,F - Transfuge,,4,4,No,6,Ordis,5,No,,No,No,110,MCA-609,FR - Français,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Verdantback,No,No,BTG-110-F-EN,F - Transfuge,,4,4,No,6,Ordis,5,No,,No,No,110,MCA-610,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Pignon Pugnace,No,No,BTG-111-C-FR,C - Commune,,5,5,No,3,Muna,3,Yes,,No,No,111,MCA-611,FR - Français,No,2,No,3,BTG - Au-delà des portes,Personnage,No
+Coniferal Coneman,No,No,BTG-111-C-EN,C - Commune,,5,5,No,3,Muna,3,Yes,,No,No,111,MCA-612,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Pignon Pugnace,No,No,BTG-111-R-FR,R - Rare,,4,4,No,3,Muna,3,Yes,,No,No,111,MCA-613,FR - Français,No,2,No,3,BTG - Au-delà des portes,Personnage,No
+Coniferal Coneman,No,No,BTG-111-R-EN,R - Rare,,4,4,No,3,Muna,3,Yes,,No,No,111,MCA-614,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Pignon Pugnace,No,No,BTG-111-F-FR,F - Transfuge,,4,4,No,3,Lyra,3,Yes,,No,No,111,MCA-615,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Coniferal Coneman,No,No,BTG-111-F-EN,F - Transfuge,,4,4,No,3,Lyra,3,Yes,,No,No,111,MCA-616,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Fils d’Yggdrasil,No,No,BTG-112-C-FR,C - Commune,,6,6,No,3,Muna,6,No,,No,Yes,112,MCA-617,FR - Français,No,3,No,3,BTG - Au-delà des portes,Personnage,No
+Son of Yggdrasil,No,No,BTG-112-C-EN,C - Commune,,6,6,No,3,Muna,6,No,,No,Yes,112,MCA-618,EN - English,No,3,No,3,BTG - Au-delà des portes,Personnage,No
+Fils d’Yggdrasil,No,Yes,BTG-112-R-FR,R - Rare,1,6,6,No,3,Muna,6,No,,No,Yes,112,MCA-619,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Son of Yggdrasil,No,Yes,BTG-112-R-EN,R - Rare,1,6,6,No,3,Muna,6,No,,No,Yes,112,MCA-620,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Fils d’Yggdrasil,No,No,BTG-112-F-FR,F - Transfuge,,6,6,No,3,Bravos,6,No,,No,Yes,112,MCA-621,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Son of Yggdrasil,No,No,BTG-112-F-EN,F - Transfuge,,6,6,No,3,Bravos,6,No,,No,Yes,112,MCA-622,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Hydracaena,No,No,BTG-113-C-FR,C - Commune,,7,7,No,0,Muna,0,Yes,,No,No,113,MCA-623,FR - Français,No,2,No,0,BTG - Au-delà des portes,Personnage,Yes
+Hydracaena,No,No,BTG-113-C-EN,C - Commune,,7,7,No,0,Muna,0,Yes,,No,No,113,MCA-624,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,Yes
+Hydracaena,No,No,BTG-113-R-FR,R - Rare,X,7,7,No,0,Muna,0,Yes,,No,No,113,MCA-625,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,Yes
+Hydracaena,No,No,BTG-113-R-EN,R - Rare,X,7,7,No,0,Muna,0,Yes,,No,No,113,MCA-626,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,Yes
+Hydracaena,No,No,BTG-113-F-FR,F - Transfuge,,7,7,No,0,Lyra,0,Yes,,No,No,113,MCA-627,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,Yes
+Hydracaena,No,No,BTG-113-F-EN,F - Transfuge,,7,7,No,0,Lyra,0,Yes,,No,No,113,MCA-628,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,Yes
+Récolter,No,No,BTG-114-C-FR,C - Commune,,1,2,No,,Muna,,No,,No,No,114,MCA-629,FR - Français,No,4,No,,BTG - Au-delà des portes,Sort,Yes
+Harvest,No,No,BTG-114-C-EN,C - Commune,,1,2,No,,Muna,,No,,No,No,114,MCA-630,EN - English,No,1,No,,BTG - Au-delà des portes,Sort,Yes
+Récolter,No,No,BTG-114-R-FR,R - Rare,,2,2,No,,Muna,,No,,No,No,114,MCA-631,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,Yes
+Harvest,No,No,BTG-114-R-EN,R - Rare,,2,2,No,,Muna,,No,,No,No,114,MCA-632,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Récolter,No,No,BTG-114-F-FR,F - Transfuge,,1,2,No,,Axiom,,No,,No,No,114,MCA-633,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,Yes
+Harvest,No,No,BTG-114-F-EN,F - Transfuge,,1,2,No,,Axiom,,No,,No,No,114,MCA-634,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Sommeil Réparateur,No,No,BTG-115-C-FR,C - Commune,,1,3,No,,Muna,,No,,No,No,115,MCA-635,FR - Français,No,5,No,,BTG - Au-delà des portes,Sort,Yes
+Beauty Sleep,No,No,BTG-115-C-EN,C - Commune,,1,3,No,,Muna,,No,,No,No,115,MCA-636,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Sommeil Réparateur,No,No,BTG-115-R-FR,R - Rare,,1,3,No,,Muna,,No,,No,No,115,MCA-637,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Beauty Sleep,No,No,BTG-115-R-EN,R - Rare,,1,3,No,,Muna,,No,,No,No,115,MCA-638,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Sommeil Réparateur,No,No,BTG-115-F-FR,F - Transfuge,,1,3,No,,Yzmir,,No,,No,No,115,MCA-639,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,Yes
+Beauty Sleep,No,No,BTG-115-F-EN,F - Transfuge,,1,3,No,,Yzmir,,No,,No,No,115,MCA-640,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Abreuver,No,No,BTG-116-C-FR,C - Commune,,2,1,No,,Muna,,No,,No,No,116,MCA-641,FR - Français,No,4,No,,BTG - Au-delà des portes,Sort,Yes
+Nurture,No,No,BTG-116-C-EN,C - Commune,,2,1,No,,Muna,,No,,No,No,116,MCA-642,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Abreuver,No,No,BTG-116-R-FR,R - Rare,,3,2,No,,Muna,,No,,No,No,116,MCA-643,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,Yes
+Nurture,No,No,BTG-116-R-EN,R - Rare,,3,2,No,,Muna,,No,,No,No,116,MCA-644,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Abreuver,No,No,BTG-116-F-FR,F - Transfuge,,2,1,No,,Ordis,,No,,No,No,116,MCA-645,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Nurture,No,No,BTG-116-F-EN,F - Transfuge,,2,1,No,,Ordis,,No,,No,No,116,MCA-646,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Entraînement à la Méditation,No,No,BTG-117-C-FR,C - Commune,,2,1,No,,Muna,,No,,No,No,117,MCA-647,FR - Français,No,5,No,,BTG - Au-delà des portes,Sort,Yes
+Meditation Training,No,No,BTG-117-C-EN,C - Commune,,2,1,No,,Muna,,No,,No,No,117,MCA-648,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Entraînement à la Méditation,No,Yes,BTG-117-R-FR,R - Rare,,2,2,No,,Muna,,No,,No,No,117,MCA-649,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,Yes
+Meditation Training,No,Yes,BTG-117-R-EN,R - Rare,,2,2,No,,Muna,,No,,No,No,117,MCA-650,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Entraînement à la Méditation,No,No,BTG-117-F-FR,F - Transfuge,,2,3,No,,Muna,,No,,No,No,117,MCA-651,FR - Français,No,2,No,,BTG - Au-delà des portes,Sort,Yes
+Meditation Training,No,No,BTG-117-F-EN,F - Transfuge,,2,3,No,,Muna,,No,,No,No,117,MCA-652,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Moisson de Mana,No,No,BTG-118-C-FR,C - Commune,,3,3,No,,Muna,,No,,Yes,No,118,MCA-653,FR - Français,No,2,No,,BTG - Au-delà des portes,Sort,Yes
+Mana Reaping,No,No,BTG-118-C-EN,C - Commune,,3,3,No,,Muna,,No,,Yes,No,118,MCA-654,EN - English,No,1,No,,BTG - Au-delà des portes,Sort,Yes
+Moisson de Mana,No,No,BTG-118-R-FR,R - Rare,,3,3,No,,Muna,,No,,No,No,118,MCA-655,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Mana Reaping,No,No,BTG-118-R-EN,R - Rare,,3,3,No,,Muna,,No,,No,No,118,MCA-656,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Moisson de Mana,No,No,BTG-118-F-FR,F - Transfuge,,3,3,No,,Bravos,,No,,Yes,No,118,MCA-657,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,Yes
+Mana Reaping,No,No,BTG-118-F-EN,F - Transfuge,,3,3,No,,Bravos,,No,,Yes,No,118,MCA-658,EN - English,No,1,No,,BTG - Au-delà des portes,Sort,Yes
+Prairie Prolifique,No,No,BTG-119-C-FR,C - Commune,,2,2,No,,Muna,,No,,No,No,119,MCA-659,FR - Français,No,2,No,,BTG - Au-delà des portes,Repère Permanent,Yes
+Bountiful Meadow,No,No,BTG-119-C-EN,C - Commune,,2,2,No,,Muna,,No,,No,No,119,MCA-660,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,Yes
+Prairie Prolifique,No,No,BTG-119-R-FR,R - Rare,,2,2,No,,Muna,,Yes,,No,No,119,MCA-662,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,Yes
+Bountiful Meadow,No,No,BTG-119-R-EN,R - Rare,,2,2,No,,Muna,,Yes,,No,No,119,MCA-663,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,Yes
+Prairie Prolifique,No,No,BTG-119-F-FR,F - Transfuge,,2,2,No,,Ordis,,No,,No,No,119,MCA-664,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,Yes
+Bountiful Meadow,No,No,BTG-119-F-EN,F - Transfuge,,2,2,No,,Ordis,,No,,No,No,119,MCA-665,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,Yes
+"Le Fuseau, Bastion Muna",No,No,BTG-120-C-FR,C - Commune,,3,3,No,,Muna,,No,,No,No,120,MCA-666,FR - Français,No,2,No,,BTG - Au-delà des portes,Repère Permanent,Yes
+"The Spindle, Muna Bastion",No,No,BTG-120-C-EN,C - Commune,,3,3,No,,Muna,,No,,No,No,120,MCA-667,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,Yes
+"Le Fuseau, Bastion Muna",No,No,BTG-120-R-FR,R - Rare,2,3,3,No,,Muna,,No,,No,No,120,MCA-668,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,Yes
+"The Spindle, Muna Bastion",No,No,BTG-120-R-EN,R - Rare,2,3,3,No,,Muna,,No,,No,No,120,MCA-669,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,Yes
+"Le Fuseau, Bastion Muna",No,No,BTG-120-F-FR,F - Transfuge,,3,3,No,,Bravos,,No,,No,No,120,MCA-670,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,Yes
+"The Spindle, Muna Bastion",No,No,BTG-120-F-EN,F - Transfuge,,3,3,No,,Bravos,,No,,No,No,120,MCA-671,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,Yes
+Sigismar & Wingspan,No,No,BTG-121-H-FR,H - Héro,,,,No,,Ordis,,No,,No,No,121,MCA-672,FR - Français,No,3,No,,BTG - Au-delà des portes,,No
+Sigismar & Wingspan,No,No,BTG-121-H-EN,H - Héro,,,,No,,Ordis,,No,,No,No,121,MCA-673,EN - English,No,0,No,,BTG - Au-delà des portes,,No
+Gulrang & Tocsin,No,No,BTG-122-H-FR,H - Héro,,,,No,,Ordis,,No,,No,No,122,MCA-674,FR - Français,No,3,No,,BTG - Au-delà des portes,,No
+Gulrang & Tocsin,No,No,BTG-122-H-EN,H - Héro,,,,No,,Ordis,,No,,No,No,122,MCA-675,EN - English,No,0,No,,BTG - Au-delà des portes,,No
+Waru & Mack,No,No,BTG-123-H-FR,H - Héro,,,,No,,Ordis,,No,,No,No,123,MCA-676,FR - Français,No,3,No,,BTG - Au-delà des portes,,No
+Waru & Mack,No,No,BTG-123-H-EN,H - Héro,,,,No,,Ordis,,No,,No,No,123,MCA-677,EN - English,No,1,No,,BTG - Au-delà des portes,,No
+Troupière Ordis,No,No,BTG-124-C-FR,C - Commune,,1,1,No,1,Ordis,1,No,,No,No,124,MCA-678,FR - Français,No,3,No,1,BTG - Au-delà des portes,Personnage,No
+Ordis Trooper,No,No,BTG-124-C-EN,C - Commune,,1,1,No,1,Ordis,1,No,,No,No,124,MCA-679,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Troupière Ordis,No,No,BTG-124-R-FR,R - Rare,,1,1,No,2,Ordis,1,No,,No,No,124,MCA-680,FR - Français,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Ordis Trooper,No,No,BTG-124-R-EN,R - Rare,,1,1,No,2,Ordis,1,No,,No,No,124,MCA-681,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Troupière Ordis,No,No,BTG-124-F-FR,F - Transfuge,,1,1,No,1,Yzmir,1,No,,No,No,124,MCA-682,FR - Français,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Ordis Trooper,No,No,BTG-124-F-EN,F - Transfuge,,1,1,No,1,Yzmir,1,No,,No,No,124,MCA-683,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Héraut de Papier,No,Yes,BTG-125-C-FR,C - Commune,,1,1,No,1,Ordis,0,No,,No,No,125,MCA-684,FR - Français,No,5,No,0,BTG - Au-delà des portes,Personnage,No
+Paper Herald,No,Yes,BTG-125-C-EN,C - Commune,,1,1,No,1,Ordis,0,No,,No,No,125,MCA-685,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Héraut de Papier,No,Yes,BTG-125-R-FR,R - Rare,,1,1,No,2,Ordis,0,No,,No,No,125,MCA-686,FR - Français,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Paper Herald,No,Yes,BTG-125-R-EN,R - Rare,,1,1,No,2,Ordis,0,No,,No,No,125,MCA-687,EN - English,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Héraut de Papier,No,Yes,BTG-125-F-FR,F - Transfuge,,1,1,No,1,Lyra,0,No,,No,No,125,MCA-688,FR - Français,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Paper Herald,No,Yes,BTG-125-F-EN,F - Transfuge,,1,1,No,1,Lyra,0,No,,No,No,125,MCA-689,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Archiviste du Monolithe,No,No,BTG-126-C-FR,C - Commune,,2,2,Yes,3,Ordis,3,No,,No,No,126,MCA-690,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Monolith Archivist,No,No,BTG-126-C-EN,C - Commune,,2,2,Yes,3,Ordis,3,No,,No,No,126,MCA-691,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Archiviste du Monolithe,No,No,BTG-126-R-FR,R - Rare,,2,2,Yes,3,Ordis,3,No,,No,No,126,MCA-692,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Monolith Archivist,No,No,BTG-126-R-EN,R - Rare,,2,2,Yes,3,Ordis,3,No,,No,No,126,MCA-693,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Archiviste du Monolithe,No,No,BTG-126-F-FR,F - Transfuge,,2,2,Yes,3,Yzmir,3,No,,No,No,126,MCA-694,FR - Français,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Monolith Archivist,No,No,BTG-126-F-EN,F - Transfuge,,2,2,Yes,3,Yzmir,3,No,,No,No,126,MCA-695,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Légat du Monolithe,No,No,BTG-127-C-FR,C - Commune,,2,2,Yes,2,Ordis,2,No,,No,No,127,MCA-696,FR - Français,No,2,No,1,BTG - Au-delà des portes,Personnage,No
+Monolith Legate,No,No,BTG-127-C-EN,C - Commune,,2,2,Yes,2,Ordis,2,No,,No,No,127,MCA-697,EN - English,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Légat du Monolithe,No,Yes,BTG-127-R-FR,R - Rare,,2,2,Yes,2,Ordis,2,No,,No,No,127,MCA-698,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Monolith Legate,No,Yes,BTG-127-R-EN,R - Rare,,2,2,Yes,2,Ordis,2,No,,No,No,127,MCA-699,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Légat du Monolithe,No,No,BTG-127-F-FR,F - Transfuge,,2,2,Yes,2,Yzmir,2,No,,No,No,127,MCA-700,FR - Français,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Monolith Legate,No,No,BTG-127-F-EN,F - Transfuge,,2,2,Yes,2,Yzmir,2,No,,No,No,127,MCA-701,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Scribe Runique du Monolithe,No,No,BTG-128-C-FR,C - Commune,,2,2,Yes,2,Ordis,2,No,,No,No,128,MCA-702,FR - Français,No,2,No,2,BTG - Au-delà des portes,Personnage,No
+Monolith Rune-Scribe,No,No,BTG-128-C-EN,C - Commune,,2,2,Yes,2,Ordis,2,No,,No,No,128,MCA-703,EN - English,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Scribe Runique du Monolithe,No,No,BTG-128-R-FR,R - Rare,,2,2,Yes,2,Ordis,1,No,,No,No,128,MCA-704,FR - Français,Yes,2,No,2,BTG - Au-delà des portes,Personnage,No
+Monolith Rune-Scribe,No,No,BTG-128-R-EN,R - Rare,,2,2,Yes,2,Ordis,1,No,,No,No,128,MCA-705,EN - English,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Scribe Runique du Monolithe,No,No,BTG-128-F-FR,F - Transfuge,,2,2,Yes,2,Axiom,1,No,,No,No,128,MCA-706,FR - Français,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Monolith Rune-Scribe,No,No,BTG-128-F-EN,F - Transfuge,,2,2,Yes,2,Axiom,1,No,,No,No,128,MCA-707,EN - English,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Cadets Ordis,No,No,BTG-129-C-FR,C - Commune,,2,2,Yes,0,Ordis,1,Yes,,No,No,129,MCA-708,FR - Français,No,5,No,1,BTG - Au-delà des portes,Personnage,No
+Ordis Cadets,No,No,BTG-129-C-EN,C - Commune,,2,2,Yes,0,Ordis,1,Yes,,No,No,129,MCA-709,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Cadets Ordis,No,No,BTG-129-R-FR,R - Rare,,2,2,Yes,1,Ordis,1,Yes,,No,No,129,MCA-710,FR - Français,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Ordis Cadets,No,No,BTG-129-R-EN,R - Rare,,2,2,Yes,1,Ordis,1,Yes,,No,No,129,MCA-711,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Cadets Ordis,No,Yes,BTG-129-F-FR,F - Transfuge,,2,2,Yes,0,Yzmir,1,Yes,,No,No,129,MCA-712,FR - Français,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Ordis Cadets,No,Yes,BTG-129-F-EN,F - Transfuge,,2,2,Yes,0,Yzmir,1,Yes,,No,No,129,MCA-713,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Ozma,No,No,BTG-130-C-FR,C - Commune,,2,2,Yes,1,Ordis,1,Yes,,No,No,130,MCA-714,FR - Français,No,4,No,2,BTG - Au-delà des portes,Personnage,No
+Ozma,No,No,BTG-130-C-EN,C - Commune,,2,2,Yes,1,Ordis,1,Yes,,No,No,130,MCA-715,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Ozma,No,No,BTG-130-R-FR,R - Rare,,2,2,Yes,2,Ordis,2,Yes,,No,No,130,MCA-716,FR - Français,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Ozma,No,No,BTG-130-R-EN,R - Rare,,2,2,Yes,2,Ordis,2,Yes,,No,No,130,MCA-717,EN - English,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Ozma,No,No,BTG-130-F-FR,F - Transfuge,,2,2,Yes,2,Bravos,2,Yes,,No,No,130,MCA-718,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Ozma,No,No,BTG-130-F-EN,F - Transfuge,,2,2,Yes,2,Bravos,2,Yes,,No,No,130,MCA-719,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Le Roi-Grenouille,No,No,BTG-131-C-FR,C - Commune,,2,2,Yes,3,Ordis,3,No,,No,No,131,MCA-720,FR - Français,No,4,No,0,BTG - Au-delà des portes,Personnage,No
+The Frog Prince,No,No,BTG-131-C-EN,C - Commune,,2,2,Yes,3,Ordis,3,No,,No,No,131,MCA-721,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Le Roi-Grenouille,No,No,BTG-131-R-FR,R - Rare,,1,1,Yes,2,Ordis,2,No,,No,No,131,MCA-722,FR - Français,No,1,No,0,BTG - Au-delà des portes,Personnage,No
+The Frog Prince,No,No,BTG-131-R-EN,R - Rare,,1,1,Yes,2,Ordis,2,No,,No,No,131,MCA-723,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Le Roi-Grenouille,No,Yes,BTG-131-F-FR,F - Transfuge,,2,2,Yes,3,Axiom,3,No,,No,No,131,MCA-724,FR - Français,No,1,No,0,BTG - Au-delà des portes,Personnage,No
+The Frog Prince,No,Yes,BTG-131-F-EN,F - Transfuge,,2,2,Yes,3,Axiom,3,No,,No,No,131,MCA-725,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Espionne Ordis,No,No,BTG-132-C-FR,C - Commune,,3,2,Yes,2,Ordis,2,No,,No,No,132,MCA-726,FR - Français,Yes,4,No,2,BTG - Au-delà des portes,Personnage,No
+Ordis Spy,No,No,BTG-132-C-EN,C - Commune,,3,2,Yes,2,Ordis,2,No,,No,No,132,MCA-727,EN - English,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Espionne Ordis,No,No,BTG-132-R-FR,R - Rare,,3,2,Yes,2,Ordis,2,No,,No,No,132,MCA-728,FR - Français,Yes,1,Yes,2,BTG - Au-delà des portes,Personnage,No
+Ordis Spy,No,No,BTG-132-R-EN,R - Rare,,3,2,Yes,2,Ordis,2,No,,No,No,132,MCA-729,EN - English,Yes,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Espionne Ordis,No,No,BTG-132-F-FR,F - Transfuge,,3,2,Yes,2,Bravos,2,No,,No,No,132,MCA-730,FR - Français,Yes,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+Ordis Spy,No,No,BTG-132-F-EN,F - Transfuge,,3,2,Yes,2,Bravos,2,No,,No,No,132,MCA-731,EN - English,Yes,0,Yes,2,BTG - Au-delà des portes,Personnage,No
+"Kakoba, Commandant de Légion",No,No,BTG-133-C-FR,C - Commune,,3,3,Yes,2,Ordis,2,Yes,,No,No,133,MCA-732,FR - Français,No,4,No,2,BTG - Au-delà des portes,Personnage,No
+"Kakoba, Legion Commander",No,No,BTG-133-C-EN,C - Commune,,3,3,Yes,2,Ordis,2,Yes,,No,No,133,MCA-733,EN - English,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+"Kakoba, Commandant de Légion",No,No,BTG-133-R-FR,R - Rare,,3,3,Yes,2,Ordis,2,Yes,,No,No,133,MCA-734,FR - Français,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+"Kakoba, Legion Commander",No,No,BTG-133-R-EN,R - Rare,,3,3,Yes,2,Ordis,2,Yes,,No,No,133,MCA-735,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+"Kakoba, Commandant de Légion",No,No,BTG-133-F-FR,F - Transfuge,,3,3,Yes,2,Muna,2,Yes,,No,No,133,MCA-736,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+"Kakoba, Legion Commander",No,No,BTG-133-F-EN,F - Transfuge,,3,3,Yes,2,Muna,2,Yes,,No,No,133,MCA-737,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Procuratrice Ordis,No,No,BTG-134-C-FR,C - Commune,,3,3,Yes,3,Ordis,2,No,,No,No,134,MCA-738,FR - Français,No,2,No,3,BTG - Au-delà des portes,Personnage,No
+Ordis Attorney,No,No,BTG-134-C-EN,C - Commune,,3,3,Yes,3,Ordis,2,No,,No,No,134,MCA-739,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Procuratrice Ordis,No,No,BTG-134-R-FR,R - Rare,,2,2,Yes,2,Ordis,2,No,,No,No,134,MCA-740,FR - Français,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Ordis Attorney,No,No,BTG-134-R-EN,R - Rare,,2,2,Yes,2,Ordis,2,No,,No,No,134,MCA-741,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Procuratrice Ordis,No,No,BTG-134-F-FR,F - Transfuge,,3,3,Yes,3,Yzmir,2,No,,No,No,134,MCA-742,FR - Français,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Ordis Attorney,No,No,BTG-134-F-EN,F - Transfuge,,3,3,Yes,3,Yzmir,2,No,,No,No,134,MCA-743,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Gardienne Ordis,No,No,BTG-135-C-FR,C - Commune,,3,3,Yes,1,Ordis,1,Yes,,No,No,135,MCA-744,FR - Français,No,6,No,3,BTG - Au-delà des portes,Personnage,No
+Ordis Gatekeeper,No,No,BTG-135-C-EN,C - Commune,,3,3,Yes,1,Ordis,1,Yes,,No,No,135,MCA-745,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Gardienne Ordis,No,No,BTG-135-R-FR,R - Rare,,3,3,Yes,1,Ordis,1,Yes,,No,No,135,MCA-746,FR - Français,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Ordis Gatekeeper,No,No,BTG-135-R-EN,R - Rare,,3,3,Yes,1,Ordis,1,Yes,,No,No,135,MCA-747,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Gardienne Ordis,No,No,BTG-135-F-FR,F - Transfuge,,3,3,Yes,1,Muna,1,Yes,,No,No,135,MCA-748,FR - Français,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Ordis Gatekeeper,No,No,BTG-135-F-EN,F - Transfuge,,3,3,Yes,1,Muna,1,Yes,,No,No,135,MCA-749,EN - English,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Thot,No,No,BTG-136-C-FR,C - Commune,,3,3,Yes,2,Ordis,3,No,,No,No,136,MCA-750,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Thoth,No,No,BTG-136-C-EN,C - Commune,,3,3,Yes,2,Ordis,3,No,,No,No,136,MCA-751,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Thot,No,No,BTG-136-R-FR,R - Rare,,3,3,Yes,2,Ordis,3,No,,No,No,136,MCA-752,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Thoth,No,No,BTG-136-R-EN,R - Rare,,3,3,Yes,2,Ordis,3,No,,No,No,136,MCA-753,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Thot,No,No,BTG-136-F-FR,F - Transfuge,,3,3,Yes,2,Yzmir,3,No,,No,No,136,MCA-754,FR - Français,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Thoth,No,No,BTG-136-F-EN,F - Transfuge,,3,3,Yes,2,Yzmir,3,No,,No,No,136,MCA-755,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Jeanne d’Arc,No,No,BTG-137-C-FR,C - Commune,,4,4,Yes,2,Ordis,2,No,,No,No,137,MCA-756,FR - Français,No,4,No,2,BTG - Au-delà des portes,Personnage,No
+Jeanne d’Arc,No,No,BTG-137-C-EN,C - Commune,,4,4,Yes,2,Ordis,2,No,,No,No,137,MCA-757,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Jeanne d’Arc,No,No,BTG-137-R-FR,R - Rare,,5,5,Yes,2,Ordis,2,No,,No,No,137,MCA-758,FR - Français,No,2,No,2,BTG - Au-delà des portes,Personnage,No
+Jeanne d’Arc,No,No,BTG-137-R-EN,R - Rare,,5,5,Yes,2,Ordis,2,No,,No,No,137,MCA-759,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Jeanne d’Arc,No,No,BTG-137-F-FR,F - Transfuge,,5,5,Yes,3,Axiom,3,No,,No,No,137,MCA-760,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Jeanne d’Arc,No,No,BTG-137-F-EN,F - Transfuge,,5,5,Yes,3,Axiom,3,No,,No,No,137,MCA-761,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Quetzalcóatl,No,No,BTG-138-C-FR,C - Commune,,4,4,Yes,4,Ordis,4,No,,No,No,138,MCA-762,FR - Français,No,4,No,4,BTG - Au-delà des portes,Personnage,No
+Quetzalcóatl,No,No,BTG-138-C-EN,C - Commune,,4,4,Yes,4,Ordis,4,No,,No,No,138,MCA-763,EN - English,No,1,No,4,BTG - Au-delà des portes,Personnage,No
+Quetzalcóatl,No,No,BTG-138-R-FR,R - Rare,,3,3,Yes,3,Ordis,3,No,,No,No,138,MCA-764,FR - Français,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Quetzalcóatl,No,No,BTG-138-R-EN,R - Rare,,3,3,Yes,3,Ordis,3,No,,No,No,138,MCA-765,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Quetzalcóatl,No,No,BTG-138-F-FR,F - Transfuge,,3,3,Yes,3,Muna,3,No,,No,No,138,MCA-766,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Quetzalcóatl,No,No,BTG-138-F-EN,F - Transfuge,,3,3,Yes,3,Muna,3,No,,No,No,138,MCA-767,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Robin des Bois,No,No,BTG-139-C-FR,C - Commune,,4,4,Yes,2,Ordis,3,No,,No,No,139,MCA-768,FR - Français,No,2,No,2,BTG - Au-delà des portes,Personnage,No
+Robin Hood,No,No,BTG-139-C-EN,C - Commune,,4,4,Yes,2,Ordis,3,No,,No,No,139,MCA-769,EN - English,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Robin des Bois,No,No,BTG-139-R-FR,R - Rare,,4,4,Yes,2,Ordis,3,No,,No,No,139,MCA-770,FR - Français,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Robin Hood,No,No,BTG-139-R-EN,R - Rare,,4,4,Yes,2,Ordis,3,No,,No,No,139,MCA-771,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Robin des Bois,No,Yes,BTG-139-F-FR,F - Transfuge,,4,4,Yes,3,Lyra,3,No,,No,No,139,MCA-772,FR - Français,No,1,No,0,BTG - Au-delà des portes,Personnage,No
+Robin Hood,No,Yes,BTG-139-F-EN,F - Transfuge,,4,4,Yes,3,Lyra,3,No,,No,No,139,MCA-773,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Le Conseil,No,No,BTG-140-C-FR,C - Commune,,4,4,Yes,4,Ordis,4,No,,No,No,140,MCA-774,FR - Français,No,4,No,4,BTG - Au-delà des portes,Personnage,No
+The Council,No,No,BTG-140-C-EN,C - Commune,,4,4,Yes,4,Ordis,4,No,,No,No,140,MCA-775,EN - English,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Le Conseil,No,No,BTG-140-R-FR,R - Rare,,3,3,Yes,3,Ordis,3,No,,No,No,140,MCA-776,FR - Français,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+The Council,No,No,BTG-140-R-EN,R - Rare,,3,3,Yes,3,Ordis,3,No,,No,No,140,MCA-777,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Le Conseil,No,No,BTG-140-F-FR,F - Transfuge,,3,3,Yes,3,Bravos,3,No,,No,No,140,MCA-778,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+The Council,No,No,BTG-140-F-EN,F - Transfuge,,3,3,Yes,3,Bravos,3,No,,No,No,140,MCA-779,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Anubis,No,No,BTG-141-C-FR,C - Commune,,5,5,Yes,3,Ordis,3,Yes,,No,No,141,MCA-780,FR - Français,No,1,No,4,BTG - Au-delà des portes,Personnage,No
+Anubis,No,No,BTG-141-C-EN,C - Commune,,5,5,Yes,3,Ordis,3,Yes,,No,No,141,MCA-781,EN - English,No,1,No,4,BTG - Au-delà des portes,Personnage,No
+Anubis,No,No,BTG-141-R-FR,R - Rare,,4,4,Yes,3,Ordis,3,Yes,,No,No,141,MCA-782,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Anubis,No,No,BTG-141-R-EN,R - Rare,,4,4,Yes,3,Ordis,3,Yes,,No,No,141,MCA-783,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Anubis,No,No,BTG-141-F-FR,F - Transfuge,,4,4,Yes,3,Yzmir,3,Yes,,No,No,141,MCA-784,FR - Français,No,1,No,3,BTG - Au-delà des portes,Personnage,No
+Anubis,No,No,BTG-141-F-EN,F - Transfuge,,4,4,Yes,3,Yzmir,3,Yes,,No,No,141,MCA-785,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Issitoq,No,Yes,BTG-142-C-FR,C - Commune,,6,6,Yes,4,Ordis,4,No,,No,No,142,MCA-786,FR - Français,No,5,No,4,BTG - Au-delà des portes,Personnage,No
+Issitoq,No,Yes,BTG-142-C-EN,C - Commune,,6,6,Yes,4,Ordis,4,No,,No,No,142,MCA-787,EN - English,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Issitoq,No,Yes,BTG-142-R-FR,R - Rare,,5,5,Yes,3,Ordis,3,No,,No,No,142,MCA-788,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Issitoq,No,Yes,BTG-142-R-EN,R - Rare,,5,5,Yes,3,Ordis,3,No,,No,No,142,MCA-789,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Issitoq,No,Yes,BTG-142-F-FR,F - Transfuge,,6,6,Yes,4,Yzmir,4,No,,No,No,142,MCA-790,FR - Français,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Issitoq,No,Yes,BTG-142-F-EN,F - Transfuge,,6,6,Yes,4,Yzmir,4,No,,No,No,142,MCA-791,EN - English,No,0,No,4,BTG - Au-delà des portes,Personnage,No
+Chargez!,No,No,BTG-143-C-FR,C - Commune,,2,2,No,,Ordis,,No,,Yes,No,143,MCA-792,FR - Français,No,6,No,,BTG - Au-delà des portes,Sort,No
+Charge!,No,No,BTG-143-C-EN,C - Commune,,2,2,No,,Ordis,,No,,Yes,No,143,MCA-793,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Chargez!,No,No,BTG-143-R-FR,R - Rare,,2,3,No,,Ordis,,No,,No,No,143,MCA-794,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Charge!,No,No,BTG-143-R-EN,R - Rare,,2,3,No,,Ordis,,No,,No,No,143,MCA-795,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Chargez!,No,No,BTG-143-F-FR,F - Transfuge,,2,3,No,,Muna,,No,,No,No,143,MCA-796,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Charge!,No,No,BTG-143-F-EN,F - Transfuge,,2,3,No,,Muna,,No,,No,No,143,MCA-797,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Entraînement à l’Esprit d’Équipe,No,No,BTG-144-C-FR,C - Commune,,2,2,No,,Ordis,,No,,Yes,No,144,MCA-798,FR - Français,No,2,No,,BTG - Au-delà des portes,Sort,No
+Teamwork Training,No,No,BTG-144-C-EN,C - Commune,,2,2,No,,Ordis,,No,,Yes,No,144,MCA-799,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Entraînement à l’Esprit d’Équipe,No,No,BTG-144-R-FR,R - Rare,,3,3,No,,Ordis,,No,,Yes,No,144,MCA-800,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Teamwork Training,No,No,BTG-144-R-EN,R - Rare,,3,3,No,,Ordis,,No,,Yes,No,144,MCA-801,EN - English,No,1,No,,BTG - Au-delà des portes,Sort,No
+Entraînement à l’Esprit d’Équipe,No,No,BTG-144-F-FR,F - Transfuge,,2,2,No,,Axiom,,No,,Yes,No,144,MCA-802,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Teamwork Training,No,No,BTG-144-F-EN,F - Transfuge,,2,2,No,,Axiom,,No,,Yes,No,144,MCA-803,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Sceaux Adhésifs,No,No,BTG-145-C-FR,C - Commune,,3,3,No,,Ordis,,No,,Yes,No,145,MCA-804,FR - Français,No,5,No,,BTG - Au-delà des portes,Sort,No
+Sticky Note Seals,No,No,BTG-145-C-EN,C - Commune,,3,3,No,,Ordis,,No,,Yes,No,145,MCA-805,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Sceaux Adhésifs,No,No,BTG-145-R-FR,R - Rare,,3,4,No,,Ordis,,No,,No,No,145,MCA-806,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Sticky Note Seals,No,No,BTG-145-R-EN,R - Rare,,3,4,No,,Ordis,,No,,No,No,145,MCA-807,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Sceaux Adhésifs,No,No,BTG-145-F-FR,F - Transfuge,,3,3,No,,Axiom,,No,,Yes,No,145,MCA-808,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Sticky Note Seals,No,No,BTG-145-F-EN,F - Transfuge,,3,3,No,,Axiom,,No,,Yes,No,145,MCA-809,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Jour de Célébration,No,No,BTG-146-C-FR,C - Commune,,5,5,No,,Ordis,,No,,Yes,No,146,MCA-810,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Celebration Day,No,No,BTG-146-C-EN,C - Commune,,5,5,No,,Ordis,,No,,Yes,No,146,MCA-811,EN - English,No,3,No,,BTG - Au-delà des portes,Sort,No
+Jour de Célébration,No,No,BTG-146-R-FR,R - Rare,,8,8,No,,Ordis,,No,,Yes,No,146,MCA-812,FR - Français,No,2,No,,BTG - Au-delà des portes,Sort,No
+Celebration Day,No,No,BTG-146-R-EN,R - Rare,,8,8,No,,Ordis,,No,,Yes,No,146,MCA-813,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Jour de Célébration,No,No,BTG-146-F-FR,F - Transfuge,,8,8,No,,Yzmir,,No,,Yes,No,146,MCA-814,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Celebration Day,No,No,BTG-146-F-EN,F - Transfuge,,8,8,No,,Yzmir,,No,,Yes,No,146,MCA-815,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Ouvrez les Portes,No,No,BTG-147-C-FR,C - Commune,,5,6,No,,Ordis,,No,,No,No,147,MCA-816,FR - Français,No,2,No,,BTG - Au-delà des portes,Sort,No
+Open the Gates,No,No,BTG-147-C-EN,C - Commune,,5,6,No,,Ordis,,No,,No,No,147,MCA-817,EN - English,No,1,No,,BTG - Au-delà des portes,Sort,No
+Ouvrez les Portes,No,No,BTG-147-R-FR,R - Rare,,5,5,No,,Ordis,,No,,No,No,147,MCA-818,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+Open the Gates,No,No,BTG-147-R-EN,R - Rare,,5,5,No,,Ordis,,No,,No,No,147,MCA-819,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Ouvrez les Portes,No,No,BTG-147-F-FR,F - Transfuge,,4,5,No,,Axiom,,No,,No,No,147,MCA-820,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Open the Gates,No,No,BTG-147-F-EN,F - Transfuge,,4,5,No,,Axiom,,No,,No,No,147,MCA-821,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Transporteur Ordis,No,No,BTG-148-C-FR,C - Commune,,3,3,No,,Ordis,,No,,No,No,148,MCA-822,FR - Français,No,3,No,,BTG - Au-delà des portes,Repère Permanent,No
+Ordis Carrier,No,No,BTG-148-C-EN,C - Commune,,3,3,No,,Ordis,,No,,No,No,148,MCA-823,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Transporteur Ordis,No,No,BTG-148-R-FR,R - Rare,,5,5,No,,Ordis,,No,,No,No,148,MCA-824,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Ordis Carrier,No,No,BTG-148-R-EN,R - Rare,,5,5,No,,Ordis,,No,,No,No,148,MCA-825,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Transporteur Ordis,No,No,BTG-148-F-FR,F - Transfuge,,3,3,No,,Yzmir,,No,,No,No,148,MCA-826,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Ordis Carrier,No,No,BTG-148-F-EN,F - Transfuge,,3,3,No,,Yzmir,,No,,No,No,148,MCA-827,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+"Le Monolithe, Bastion Ordis",No,No,BTG-149-C-FR,C - Commune,,5,5,No,,Ordis,,No,,No,No,149,MCA-828,FR - Français,No,4,No,,BTG - Au-delà des portes,Repère Permanent,No
+"The Monolith, Ordis Bastion",No,No,BTG-149-C-EN,C - Commune,,5,5,No,,Ordis,,No,,No,No,149,MCA-829,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+"Le Monolithe, Bastion Ordis",No,No,BTG-149-R-FR,R - Rare,,4,4,No,,Ordis,,No,,No,No,149,MCA-830,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+"The Monolith, Ordis Bastion",No,No,BTG-149-R-EN,R - Rare,,4,4,No,,Ordis,,No,,No,No,149,MCA-831,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+"Le Monolithe, Bastion Ordis",No,No,BTG-149-F-FR,F - Transfuge,,4,4,No,,Muna,,No,,No,No,149,MCA-832,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+"The Monolith, Ordis Bastion",No,No,BTG-149-F-EN,F - Transfuge,,4,4,No,,Muna,,No,,No,No,149,MCA-833,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Grand Projet,No,No,BTG-150-C-FR,C - Commune,,6,6,No,,Ordis,,No,,No,No,150,MCA-834,FR - Français,No,2,No,,BTG - Au-delà des portes,Repère Permanent,No
+Grand Endeavor,No,No,BTG-150-C-EN,C - Commune,,6,6,No,,Ordis,,No,,No,No,150,MCA-835,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Grand Projet,No,No,BTG-150-R-FR,R - Rare,2,6,6,No,,Ordis,,No,,No,No,150,MCA-836,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Grand Endeavor,No,No,BTG-150-R-EN,R - Rare,2,6,6,No,,Ordis,,No,,No,No,150,MCA-837,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Grand Projet,No,No,BTG-150-F-FR,F - Transfuge,,6,6,No,,Yzmir,,No,,No,No,150,MCA-838,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Grand Endeavor,No,No,BTG-150-F-EN,F - Transfuge,,6,6,No,,Yzmir,,No,,No,No,150,MCA-839,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Akesha & Taru,No,No,BTG-151-H-FR,H - Héro,,,,No,,Yzmir,,No,,No,No,151,MCA-840,FR - Français,No,1,No,,BTG - Au-delà des portes,,No
+Akesha & Taru,No,No,BTG-151-H-EN,H - Héro,,,,No,,Yzmir,,No,,No,No,151,MCA-841,EN - English,No,0,No,,BTG - Au-delà des portes,,No
+Afanas & Senka,No,No,BTG-152-H-FR,H - Héro,,,,No,,Yzmir,,No,,No,No,152,MCA-842,FR - Français,No,0,No,,BTG - Au-delà des portes,,No
+Afanas & Senka,No,No,BTG-152-H-EN,H - Héro,,,,No,,Yzmir,,No,,No,No,152,MCA-843,EN - English,No,1,No,,BTG - Au-delà des portes,,No
+Lindiwe & Maw,No,No,BTG-153-H-FR,H - Héro,,,,No,,Yzmir,,No,,No,No,153,MCA-844,FR - Français,No,3,No,,BTG - Au-delà des portes,,No
+Lindiwe & Maw,No,No,BTG-153-H-EN,H - Héro,,,,No,,Yzmir,,No,,No,No,153,MCA-845,EN - English,No,1,No,,BTG - Au-delà des portes,,No
+Méduse Lunaire,No,No,BTG-154-C-FR,C - Commune,,1,1,No,1,Yzmir,1,No,,No,No,154,MCA-846,FR - Français,No,4,No,0,BTG - Au-delà des portes,Personnage,No
+Moonlight Jellyfish,No,No,BTG-154-C-EN,C - Commune,,1,1,No,1,Yzmir,1,No,,No,No,154,MCA-847,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Méduse Lunaire,No,No,BTG-154-R-FR,R - Rare,,1,1,No,1,Yzmir,1,No,,No,No,154,MCA-848,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Moonlight Jellyfish,No,No,BTG-154-R-EN,R - Rare,,1,1,No,1,Yzmir,1,No,,No,No,154,MCA-849,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Méduse Lunaire,No,No,BTG-154-F-FR,F - Transfuge,,1,1,No,1,Axiom,1,No,,No,No,154,MCA-850,FR - Français,No,1,No,0,BTG - Au-delà des portes,Personnage,No
+Moonlight Jellyfish,No,No,BTG-154-F-EN,F - Transfuge,,1,1,No,1,Axiom,1,No,,No,No,154,MCA-851,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Disciple Studieux,No,Yes,BTG-155-C-FR,C - Commune,,1,1,No,1,Yzmir,0,No,,No,No,155,MCA-852,FR - Français,No,4,No,1,BTG - Au-delà des portes,Personnage,No
+Studious Disciple,No,Yes,BTG-155-C-EN,C - Commune,,1,1,No,1,Yzmir,0,No,,No,No,155,MCA-853,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Disciple Studieux,No,Yes,BTG-155-R-FR,R - Rare,,1,1,No,1,Yzmir,0,No,,No,No,155,MCA-854,FR - Français,No,0,Yes,1,BTG - Au-delà des portes,Personnage,No
+Studious Disciple,No,Yes,BTG-155-R-EN,R - Rare,,1,1,No,1,Yzmir,0,No,,No,No,155,MCA-855,EN - English,No,0,Yes,1,BTG - Au-delà des portes,Personnage,No
+Disciple Studieux,No,Yes,BTG-155-F-FR,F - Transfuge,,1,1,No,1,Lyra,0,No,,No,No,155,MCA-856,FR - Français,No,1,Yes,1,BTG - Au-delà des portes,Personnage,No
+Studious Disciple,No,Yes,BTG-155-F-EN,F - Transfuge,,1,1,No,1,Lyra,0,No,,No,No,155,MCA-857,EN - English,No,0,Yes,1,BTG - Au-delà des portes,Personnage,No
+Mage-Danseur du Kadigir,No,No,BTG-156-C-FR,C - Commune,,2,1,No,1,Yzmir,1,No,,No,No,156,MCA-858,FR - Français,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Kadigiran Mage-Dancer,No,No,BTG-156-C-EN,C - Commune,,2,1,No,1,Yzmir,1,No,,No,No,156,MCA-859,EN - English,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Mage-Danseur du Kadigir,No,No,BTG-156-R-FR,R - Rare,,2,1,No,1,Yzmir,1,No,,No,No,156,MCA-860,FR - Français,No,2,No,1,BTG - Au-delà des portes,Personnage,No
+Kadigiran Mage-Dancer,No,No,BTG-156-R-EN,R - Rare,,2,1,No,1,Yzmir,1,No,,No,No,156,MCA-861,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Mage-Danseur du Kadigir,No,No,BTG-156-F-FR,F - Transfuge,,2,1,No,1,Lyra,1,No,,No,No,156,MCA-862,FR - Français,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Kadigiran Mage-Dancer,No,No,BTG-156-F-EN,F - Transfuge,,2,1,No,1,Lyra,1,No,,No,No,156,MCA-863,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Augure Yzmir,No,No,BTG-157-C-FR,C - Commune,,2,1,No,1,Yzmir,1,No,,No,No,157,MCA-864,FR - Français,No,5,No,2,BTG - Au-delà des portes,Personnage,No
+Yzmir Stargazer,No,No,BTG-157-C-EN,C - Commune,,2,1,No,1,Yzmir,1,No,,No,No,157,MCA-865,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Augure Yzmir,No,No,BTG-157-R-FR,R - Rare,,2,2,No,2,Yzmir,2,No,,No,No,157,MCA-866,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Yzmir Stargazer,No,No,BTG-157-R-EN,R - Rare,,2,2,No,2,Yzmir,2,No,,No,No,157,MCA-867,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Augure Yzmir,No,No,BTG-157-F-FR,F - Transfuge,,1,2,No,1,Axiom,1,No,,No,No,157,MCA-868,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Yzmir Stargazer,No,No,BTG-157-F-EN,F - Transfuge,,1,2,No,1,Axiom,1,No,,No,No,157,MCA-869,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Dame du Lac,No,No,BTG-158-C-FR,C - Commune,,2,2,No,3,Yzmir,1,No,,No,No,158,MCA-870,FR - Français,No,4,No,1,BTG - Au-delà des portes,Personnage,No
+Lady of the Lake,No,No,BTG-158-C-EN,C - Commune,,2,2,No,3,Yzmir,1,No,,No,No,158,MCA-871,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Dame du Lac,No,Yes,BTG-158-R-FR,R - Rare,,2,2,No,3,Yzmir,1,No,,No,No,158,MCA-872,FR - Français,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Lady of the Lake,No,Yes,BTG-158-R-EN,R - Rare,,2,2,No,3,Yzmir,1,No,,No,No,158,MCA-873,EN - English,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Dame du Lac,No,Yes,BTG-158-F-FR,F - Transfuge,,2,2,No,3,Bravos,1,No,,No,No,158,MCA-874,FR - Français,No,1,No,1,BTG - Au-delà des portes,Personnage,No
+Lady of the Lake,No,Yes,BTG-158-F-EN,F - Transfuge,,2,2,No,3,Bravos,1,No,,No,No,158,MCA-875,EN - English,No,0,No,1,BTG - Au-delà des portes,Personnage,No
+Fée des Dents,No,No,BTG-159-C-FR,C - Commune,,2,2,No,1,Yzmir,1,No,,No,No,159,MCA-876,FR - Français,Yes,0,No,1,BTG - Au-delà des portes,Personnage,No
+Tooth Fairy,No,No,BTG-159-C-EN,C - Commune,,2,2,No,1,Yzmir,1,No,,No,No,159,MCA-877,EN - English,Yes,1,No,1,BTG - Au-delà des portes,Personnage,No
+Fée des Dents,No,No,BTG-159-R-FR,R - Rare,,2,1,No,1,Yzmir,1,No,,No,No,159,MCA-878,FR - Français,Yes,2,No,1,BTG - Au-delà des portes,Personnage,No
+Tooth Fairy,No,No,BTG-159-R-EN,R - Rare,,2,1,No,1,Yzmir,1,No,,No,No,159,MCA-879,EN - English,Yes,0,No,1,BTG - Au-delà des portes,Personnage,No
+Fée des Dents,No,No,BTG-159-F-FR,F - Transfuge,,2,2,No,1,Bravos,1,No,,No,No,159,MCA-880,FR - Français,Yes,0,No,1,BTG - Au-delà des portes,Personnage,No
+Tooth Fairy,No,No,BTG-159-F-EN,F - Transfuge,,2,2,No,1,Bravos,1,No,,No,No,159,MCA-881,EN - English,Yes,0,No,1,BTG - Au-delà des portes,Personnage,No
+Alchimiste du Kadigir,No,No,BTG-160-C-FR,C - Commune,,3,1,No,1,Yzmir,1,No,,No,No,160,MCA-882,FR - Français,Yes,3,No,1,BTG - Au-delà des portes,Personnage,No
+Kadigiran Alchemist,No,No,BTG-160-C-EN,C - Commune,,3,1,No,1,Yzmir,1,No,,No,No,160,MCA-883,EN - English,Yes,0,No,1,BTG - Au-delà des portes,Personnage,No
+Alchimiste du Kadigir,No,No,BTG-160-R-FR,R - Rare,,3,1,No,1,Yzmir,1,No,,No,No,160,MCA-884,FR - Français,Yes,1,No,1,BTG - Au-delà des portes,Personnage,No
+Kadigiran Alchemist,No,No,BTG-160-R-EN,R - Rare,,3,1,No,1,Yzmir,1,No,,No,No,160,MCA-885,EN - English,Yes,0,No,1,BTG - Au-delà des portes,Personnage,No
+Alchimiste du Kadigir,No,No,BTG-160-F-FR,F - Transfuge,,3,1,No,1,Ordis,1,No,,No,No,160,MCA-886,FR - Français,Yes,0,No,1,BTG - Au-delà des portes,Personnage,No
+Kadigiran Alchemist,No,No,BTG-160-F-EN,F - Transfuge,,3,1,No,1,Ordis,1,No,,No,No,160,MCA-887,EN - English,Yes,0,No,1,BTG - Au-delà des portes,Personnage,No
+Baba Yaga,No,No,BTG-161-C-FR,C - Commune,,3,2,No,2,Yzmir,2,No,,No,No,161,MCA-888,FR - Français,Yes,3,No,1,BTG - Au-delà des portes,Personnage,No
+Baba Yaga,No,No,BTG-161-C-EN,C - Commune,,3,2,No,2,Yzmir,2,No,,No,No,161,MCA-889,EN - English,Yes,1,No,1,BTG - Au-delà des portes,Personnage,No
+Baba Yaga,No,No,BTG-161-R-FR,R - Rare,,3,2,No,2,Yzmir,3,No,,No,No,161,MCA-890,FR - Français,Yes,2,No,2,BTG - Au-delà des portes,Personnage,No
+Baba Yaga,No,No,BTG-161-R-EN,R - Rare,,3,2,No,2,Yzmir,3,No,,No,No,161,MCA-891,EN - English,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Baba Yaga,No,No,BTG-161-F-FR,F - Transfuge,,3,2,No,2,Ordis,3,No,,No,No,161,MCA-892,FR - Français,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Baba Yaga,No,No,BTG-161-F-EN,F - Transfuge,,3,2,No,2,Ordis,3,No,,No,No,161,MCA-893,EN - English,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Alice,No,Yes,BTG-162-C-FR,C - Commune,,3,3,No,4,Yzmir,2,No,,No,No,162,MCA-894,FR - Français,No,3,No,2,BTG - Au-delà des portes,Personnage,No
+Alice,No,Yes,BTG-162-C-EN,C - Commune,,3,3,No,4,Yzmir,2,No,,No,No,162,MCA-895,EN - English,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Alice,No,Yes,BTG-162-R-FR,R - Rare,,3,3,No,4,Yzmir,3,No,,No,No,162,MCA-896,FR - Français,No,2,No,3,BTG - Au-delà des portes,Personnage,No
+Alice,No,Yes,BTG-162-R-EN,R - Rare,,3,3,No,4,Yzmir,3,No,,No,No,162,MCA-897,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Alice,No,Yes,BTG-162-F-FR,F - Transfuge,,3,3,No,4,Lyra,3,No,,No,No,162,MCA-898,FR - Français,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Alice,No,Yes,BTG-162-F-EN,F - Transfuge,,3,3,No,4,Lyra,3,No,,No,No,162,MCA-899,EN - English,No,0,No,3,BTG - Au-delà des portes,Personnage,No
+Baku,No,No,BTG-163-C-FR,C - Commune,,4,2,No,2,Yzmir,2,No,,No,No,163,MCA-900,FR - Français,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Baku,No,No,BTG-163-C-EN,C - Commune,,4,2,No,2,Yzmir,2,No,,No,No,163,MCA-901,EN - English,Yes,1,No,2,BTG - Au-delà des portes,Personnage,No
+Baku,No,No,BTG-163-R-FR,R - Rare,,4,4,No,2,Yzmir,2,Yes,,No,No,163,MCA-902,FR - Français,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Baku,No,No,BTG-163-R-EN,R - Rare,,4,4,No,2,Yzmir,2,Yes,,No,No,163,MCA-903,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Baku,No,No,BTG-163-F-FR,F - Transfuge,,4,2,No,2,Axiom,2,No,,No,No,163,MCA-904,FR - Français,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Baku,No,No,BTG-163-F-EN,F - Transfuge,,4,2,No,2,Axiom,2,No,,No,No,163,MCA-905,EN - English,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Flamel,No,Yes,BTG-164-C-FR,C - Commune,,4,3,No,3,Yzmir,4,No,,No,No,164,MCA-906,FR - Français,Yes,2,No,3,BTG - Au-delà des portes,Personnage,No
+Flamel,No,Yes,BTG-164-C-EN,C - Commune,,4,3,No,3,Yzmir,4,No,,No,No,164,MCA-907,EN - English,Yes,2,No,3,BTG - Au-delà des portes,Personnage,No
+Flamel,No,Yes,BTG-164-R-FR,R - Rare,,4,3,No,3,Yzmir,4,No,,No,No,164,MCA-908,FR - Français,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Flamel,No,Yes,BTG-164-R-EN,R - Rare,,4,3,No,3,Yzmir,4,No,,No,No,164,MCA-909,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Flamel,No,Yes,BTG-164-F-FR,F - Transfuge,,4,3,No,3,Lyra,4,No,,No,No,164,MCA-910,FR - Français,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+Flamel,No,Yes,BTG-164-F-EN,F - Transfuge,,4,3,No,3,Lyra,4,No,,No,No,164,MCA-911,EN - English,Yes,0,No,3,BTG - Au-delà des portes,Personnage,No
+"Kuwat, le Dissident",No,No,BTG-165-C-FR,C - Commune,,4,4,No,5,Yzmir,5,Yes,,No,No,165,MCA-912,FR - Français,No,2,No,5,BTG - Au-delà des portes,Personnage,No
+"Kuwat, the Dissenter",No,No,BTG-165-C-EN,C - Commune,,4,4,No,5,Yzmir,5,Yes,,No,No,165,MCA-913,EN - English,No,1,No,5,BTG - Au-delà des portes,Personnage,No
+"Kuwat, le Dissident",No,No,BTG-165-R-FR,R - Rare,,4,3,No,5,Yzmir,5,Yes,,No,No,165,MCA-914,FR - Français,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+"Kuwat, the Dissenter",No,No,BTG-165-R-EN,R - Rare,,4,3,No,5,Yzmir,5,Yes,,No,No,165,MCA-915,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+"Kuwat, le Dissident",No,No,BTG-165-F-FR,F - Transfuge,,4,4,No,5,Ordis,5,Yes,,No,No,165,MCA-916,FR - Français,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+"Kuwat, the Dissenter",No,No,BTG-165-F-EN,F - Transfuge,,4,4,No,5,Ordis,5,Yes,,No,No,165,MCA-917,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
+Dorothy Gale,No,No,BTG-166-C-FR,C - Commune,,5,3,No,2,Yzmir,3,No,,No,No,166,MCA-918,FR - Français,Yes,4,No,2,BTG - Au-delà des portes,Personnage,No
+Dorothy Gale,No,No,BTG-166-C-EN,C - Commune,,5,3,No,2,Yzmir,3,No,,No,No,166,MCA-919,EN - English,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Dorothy Gale,No,No,BTG-166-R-FR,R - Rare,,5,5,No,2,Yzmir,3,Yes,,No,No,166,MCA-920,FR - Français,No,1,No,2,BTG - Au-delà des portes,Personnage,No
+Dorothy Gale,No,No,BTG-166-R-EN,R - Rare,,5,5,No,2,Yzmir,3,Yes,,No,No,166,MCA-921,EN - English,No,0,No,2,BTG - Au-delà des portes,Personnage,No
+Dorothy Gale,No,No,BTG-166-F-FR,F - Transfuge,,5,3,No,2,Bravos,3,No,,No,No,166,MCA-922,FR - Français,Yes,2,No,2,BTG - Au-delà des portes,Personnage,No
+Dorothy Gale,No,No,BTG-166-F-EN,F - Transfuge,,5,3,No,2,Bravos,3,No,,No,No,166,MCA-923,EN - English,Yes,0,No,2,BTG - Au-delà des portes,Personnage,No
+Sakarabru,No,No,BTG-167-C-FR,C - Commune,,7,4,No,4,Yzmir,4,No,,No,No,167,MCA-924,FR - Français,Yes,4,No,4,BTG - Au-delà des portes,Personnage,No
+Sakarabru,No,No,BTG-167-C-EN,C - Commune,,7,4,No,4,Yzmir,4,No,,No,No,167,MCA-925,EN - English,Yes,0,No,4,BTG - Au-delà des portes,Personnage,No
+Sakarabru,No,Yes,BTG-167-R-FR,R - Rare,,7,4,No,5,Yzmir,5,No,,No,No,167,MCA-926,FR - Français,Yes,1,No,5,BTG - Au-delà des portes,Personnage,No
+Sakarabru,No,Yes,BTG-167-R-EN,R - Rare,,7,4,No,5,Yzmir,5,No,,No,No,167,MCA-927,EN - English,Yes,0,No,5,BTG - Au-delà des portes,Personnage,No
+Sakarabru,No,No,BTG-167-F-FR,F - Transfuge,,7,4,No,4,Bravos,4,No,,No,No,167,MCA-928,FR - Français,Yes,0,No,4,BTG - Au-delà des portes,Personnage,No
+Sakarabru,No,No,BTG-167-F-EN,F - Transfuge,,7,4,No,4,Bravos,4,No,,No,No,167,MCA-929,EN - English,Yes,0,No,4,BTG - Au-delà des portes,Personnage,No
+Le Kraken,No,No,BTG-168-C-FR,C - Commune,,7,7,No,8,Yzmir,0,Yes,,No,Yes,168,MCA-930,FR - Français,No,1,No,0,BTG - Au-delà des portes,Personnage,No
+The Kraken,No,No,BTG-168-C-EN,C - Commune,,7,7,No,8,Yzmir,0,Yes,,No,Yes,168,MCA-931,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Le Kraken,No,No,BTG-168-C-FR,R - Rare,,7,7,No,8,Yzmir,0,Yes,,No,Yes,168,MCA-932,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+The Kraken,No,No,BTG-168-C-EN,R - Rare,,7,7,No,8,Yzmir,0,Yes,,No,Yes,168,MCA-933,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+Le Kraken,No,No,BTG-168-F-FR,F - Transfuge,,7,7,No,8,Ordis,0,Yes,,No,Yes,168,MCA-934,FR - Français,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+The Kraken,No,No,BTG-168-F-EN,F - Transfuge,,7,7,No,8,Ordis,0,Yes,,No,Yes,168,MCA-935,EN - English,No,0,No,0,BTG - Au-delà des portes,Personnage,No
+"Entraînement Magique               ",No,No,BTG-169-C-FR,C - Commune,,1,3,No,,Ordis,,No,,No,No,169,MCA-936,FR - Français,No,3,No,,BTG - Au-delà des portes,Sort,No
+Magical Training,No,No,BTG-169-C-EN,C - Commune,,1,3,No,,Ordis,,No,,No,No,169,MCA-937,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Entraînement Magique,No,No,BTG-169-R-FR,R - Rare,,1,2,No,,Ordis,,No,,No,No,169,MCA-938,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Magical Training,No,No,BTG-169-R-EN,R - Rare,,1,2,No,,Ordis,,No,,No,No,169,MCA-939,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Entraînement Magique,No,No,BTG-169-F-FR,F - Transfuge,,1,3,No,,Lyra,,No,,No,No,169,MCA-940,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+Magical Training,No,No,BTG-169-F-EN,F - Transfuge,,1,3,No,,Lyra,,No,,No,No,169,MCA-941,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Don de Soi,No,No,BTG-170-C-FR,C - Commune,,2,2,No,,Yzmir,,No,,Yes,No,170,MCA-942,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Gift of Self,No,No,BTG-170-C-EN,C - Commune,,2,2,No,,Yzmir,,No,,Yes,No,170,MCA-943,EN - English,No,1,No,,BTG - Au-delà des portes,Sort,No
+Don de Soi,No,No,BTG-170-R-FR,R - Rare,,3,3,No,,Yzmir,,No,,Yes,No,170,MCA-944,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Gift of Self,No,No,BTG-170-R-EN,R - Rare,,3,3,No,,Yzmir,,No,,Yes,No,170,MCA-945,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Don de Soi,No,No,BTG-170-F-FR,F - Transfuge,,2,2,No,,Ordis,,No,,Yes,No,170,MCA-946,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Gift of Self,No,No,BTG-170-F-EN,F - Transfuge,,2,2,No,,Ordis,,No,,Yes,No,170,MCA-947,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Espionnage,No,No,BTG-171-C-FR,C - Commune,,2,2,No,,Yzmir,,No,,Yes,No,171,MCA-948,FR - Français,No,3,No,,BTG - Au-delà des portes,Sort,No
+Spy Craft,No,No,BTG-171-C-EN,C - Commune,,2,2,No,,Yzmir,,No,,Yes,No,171,MCA-949,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Espionnage,No,No,BTG-171-R-FR,R - Rare,,2,3,No,,Yzmir,,No,,No,No,171,MCA-950,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Spy Craft,No,No,BTG-171-R-EN,R - Rare,,2,3,No,,Yzmir,,No,,No,No,171,MCA-951,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Espionnage,No,No,BTG-171-F-FR,F - Transfuge,,2,2,No,,Lyra,,No,,Yes,No,171,MCA-952,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+Spy Craft,No,No,BTG-171-F-EN,F - Transfuge,,2,2,No,,Lyra,,No,,Yes,No,171,MCA-953,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Zou !,No,No,BTG-172-C-FR,C - Commune,,2,4,No,,Yzmir,,No,,No,No,172,MCA-954,FR - Français,No,6,No,,BTG - Au-delà des portes,Sort,No
+Off You Go!,No,No,BTG-172-C-EN,C - Commune,,2,4,No,,Yzmir,,No,,No,No,172,MCA-955,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Zou !,No,No,BTG-172-R-FR,R - Rare,,3,4,No,,Yzmir,,No,,No,No,172,MCA-956,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Off You Go!,No,No,BTG-172-R-EN,R - Rare,,3,4,No,,Yzmir,,No,,No,No,172,MCA-957,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Zou !,No,No,BTG-172-F-FR,F - Transfuge,,2,4,No,,Lyra,,No,,No,No,172,MCA-958,FR - Français,No,1,No,,BTG - Au-delà des portes,Sort,No
+Off You Go!,No,No,BTG-172-F-EN,F - Transfuge,,2,4,No,,Lyra,,No,,No,No,172,MCA-959,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Sceau de Conjuration,No,No,BTG-173-C-FR,C - Commune,,3,5,No,,Yzmir,,No,,No,No,173,MCA-960,FR - Français,No,3,No,,BTG - Au-delà des portes,Sort,No
+Conjuring Seal,No,No,BTG-173-C-EN,C - Commune,,3,5,No,,Yzmir,,No,,No,No,173,MCA-961,EN - English,No,1,No,,BTG - Au-delà des portes,Sort,No
+Sceau de Conjuration,No,No,BTG-173-R-FR,R - Rare,,4,5,No,,Yzmir,,No,,No,No,173,MCA-962,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Conjuring Seal,No,No,BTG-173-R-EN,R - Rare,,4,5,No,,Yzmir,,No,,No,No,173,MCA-963,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Sceau de Conjuration,No,No,BTG-173-F-FR,F - Transfuge,,3,5,No,,Ordis,,No,,No,No,173,MCA-964,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Conjuring Seal,No,No,BTG-173-F-EN,F - Transfuge,,3,5,No,,Ordis,,No,,No,No,173,MCA-965,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Portail de Bannissement,No,No,BTG-174-C-FR,C - Commune,,4,4,No,,Yzmir,,No,,Yes,No,174,MCA-966,FR - Français,No,4,No,,BTG - Au-delà des portes,Sort,No
+Banishing Gate,No,No,BTG-174-C-EN,C - Commune,,4,4,No,,Yzmir,,No,,Yes,No,174,MCA-967,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Portail de Bannissement,No,No,BTG-174-R-FR,R - Rare,,4,5,No,,Yzmir,,No,,No,No,174,MCA-968,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Banishing Gate,No,No,BTG-174-R-EN,R - Rare,,4,5,No,,Yzmir,,No,,No,No,174,MCA-969,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Portail de Bannissement,No,No,BTG-174-F-FR,F - Transfuge,,4,4,No,,Ordis,,No,,Yes,No,174,MCA-970,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Banishing Gate,No,No,BTG-174-F-EN,F - Transfuge,,4,4,No,,Ordis,,No,,Yes,No,174,MCA-971,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Furie de Kraken,No,No,BTG-175-C-FR,C - Commune,,5,5,No,,Yzmir,,No,,Yes,No,175,MCA-972,FR - Français,No,5,No,,BTG - Au-delà des portes,Sort,No
+Kraken’s Wrath,No,No,BTG-175-C-EN,C - Commune,,5,5,No,,Yzmir,,No,,Yes,No,175,MCA-973,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Furie de Kraken,No,No,BTG-175-R-FR,R - Rare,,5,5,No,,Yzmir,,No,,Yes,No,175,MCA-974,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Kraken’s Wrath,No,No,BTG-175-R-EN,R - Rare,,5,5,No,,Yzmir,,No,,Yes,No,175,MCA-975,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Furie de Kraken,No,No,BTG-175-F-FR,F - Transfuge,,5,5,No,,Axiom,,No,,Yes,No,175,MCA-976,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Kraken’s Wrath,No,No,BTG-175-F-EN,F - Transfuge,,5,5,No,,Axiom,,No,,Yes,No,175,MCA-977,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+"Petit Pas, Bond de Géant",No,No,BTG-176-C-FR,C - Commune,,6,6,No,,Yzmir,,No,,Yes,No,176,MCA-978,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+"Small Step, Giant Leap",No,No,BTG-176-C-EN,C - Commune,,6,6,No,,Yzmir,,No,,Yes,No,176,MCA-979,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+"Petit Pas, Bond de Géant",No,No,BTG-176-R-FR,R - Rare,,6,7,No,,Yzmir,,No,,No,No,176,MCA-980,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+"Small Step, Giant Leap",No,No,BTG-176-R-EN,R - Rare,,6,7,No,,Yzmir,,No,,No,No,176,MCA-981,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+"Petit Pas, Bond de Géant",No,No,BTG-176-F-FR,F - Transfuge,,6,6,No,,Lyra,,No,,Yes,No,176,MCA-982,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+"Small Step, Giant Leap",No,No,BTG-176-F-EN,F - Transfuge,,6,6,No,,Lyra,,No,,Yes,No,176,MCA-983,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Explosion Céleste,No,No,BTG-177-C-FR,C - Commune,,7,7,No,,Yzmir,,No,,Yes,No,177,MCA-984,FR - Français,No,5,No,,BTG - Au-delà des portes,Sort,No
+Celestial Blast,No,No,BTG-177-C-EN,C - Commune,,7,7,No,,Yzmir,,No,,Yes,No,177,MCA-985,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Explosion Céleste,No,No,BTG-177-R-FR,R - Rare,,7,7,No,,Yzmir,,No,,Yes,No,177,MCA-986,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Celestial Blast,No,No,BTG-177-R-EN,R - Rare,,7,7,No,,Yzmir,,No,,Yes,No,177,MCA-987,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+Explosion Céleste,No,No,BTG-177-F-FR,F - Transfuge,,7,7,No,,Ordis,,No,,Yes,No,177,MCA-988,FR - Français,No,0,No,,BTG - Au-delà des portes,Sort,No
+Celestial Blast,No,No,BTG-177-F-EN,F - Transfuge,,7,7,No,,Ordis,,No,,Yes,No,177,MCA-989,EN - English,No,0,No,,BTG - Au-delà des portes,Sort,No
+L’Isba de Baba,No,No,BTG-178-C-FR,C - Commune,,3,3,No,,Yzmir,,Yes,,No,No,178,MCA-990,FR - Français,No,2,No,,BTG - Au-delà des portes,Repère Permanent,No
+Baba’s Isba,No,No,BTG-178-C-EN,C - Commune,,3,3,No,,Yzmir,,Yes,,No,No,178,MCA-991,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+L’Isba de Baba,No,No,BTG-178-R-FR,R - Rare,,2,2,No,,Yzmir,,Yes,,No,No,178,MCA-992,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Baba’s Isba,No,No,BTG-178-R-EN,R - Rare,,2,2,No,,Yzmir,,Yes,,No,No,178,MCA-993,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+L’Isba de Baba,No,No,BTG-178-F-FR,F - Transfuge,,3,3,No,,Ordis,,Yes,,No,No,178,MCA-994,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Baba’s Isba,No,No,BTG-178-F-EN,F - Transfuge,,3,3,No,,Ordis,,Yes,,No,No,178,MCA-995,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Fragment d’Éther,No,No,BTG-179-C-FR,C - Commune,,5,5,No,,Yzmir,,No,,No,No,179,MCA-996,FR - Français,No,4,No,,BTG - Au-delà des portes,Repère Permanent,No
+Aether Shard,No,No,BTG-179-C-EN,C - Commune,,5,5,No,,Yzmir,,No,,No,No,179,MCA-997,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Fragment d’Éther,No,No,BTG-179-R-FR,R - Rare,,5,5,No,,Yzmir,,Yes,,No,No,179,MCA-998,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Aether Shard,No,No,BTG-179-R-EN,R - Rare,,5,5,No,,Yzmir,,Yes,,No,No,179,MCA-999,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Fragment d’Éther,No,No,BTG-179-F-FR,F - Transfuge,,5,5,No,,Lyra,,Yes,,No,No,179,MCA-1000,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+Aether Shard,No,No,BTG-179-F-EN,F - Transfuge,,5,5,No,,Lyra,,Yes,,No,No,179,MCA-1001,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+"Le Kadigir, Bastion Yzmir",No,No,BTG-180-C-FR,C - Commune,,8,8,No,,Yzmir,,No,,No,No,180,MCA-1002,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+"The Kadigir, Yzmir Bastion",No,No,BTG-180-C-EN,C - Commune,,8,8,No,,Yzmir,,No,,No,No,180,MCA-1003,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+"The Kadigir, Yzmir Bastion",No,No,BTG-180-R-EN,R - Rare,,8,8,No,,Yzmir,,No,,No,No,180,MCA-1004,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+"Le Kadigir, Bastion Yzmir",No,No,BTG-180-R-FR,R - Rare,,8,8,No,,Yzmir,,No,,No,No,180,MCA-1005,FR - Français,No,1,No,,BTG - Au-delà des portes,Repère Permanent,No
+"The Kadigir, Yzmir Bastion",No,No,BTG-180-F-EN,F - Transfuge,,8,8,No,,Lyra,,No,,No,No,180,MCA-1006,EN - English,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+"Le Kadigir, Bastion Yzmir",No,No,BTG-180-F-FR,F - Transfuge,,8,8,No,,Lyra,,No,,No,No,180,MCA-1007,FR - Français,No,0,No,,BTG - Au-delà des portes,Repère Permanent,No
+Tomoe Gozen,No,No,BTG-047-R-FR,C - Commune,,3,3,No,5,Bravos,2,No,,No,No,47,MCA-1008,FR - Français,No,3,No,5,BTG - Au-delà des portes,Personnage,No
+Tomoe Gozen,No,No,BTG-047-R-EN,C - Commune,,3,3,No,5,Bravos,2,No,,No,No,47,MCA-1009,EN - English,No,0,No,5,BTG - Au-delà des portes,Personnage,No
