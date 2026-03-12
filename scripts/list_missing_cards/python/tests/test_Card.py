@@ -4,7 +4,7 @@ from scripts.list_missing_cards.python.src.Card import Card
 
 class InitCardTest(unittest.TestCase):
     def setUp(self):
-        self.firstCard = Card(1, 1, 'H', 'EN', 0, 'Axiom', None)
+        self.firstCard = Card(1, 1, 'H', 'EN', 0, 'Axiom', 'Sierra & Oddball')
 
     def tearDown(self):
         return super().tearDown()
