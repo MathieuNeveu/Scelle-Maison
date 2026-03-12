@@ -26,3 +26,6 @@ class TestFromCSVTest(unittest.TestCase):
 
     def test_instantiateHero(self):
         self.assertIsInstance(self.heroFromCSVCard, Card)
+
+    def test_instantiateUnit(self):
+        self.assertIsInstance(self.unitFromCSVCard, Card)
