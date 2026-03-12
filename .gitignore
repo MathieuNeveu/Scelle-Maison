@@ -1,5 +1,6 @@
 .env
 .vscode
+.idea
 
 scripts/list_missing_cards/.venv
 scripts/list_missing_cards/python/__pycache__
