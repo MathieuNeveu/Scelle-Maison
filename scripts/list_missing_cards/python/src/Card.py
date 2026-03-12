@@ -1,11 +1,11 @@
 class Card:
     def __init__(
-            self, id: int, index: int, codeType: str, lang: str, units: int,
+            self, _id: int, index: int, code_type: str, lang: str, units: int,
             faction: str, name: str
             ):
-        self.id = id
+        self.id = _id
         self.index= index
-        self.codeType= codeType
+        self.codeType= code_type
         self.lang= lang
         self.units= units
         self.faction= faction
