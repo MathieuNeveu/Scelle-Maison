@@ -41,5 +41,5 @@ class TestFromCSVTest(unittest.TestCase):
         self.assertEqual(self.heroFromCSVCard[0].codeType, 'H')
 
     def test_instantiateUnit(self):
-        self.assertIsInstance(self.unitFromCSVCard, Card)
-        self.assertEqual(self.unitFromCSVCard.codeType, 'C' or 'R' or 'F')
+        self.assertIsInstance(self.unitFromCSVCard[0], Card)
+        self.assertEqual(self.unitFromCSVCard[0].codeType, 'C' or 'R' or 'F')
