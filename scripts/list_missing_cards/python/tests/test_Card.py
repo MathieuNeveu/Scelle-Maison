@@ -14,15 +14,27 @@ class InitCardTest(unittest.TestCase):
 
 class TestFromCSVTest(unittest.TestCase):
     def setUp(self):
-        data_dir_path = "data/"
-        self.heroCSVFile = open(data_dir_path+"oneHeroCard.csv", 'r')
-        self.unitCSVFile = open(data_dir_path+"oneUnitCard.csv", 'r')
+        datatest_dir_path = "data/"
+        self.heroCSVFile = open(datatest_dir_path+"oneHeroCard.csv", 'r')
+        self.unitCSVFile = open(datatest_dir_path+"oneUnitCard.csv", 'r')
         self.heroFromCSVCard = Card.from_csv(self.heroCSVFile)
         self.unitFromCSVCard = Card.from_csv(self.unitCSVFile)
+
+        data_dir_path = "../../../../data/"
+        self.lightFRCSVFile = open(data_dir_path+"csv/BTG_Collection-lightFR.csv", 'r')
+        self.cardsFromCSVFile = Card.from_csv(self.lightFRCSVFile)
 
     def tearDown(self):
         self.heroCSVFile.close()
         self.unitCSVFile.close()
+        self.lightFRCSVFile.close()
+
+    def test_instantiateAList(self):
+        self.assertIsInstance(self.cardsFromCSVFile, list)
+
+    def test_instantiateAListOfCards(self):
+        for card in self.cardsFromCSVFile:
+            self.assertIsInstance(card, Card)
 
     def test_instantiateHero(self):
         self.assertIsInstance(self.heroFromCSVCard, Card)
