@@ -10,4 +10,7 @@ class Card:
         self.units= units
         self.faction= faction
         self.name= name
-        
+
+    @staticmethod
+    def from_csv(self):
+        return Card(1, 1, 'H', 'EN', 0, 'Axiom', 'Sierra & Oddball')

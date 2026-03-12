@@ -14,10 +14,15 @@ class InitCardTest(unittest.TestCase):
 
 class TestFromCSVTest(unittest.TestCase):
     def setUp(self):
-        self.heroCSVFile = open('data/oneHeroCard.csv')
-        self.unitCSVFile = open('data/oneUnitCard.csv')
-        self.heroFromCSVCard = Card.fromCSV(self.heroCSVFile)
-        self.unitFromCSVCard = Card.fromCSV(self.unitCSVFile)
+        data_dir_path = "scripts/list_missing_cards/python/tests/data/"
+        self.heroCSVFile = open(data_dir_path+"oneHeroCard.csv", 'r')
+        self.unitCSVFile = open(data_dir_path+"oneUnitCard.csv", 'r')
+        self.heroFromCSVCard = Card.from_csv(self.heroCSVFile)
+        self.unitFromCSVCard = Card.from_csv(self.unitCSVFile)
+
+    def tearDown(self):
+        self.heroCSVFile.close()
+        self.unitCSVFile.close()
 
     def test_instantiateHero(self):
-        self.assertIsInstance(self.heroCSVFile, Card)
+        self.assertIsInstance(self.heroFromCSVCard, Card)
