@@ -1,6 +1,6 @@
 import unittest
 
-from src.Card import Card
+from scripts.list_missing_cards.python.src.Card import Card
 
 class InitCardTest(unittest.TestCase):
     def setUp(self):
