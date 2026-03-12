@@ -1,6 +1,6 @@
 import unittest
 
-from src.main import ma_fonction
+from scripts.list_missing_cards.python.src.main import ma_fonction
 
 class TestHelloWorld(unittest.TestCase):
 

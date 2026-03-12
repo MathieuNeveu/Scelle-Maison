@@ -14,7 +14,7 @@ class InitCardTest(unittest.TestCase):
 
 class TestFromCSVTest(unittest.TestCase):
     def setUp(self):
-        data_dir_path = "scripts/list_missing_cards/python/tests/data/"
+        data_dir_path = "data/"
         self.heroCSVFile = open(data_dir_path+"oneHeroCard.csv", 'r')
         self.unitCSVFile = open(data_dir_path+"oneUnitCard.csv", 'r')
         self.heroFromCSVCard = Card.from_csv(self.heroCSVFile)
