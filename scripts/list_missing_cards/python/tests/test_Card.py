@@ -43,3 +43,35 @@ class TestFromCSVTest(unittest.TestCase):
     def test_instantiateUnit(self):
         self.assertIsInstance(self.unitFromCSVCard[0], Card)
         assert ['C','R','F'].__contains__(self.unitFromCSVCard[0].codeType)
+
+class TestCSVLineToDict(unittest.TestCase):
+    def setUp(self):
+        datatest_dir_path = "data/"
+        self.heroCSVFile = open(datatest_dir_path+"oneHeroCard.csv", 'r')
+        self.dictHeroData = Card.csv_line_to_dict(self.heroCSVFile)
+    def tearDown(self):
+        self.heroCSVFile.close()
+
+    def test_returnDict(self):
+        self.assertIsInstance(self.dictHeroData, dict)
+
+    def test_idInDict(self):
+        self.assertIn("_id", self.dictHeroData)
+
+    def test_indexInDict(self):
+        self.assertIn("index", self.dictHeroData)
+
+    def test_codeTypeInDict(self):
+        self.assertIn("codeType", self.dictHeroData)
+
+    def test_langInDict(self):
+        self.assertIn("lang", self.dictHeroData)
+
+    def test_unitsInDict(self):
+        self.assertIn("units", self.dictHeroData)
+
+    def test_factionInDict(self):
+        self.assertIn("faction", self.dictHeroData)
+
+    def test_nameInDict(self):
+        self.assertIn("name", self.dictHeroData)

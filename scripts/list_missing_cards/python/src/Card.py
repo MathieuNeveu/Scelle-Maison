@@ -16,3 +16,17 @@ class Card:
     @classmethod
     def from_csv(cls, csv_file: TextIOWrapper) -> list['Card']:
         return [cls(1, 1, 'H', 'EN', 0, 'Axiom', 'Sierra & Oddball')]
+        return [cls(1, 1, 'R', 'EN', 0, 'Axiom', 'Sierra & Oddball')]
+
+    @staticmethod
+    def csv_line_to_dict(csv_file: TextIOWrapper) -> dict:
+        # csv_reader = csv.reader(csv_file, delimiter=',')
+        return {
+            '_id': None,
+            'index': None,
+            'codeType': None,
+            'lang': None,
+            'units': None,
+            'faction': None,
+            'name': None
+        }
