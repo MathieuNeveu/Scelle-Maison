@@ -89,4 +89,4 @@ class TestCSVToDictList(unittest.TestCase):
 
     def test_returnAListOfDict(self):
         for item in self.heroList:
-            self.assertIsInstance(item, int)
+            self.assertIsInstance(item, dict)
