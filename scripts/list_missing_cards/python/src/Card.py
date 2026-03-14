@@ -1,3 +1,4 @@
+import csv
 from io import TextIOWrapper
 
 class Card:
@@ -5,7 +6,7 @@ class Card:
             self, _id: int, index: int, code_type: str, lang: str, units: int,
             faction: str, name: str
             ):
-        self.id = _id
+        self._id = _id
         self.index= index
         self.codeType= code_type
         self.lang= lang
@@ -15,7 +16,6 @@ class Card:
 
     @classmethod
     def from_csv(cls, csv_file: TextIOWrapper) -> list['Card']:
-        return [cls(1, 1, 'H', 'EN', 0, 'Axiom', 'Sierra & Oddball')]
         return [cls(1, 1, 'R', 'EN', 0, 'Axiom', 'Sierra & Oddball')]
 
     @staticmethod
@@ -30,3 +30,7 @@ class Card:
             'faction': None,
             'name': None
         }
+
+    @staticmethod
+    def csv_to_dict_list(csv_file: TextIOWrapper) -> list:
+        return []

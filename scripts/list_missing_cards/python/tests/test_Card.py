@@ -75,3 +75,18 @@ class TestCSVLineToDict(unittest.TestCase):
 
     def test_nameInDict(self):
         self.assertIn("name", self.dictHeroData)
+
+class TestCSVToDictList(unittest.TestCase):
+    def setUp(self):
+        datatest_dir_path = "data/"
+        self.heroCSVFile = open(datatest_dir_path+"oneHeroCard.csv", 'r')
+        self.heroList = Card.csv_to_dict_list(self.heroCSVFile)
+    def tearDown(self):
+        self.heroCSVFile.close()
+
+    def test_returnAList(self):
+        self.assertIsInstance(self.heroList, list)
+
+    def test_returnAListOfDict(self):
+        for item in self.heroList:
+            self.assertIsInstance(item, int)
