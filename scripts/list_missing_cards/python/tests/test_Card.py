@@ -46,11 +46,13 @@ class TestFromCSVTest(unittest.TestCase):
 
 class TestCSVLineToDict(unittest.TestCase):
     def setUp(self):
-        datatest_dir_path = "data/"
-        self.heroCSVFile = open(datatest_dir_path+"oneHeroCard.csv", 'r')
-        self.dictHeroData = Card.csv_line_to_dict(self.heroCSVFile)
+        self.csv_lines: list[list[str]] = [
+            ['ID', 'Code de Type', 'Langue', 'Nom', 'Faction', 'Type unité', 'Possession'],
+            ['1', 'H - Héro', 'EN - English', 'Sierra & Oddball', 'Axiom', '', '0']
+        ]
+        self.dictHeroData: dict = Card.csv_line_to_dict(self.csv_lines[1])
     def tearDown(self):
-        self.heroCSVFile.close()
+        return super().tearDown()
 
     def test_returnDict(self):
         self.assertIsInstance(self.dictHeroData, dict)
