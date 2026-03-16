@@ -54,3 +54,7 @@ class Card:
             parsed_line: dict = Card.csv_line_to_dict(line)
             cards.append(parsed_line)
         return cards
+
+    @staticmethod
+    def csv_header_validation(csv_file: TextIOWrapper) -> bool:
+        return True
