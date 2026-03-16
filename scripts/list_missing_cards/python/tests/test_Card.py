@@ -101,11 +101,18 @@ class TestCSVHeaderValidation(unittest.TestCase):
     def setUp(self):
         datatest_dir_path = "data/"
         self.heroCSVFile = open(datatest_dir_path+"oneHeroCard.csv", 'r')
-        self.validation = Card.csv_header_validation(self.heroCSVFile)
+        self.wrongHeadersCSVFile = open(datatest_dir_path+"wrongHeaders.csv", 'r')
 
     def tearDown(self):
         self.heroCSVFile.close()
+        self.wrongHeadersCSVFile.close()
         return super().tearDown()
 
     def test_returnBoolean(self):
-        self.assertIsInstance(self.validation, bool)
+        self.assertIsInstance(
+            Card.csv_header_validation(self.heroCSVFile),
+            bool
+        )
+
+    def test_withWrongHeaders(self):
+        self.assertFalse(Card.csv_header_validation(self.wrongHeadersCSVFile))
