@@ -1,0 +1,14 @@
+{
+  "csv": {
+    "header_keys": {
+      "Card": {
+        "id": "ID",
+        "codeType": "Code de Type",
+        "lang": "Langue",
+        "units": "Possession",
+        "faction": "Faction",
+        "name": "Nom"
+      }
+    }
+  }
+}
