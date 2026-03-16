@@ -30,6 +30,7 @@ class TestFromCSVTest(unittest.TestCase):
         self.heroCSVFile.close()
         self.unitCSVFile.close()
         self.lightFRCSVFile.close()
+        return super().tearDown()
 
     def test_instantiateAList(self):
         self.assertIsInstance(self.cardsFromCSVFile, list)
@@ -87,6 +88,7 @@ class TestCSVToDictList(unittest.TestCase):
         self.heroList = Card.csv_to_dict_list(self.heroCSVFile)
     def tearDown(self):
         self.heroCSVFile.close()
+        return super().tearDown()
 
     def test_returnAList(self):
         self.assertIsInstance(self.heroList, list)
@@ -94,3 +96,16 @@ class TestCSVToDictList(unittest.TestCase):
     def test_returnAListOfDict(self):
         for item in self.heroList:
             self.assertIsInstance(item, dict)
+
+class TestCSVHeaderValidation(unittest.TestCase):
+    def setUp(self):
+        datatest_dir_path = "data/"
+        self.heroCSVFile = open(datatest_dir_path+"oneHeroCard.csv", 'r')
+        self.validation = Card.csv_header_validation(self.heroCSVFile)
+
+    def tearDown(self):
+        self.heroCSVFile.close()
+        return super().tearDown()
+
+    def test_returnBoolean(self):
+        self.assertIsInstance(self.validation, bool)
