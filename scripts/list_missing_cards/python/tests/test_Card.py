@@ -19,6 +19,8 @@ class TestFromCSVTest(unittest.TestCase):
         self.unitCSVFile = open(datatest_dir_path+"oneUnitCard.csv", 'r')
         self.heroFromCSVCard = Card.from_csv(self.heroCSVFile)
         self.unitFromCSVCard = Card.from_csv(self.unitCSVFile)
+        #test with an empty file
+        #test with a wrong formated file
 
         data_dir_path = "../../../../data/"
         self.lightFRCSVFile = open(data_dir_path+"csv/BTG_Collection-lightFR.csv", 'r')

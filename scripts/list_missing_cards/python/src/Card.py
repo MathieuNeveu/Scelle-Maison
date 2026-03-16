@@ -16,6 +16,7 @@ class Card:
 
     @classmethod
     def from_csv(cls, csv_file: TextIOWrapper) -> list['Card']:
+        #test csv length > 1 line
         dict_list: list[dict] = cls.csv_to_dict_list(csv_file)
         card_list: list[Card] = []
         for card_dict in dict_list:
@@ -28,6 +29,7 @@ class Card:
                 card_dict['faction'],
                 card_dict['name']
             ))
+        # test that returned Card objects number is equal to csv lines -1
         return card_list
 
     @staticmethod
@@ -45,8 +47,10 @@ class Card:
     @staticmethod
     def csv_to_dict_list(csv_file: TextIOWrapper) -> list:
         csv_reader = csv.reader(csv_file, delimiter=',')
-        dict_list: list = []
+        cards: list[dict] = []
+        # check that csv columns number match card's dictionary keys number
+        # ignore 1st csv line (header)
         for line in csv_reader:
             parsed_line: dict = Card.csv_line_to_dict(line)
-            dict_list.append(parsed_line)
-        return dict_list
+            cards.append(parsed_line)
+        return cards
