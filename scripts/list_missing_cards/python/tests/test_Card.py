@@ -116,3 +116,6 @@ class TestCSVHeaderValidation(unittest.TestCase):
 
     def test_withWrongHeaders(self):
         self.assertFalse(Card.csv_header_validation(self.wrongHeadersCSVFile))
+
+    def test_withGoodHeaders(self):
+        self.assertTrue(Card.csv_header_validation(self.heroCSVFile))

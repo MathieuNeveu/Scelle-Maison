@@ -66,16 +66,11 @@ class Card:
         csv_header = next(csv_reader)
 
         validation_status: bool = True
-        config_key_validation_status: bool = False
 
-        for config_key in card_csv_keys_config:
-            for header_key in csv_header:
-                if header_key in config_key:
-                    config_key_validation_status = True
-                    break
-            if config_key_validation_status is False:
+        for key_value in card_csv_keys_config.values():
+            if key_value not in csv_header:
                 validation_status = False
-                break
 
         config_file.close()
+
         return validation_status
