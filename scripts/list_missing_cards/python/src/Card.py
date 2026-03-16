@@ -1,4 +1,5 @@
 import csv
+import json
 from io import TextIOWrapper
 
 class Card:
@@ -57,4 +58,24 @@ class Card:
 
     @staticmethod
     def csv_header_validation(csv_file: TextIOWrapper) -> bool:
-        return True
+        config_file = open("../config.json")
+        json_config = json.load(config_file)
+        card_csv_keys_config = json_config['csv']['header_keys']['Card']
+
+        csv_reader = csv.reader(csv_file, delimiter=',')
+        csv_header = next(csv_reader)
+
+        validation_status: bool = True
+        config_key_validation_status: bool = False
+
+        for config_key in card_csv_keys_config:
+            for header_key in csv_header:
+                if header_key in config_key:
+                    config_key_validation_status = True
+                    break
+            if config_key_validation_status is False:
+                validation_status = False
+                break
+
+        config_file.close()
+        return validation_status
