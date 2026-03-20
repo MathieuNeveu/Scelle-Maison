@@ -50,10 +50,10 @@ class TestFromCSVTest(unittest.TestCase):
 class TestCSVLineToDict(unittest.TestCase):
     def setUp(self):
         self.csv_lines: list[list[str]] = [
-            ['ID', 'Code de Type', 'Langue', 'Nom', 'Faction', 'Type unité', 'Possession'],
-            ['1', 'H - Héro', 'EN - English', 'Sierra & Oddball', 'Axiom', '', '0']
+            ['1', 'H - Héro', 'EN - English', 'Sierra & Oddball', 'Axiom', '', '0'],
+            ['0', 'X', 'YY - English', 'Sierra & Oddball', 'Axiom', '', '0']
         ]
-        self.dictHeroData: dict = Card.csv_line_to_dict(self.csv_lines[1])
+        self.dictHeroData: dict = Card.csv_line_to_dict(self.csv_lines[0])
     def tearDown(self):
         return super().tearDown()
 
@@ -80,6 +80,10 @@ class TestCSVLineToDict(unittest.TestCase):
 
     def test_nameInDict(self):
         self.assertIn("name", self.dictHeroData)
+
+    def test_returnExpectedCodeType(self):
+        expected: str = 'H'
+        self.assertEqual(expected, self.dictHeroData['codeType'])
 
 class TestCSVToDictList(unittest.TestCase):
     def setUp(self):
