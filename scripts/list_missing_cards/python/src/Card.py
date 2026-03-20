@@ -46,6 +46,10 @@ class Card:
         }
 
     @staticmethod
+    def parse_code_type(code_type_input: str) -> str:
+        return code_type_input[0]
+
+    @staticmethod
     def csv_to_dict_list(csv_file: TextIOWrapper) -> list:
         csv_reader = csv.reader(csv_file, delimiter=',')
         cards: list[dict] = []

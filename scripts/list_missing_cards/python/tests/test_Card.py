@@ -85,6 +85,31 @@ class TestCSVLineToDict(unittest.TestCase):
         expected: str = 'H'
         self.assertEqual(expected, self.dictHeroData['codeType'])
 
+class TestParseCodeType(unittest.TestCase):
+    def setUp(self):
+        self.heroCase: str = Card.parse_code_type('H - Héro')
+        self.out0fFactionCase: str = Card.parse_code_type('F - Transfuge')
+        self.rareCase: str = Card.parse_code_type('R - Rare')
+        self.commonCase: str = Card.parse_code_type('C - Commune')
+
+    def test_returnString(self):
+        self.assertIsInstance(self.heroCase, str)
+        self.assertIsInstance(self.out0fFactionCase, str)
+        self.assertIsInstance(self.rareCase, str)
+        self.assertIsInstance(self.commonCase, str)
+
+    def test_oneCharLength(self):
+        self.assertEqual(1, len(self.heroCase))
+        self.assertEqual(1, len(self.out0fFactionCase))
+        self.assertEqual(1, len(self.rareCase))
+        self.assertEqual(1, len(self.commonCase))
+
+    def test_value(self):
+        self.assertEqual('H', self.heroCase)
+        self.assertEqual('F', self.out0fFactionCase)
+        self.assertEqual('R', self.rareCase)
+        self.assertEqual('C', self.commonCase)
+
 class TestCSVToDictList(unittest.TestCase):
     def setUp(self):
         datatest_dir_path = "data/"
