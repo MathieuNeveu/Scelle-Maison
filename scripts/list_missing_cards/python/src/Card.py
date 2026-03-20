@@ -38,7 +38,7 @@ class Card:
         return {
             '_id': None,
             'index': None,
-            'codeType': line[1],
+            'codeType': Card.parse_code_type(line[1]),
             'lang': None,
             'units': None,
             'faction': None,
