@@ -45,7 +45,7 @@ class TestFromCSVTest(unittest.TestCase):
 
     def test_instantiateUnit(self):
         self.assertIsInstance(self.unitFromCSVCard[0], Card)
-        assert ['C','R','F'].__contains__(self.unitFromCSVCard[0].codeType)
+        self.assertIn(self.unitFromCSVCard[0].codeType, ['C','R','F'])
 
 class TestCSVLineToDict(unittest.TestCase):
     def setUp(self):
