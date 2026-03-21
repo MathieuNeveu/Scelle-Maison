@@ -2,6 +2,9 @@ import csv
 import json
 from io import TextIOWrapper
 
+from scripts.list_missing_cards.python.src.ParsingException import ParsingException
+
+
 class Card:
     def __init__(
             self, _id: int, index: int, code_type: str, lang: str, units: int,
@@ -51,14 +54,17 @@ class Card:
 
     @staticmethod
     def csv_to_dict_list(csv_file: TextIOWrapper) -> list:
-        csv_reader = csv.reader(csv_file, delimiter=',')
-        cards: list[dict] = []
         # check that csv columns number match card's dictionary keys number
-        # ignore 1st csv line (header)
-        for line in csv_reader:
-            parsed_line: dict = Card.csv_line_to_dict(line)
-            cards.append(parsed_line)
-        return cards
+        if Card.csv_header_validation(csv_file):
+            csv_reader = csv.reader(csv_file, delimiter=',')
+            cards: list[dict] = []
+            # ignore 1st csv line (header)
+            # csv_body = next(csv_reader)
+            for line in csv_reader:
+                parsed_line: dict = Card.csv_line_to_dict(line)
+                cards.append(parsed_line)
+            return cards
+        raise Exception('Mauvais format CSV.')
 
     @staticmethod
     def csv_header_validation(csv_file: TextIOWrapper) -> bool:
@@ -73,8 +79,14 @@ class Card:
 
         for key_value in card_csv_keys_config.values():
             if key_value not in csv_header:
+                config_file.close()
+                raise ParsingException(
+                    400,
+                    "Mauvais format CSV: une/des clés n'est pas présente de le header",
+                    key_value,
+                    csv_header
+                )
                 validation_status = False
 
         config_file.close()
-
         return validation_status

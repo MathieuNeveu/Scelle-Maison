@@ -1,6 +1,8 @@
 import unittest
 
 from scripts.list_missing_cards.python.src.Card import Card
+from scripts.list_missing_cards.python.src.ParsingException import ParsingException
+
 
 class InitCardTest(unittest.TestCase):
     def setUp(self):
@@ -15,15 +17,24 @@ class InitCardTest(unittest.TestCase):
 class TestFromCSVTest(unittest.TestCase):
     def setUp(self):
         datatest_dir_path = "data/"
-        self.heroCSVFile = open(datatest_dir_path+"oneHeroCard.csv", 'r')
-        self.unitCSVFile = open(datatest_dir_path+"oneUnitCard.csv", 'r')
+        self.heroCSVFile = open(
+            datatest_dir_path+"oneHeroCard.csv",
+            'r', encoding='utf-8-sig'
+        )
+        self.unitCSVFile = open(
+            datatest_dir_path+"oneUnitCard.csv",
+            'r', encoding='utf-8-sig'
+        )
         self.heroFromCSVCard = Card.from_csv(self.heroCSVFile)
         self.unitFromCSVCard = Card.from_csv(self.unitCSVFile)
         #test with an empty file
         #test with a wrong formated file
 
         data_dir_path = "../../../../data/"
-        self.lightFRCSVFile = open(data_dir_path+"csv/BTG_Collection-lightFR.csv", 'r')
+        self.lightFRCSVFile = open(
+            data_dir_path+"csv/BTG_Collection-lightFR.csv",
+            'r', encoding='utf-8-sig'
+        )
         self.cardsFromCSVFile = Card.from_csv(self.lightFRCSVFile)
 
     def tearDown(self):
@@ -113,7 +124,10 @@ class TestParseCodeType(unittest.TestCase):
 class TestCSVToDictList(unittest.TestCase):
     def setUp(self):
         datatest_dir_path = "data/"
-        self.heroCSVFile = open(datatest_dir_path+"oneHeroCard.csv", 'r')
+        self.heroCSVFile = open(
+            datatest_dir_path+"oneHeroCard.csv",
+            'r', encoding='utf-8-sig'
+        )
         self.heroList = Card.csv_to_dict_list(self.heroCSVFile)
     def tearDown(self):
         self.heroCSVFile.close()
@@ -129,8 +143,12 @@ class TestCSVToDictList(unittest.TestCase):
 class TestCSVHeaderValidation(unittest.TestCase):
     def setUp(self):
         datatest_dir_path = "data/"
-        self.heroCSVFile = open(datatest_dir_path+"oneHeroCard.csv", 'r')
-        self.wrongHeadersCSVFile = open(datatest_dir_path+"wrongHeaders.csv", 'r')
+        self.heroCSVFile = open(
+            datatest_dir_path+"oneHeroCard.csv",
+            'r', encoding='utf-8-sig')
+        self.wrongHeadersCSVFile = open(
+            datatest_dir_path+"wrongHeaders.csv",
+            'r', encoding='utf-8-sig')
 
     def tearDown(self):
         self.heroCSVFile.close()
@@ -144,7 +162,13 @@ class TestCSVHeaderValidation(unittest.TestCase):
         )
 
     def test_withWrongHeaders(self):
-        self.assertFalse(Card.csv_header_validation(self.wrongHeadersCSVFile))
+        with self.assertRaises(ParsingException) as cm:
+            Card.csv_header_validation(self.wrongHeadersCSVFile)
+        wrong_headers_exception = cm.exception
+        self.assertEqual(400, wrong_headers_exception.error_code)
+        self.assertEqual(
+            "Mauvais format CSV: une/des clés n'est pas présente de le header",
+            wrong_headers_exception.message)
 
     def test_withGoodHeaders(self):
         self.assertTrue(Card.csv_header_validation(self.heroCSVFile))
