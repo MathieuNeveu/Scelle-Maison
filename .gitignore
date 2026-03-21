@@ -6,3 +6,4 @@ scripts/list_missing_cards/.venv
 scripts/list_missing_cards/python/__pycache__
 scripts/list_missing_cards/python/src/__pycache__
 scripts/list_missing_cards/python/tests/__pycache__
+scripts/list_missing_cards/python/config.json
