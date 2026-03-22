@@ -1,5 +1,6 @@
 import json
 import unittest
+from io import TextIOWrapper
 
 from scripts.list_missing_cards.python.src.Card import Card
 from scripts.list_missing_cards.python.src.ParsingException import ParsingException
@@ -54,6 +55,41 @@ class TestFromCSV(unittest.TestCase):
     def test_instantiateUnit(self):
         self.assertIsInstance(self.unitFromCSVCard[0], Card)
         self.assertIn(self.unitFromCSVCard[0].codeType, ['C','R','F'])
+
+class TestOpenCSVFile(unittest.TestCase):
+    def setUp(self):
+        config_file = open("../config.json")
+        json_config = json.load(config_file)
+        config_file.close()
+
+        config_csv_location: dict = json_config['csv']['location']
+        good_filepath: str = (
+                config_csv_location['parent_dir_absolute_path']+'/'+
+                config_csv_location['filename']
+        )
+
+        wrong_filepath: str = (
+                config_csv_location['parent_dir_absolute_path']+
+                '/bad_name.csv'
+        )
+
+    def tearDown(self):
+        return super().tearDown()
+
+    def test_wrongPathType(self):
+        wrong_parameter: TextIOWrapper = open('../config.json')
+        with self.assertRaises(ParameterException) as context:
+            Card.open_csv_file(wrong_parameter)
+        exception: ParameterException = context.exception
+        self.assertEqual(400, exception.error_code)
+        self.assertIsInstance(str, exception.expected_type)
+        self.assertIsInstance(TextIOWrapper, exception.parameter_type)
+        self.assertEqual('csv_absolute_path', exception.parameter_name)
+        self.assertEqual(
+            'In from_csv method, `csv_absolute_path` parameter Exception (400).'
+            ' TextIOWrapper type found instead of str',
+            exception.message
+        )
 
 class TestCSVLineToDict(unittest.TestCase):
     def setUp(self):
