@@ -15,7 +15,7 @@ class InitCardTest(unittest.TestCase):
     def test_init(self):
         self.assertIsInstance(self.firstCard, Card)
 
-class TestFromCSVTest(unittest.TestCase):
+class TestFromCSV(unittest.TestCase):
     def setUp(self):
         datatest_dir_path = "data/"
         hero_csv_absolute_path: str = datatest_dir_path+"oneHeroCard.csv"
