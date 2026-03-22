@@ -2,7 +2,7 @@
   "csv": {
     "location": {
       "parent_dir_absolute_path": "/home/your/dir/absolute/path",
-      "file_name": "collection.csv"
+      "filename": "collection.csv"
     },
     "header_keys": {
       "Card": {
