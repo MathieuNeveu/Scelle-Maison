@@ -1,3 +1,4 @@
+import json
 import unittest
 
 from scripts.list_missing_cards.python.src.Card import Card
@@ -17,30 +18,26 @@ class InitCardTest(unittest.TestCase):
 class TestFromCSVTest(unittest.TestCase):
     def setUp(self):
         datatest_dir_path = "data/"
-        self.heroCSVFile = open(
-            datatest_dir_path+"oneHeroCard.csv",
-            'r', encoding='utf-8-sig'
+        hero_csv_absolute_path: str = datatest_dir_path+"oneHeroCard.csv"
+        unit_csv_absolute_path: str = datatest_dir_path+"oneUnitCard.csv"
+        self.heroFromCSVCard = Card.from_csv(hero_csv_absolute_path)
+        self.unitFromCSVCard = Card.from_csv(unit_csv_absolute_path)
+
+        config_file = open("../config.json")
+        json_config = json.load(config_file)
+        config_file.close()
+        config_csv_location: dict = json_config['csv']['location']
+        light_csv_absolute_path: str = (
+                config_csv_location['parent_dir_absolute_path']+'/'+
+                config_csv_location['filename']
         )
-        self.unitCSVFile = open(
-            datatest_dir_path+"oneUnitCard.csv",
-            'r', encoding='utf-8-sig'
-        )
-        self.heroFromCSVCard = Card.from_csv(self.heroCSVFile)
-        self.unitFromCSVCard = Card.from_csv(self.unitCSVFile)
-        #test with an empty file
+
+        self.cardsFromCSVFile = Card.from_csv(light_csv_absolute_path)
+
+        #test with a wrong file path
         #test with a wrong formated file
 
-        data_dir_path = "../../../../data/"
-        self.lightFRCSVFile = open(
-            data_dir_path+"csv/BTG_Collection-lightFR.csv",
-            'r', encoding='utf-8-sig'
-        )
-        self.cardsFromCSVFile = Card.from_csv(self.lightFRCSVFile)
-
     def tearDown(self):
-        self.heroCSVFile.close()
-        self.unitCSVFile.close()
-        self.lightFRCSVFile.close()
         return super().tearDown()
 
     def test_instantiateAList(self):
