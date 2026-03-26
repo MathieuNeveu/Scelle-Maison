@@ -2,6 +2,7 @@ import csv
 import json
 from io import TextIOWrapper
 
+from scripts.list_missing_cards.python.src.ParameterException import ParameterException
 from scripts.list_missing_cards.python.src.ParsingException import ParsingException
 
 
@@ -35,6 +36,17 @@ class Card:
             ))
         # test that returned Card objects number is equal to csv lines -1
         return card_list
+
+    @staticmethod
+    def open_csv_file(csv_absolute_path: str) -> TextIOWrapper:
+        if type(csv_absolute_path) is not str:
+            raise ParameterException(
+                400,
+                str,
+                type(csv_absolute_path),
+                'open_csv_file',
+                'csv_absolute_path'
+            )
 
     @staticmethod
     def csv_line_to_dict(line: list[str]) -> dict:

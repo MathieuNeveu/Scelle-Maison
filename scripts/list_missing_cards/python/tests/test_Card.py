@@ -4,6 +4,7 @@ from io import TextIOWrapper
 
 from scripts.list_missing_cards.python.src.Card import Card
 from scripts.list_missing_cards.python.src.ParsingException import ParsingException
+from scripts.list_missing_cards.python.src.ParameterException import ParameterException
 
 
 class InitCardTest(unittest.TestCase):
