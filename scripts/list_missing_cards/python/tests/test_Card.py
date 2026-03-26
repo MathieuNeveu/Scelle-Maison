@@ -1,6 +1,7 @@
 import json
 import unittest
 from io import TextIOWrapper
+from logging import exception
 
 from scripts.list_missing_cards.python.src.Card import Card
 from scripts.list_missing_cards.python.src.ParsingException import ParsingException
@@ -63,14 +64,14 @@ class TestOpenCSVFile(unittest.TestCase):
         json_config = json.load(config_file)
         config_file.close()
 
-        config_csv_location: dict = json_config['csv']['location']
+        self.config_csv_location: dict = json_config['csv']['location']
         good_filepath: str = (
-                config_csv_location['parent_dir_absolute_path']+'/'+
-                config_csv_location['filename']
+                self.config_csv_location['parent_dir_absolute_path']+'/'+
+                self.config_csv_location['filename']
         )
 
-        wrong_filepath: str = (
-                config_csv_location['parent_dir_absolute_path']+
+        self.wrong_filepath: str = (
+                self.config_csv_location['parent_dir_absolute_path']+
                 '/bad_name.csv'
         )
 
@@ -91,6 +92,26 @@ class TestOpenCSVFile(unittest.TestCase):
             " <class '_io.TextIOWrapper'> type founded instead of <class 'str'>",
             exception.message
         )
+
+    def test_wrongFileName(self):
+        with self.assertRaises(ResourceException) as context:
+            Card.open_csv_file(self.wrong_filepath)
+        exception: ResourceException = context.exception
+        self.assertEqual(404, exception.error_code)
+        self.assertEqual(
+            f"No such file in directory."
+            f" Make sure to fill an absolute csv file path."
+            f" Wrong path: "
+            f"{self.config_csv_location['parent_dir_absolute_path']}"
+            f"/bad_name.csv",
+            exception.message
+        )
+        self.assertEqual(
+            f"{self.config_csv_location['parent_dir_absolute_path']}"
+            f"/bad_name.csv",
+            exception.resource_location
+        )
+
 
 class TestCSVLineToDict(unittest.TestCase):
     def setUp(self):
