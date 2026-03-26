@@ -101,7 +101,7 @@ class TestOpenCSVFile(unittest.TestCase):
         self.assertEqual(
             f"No such file in directory."
             f" Make sure to fill an absolute csv file path."
-            f" Wrong path: "
+            f" Location that caused failure: "
             f"{self.config_csv_location['parent_dir_absolute_path']}"
             f"/bad_name.csv",
             exception.message
