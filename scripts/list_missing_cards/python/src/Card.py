@@ -4,6 +4,7 @@ from io import TextIOWrapper
 
 from scripts.list_missing_cards.python.src.ParameterException import ParameterException
 from scripts.list_missing_cards.python.src.ParsingException import ParsingException
+from scripts.list_missing_cards.python.src.ResourceException import ResourceException
 
 
 class Card:
@@ -47,6 +48,15 @@ class Card:
                 'open_csv_file',
                 'csv_absolute_path'
             )
+        try:
+            file = open(csv_absolute_path, 'r', encoding='utf-8-sig')
+        except:
+            raise ResourceException(
+                404,
+                csv_absolute_path
+            )
+        else:
+            return file
 
     @staticmethod
     def csv_line_to_dict(line: list[str]) -> dict:
