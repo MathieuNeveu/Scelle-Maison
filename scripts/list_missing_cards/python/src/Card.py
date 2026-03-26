@@ -21,8 +21,9 @@ class Card:
         self.name= name
 
     @classmethod
-    def from_csv(cls, csv_file: TextIOWrapper) -> list['Card']:
+    def from_csv(cls, csv_absolute_path: str) -> list['Card']:
         #test csv length > 1 line
+        csv_file: TextIOWrapper = cls.open_csv_file(csv_absolute_path)
         dict_list: list[dict] = cls.csv_to_dict_list(csv_file)
         card_list: list[Card] = []
         for card_dict in dict_list:
