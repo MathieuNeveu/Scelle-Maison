@@ -107,4 +107,10 @@ class Card:
 
     @staticmethod
     def csv_body_validation(csv_file: TextIOWrapper) -> TextIOWrapper:
+        validation_result: dict = find_body_corruption(csv_file)
+        if validation_result['status'] == True:
+            raise InvalidCSVBodyException(
+                validation_result['line'],
+                validation_result['key'],
+            )
         return csv_file
