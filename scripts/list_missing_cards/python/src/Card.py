@@ -1,5 +1,6 @@
 import csv
 import json
+from typing import Iterator, List
 from io import TextIOWrapper
 
 from scripts.list_missing_cards.python.src.Exceptions.ParameterException import ParameterException
@@ -83,15 +84,13 @@ class Card:
         raise Exception('Mauvais format CSV.')
 
     @staticmethod
-    def csv_header_validation(csv_file: TextIOWrapper) -> bool:
+    def csv_header_validation(csv_file: TextIOWrapper) -> TextIOWrapper:
         config_file = open("../config.json")
         json_config = json.load(config_file)
         card_csv_keys_config = json_config['csv']['header_keys']['Card']
 
-        csv_reader = csv.reader(csv_file, delimiter=',')
-        csv_header = next(csv_reader)
-
-        validation_status: bool = True
+        csv_reader: Iterator[List[str]] = csv.reader(csv_file, delimiter=',')
+        csv_header: List[str] = next(csv_reader)
 
         for key_value in card_csv_keys_config.values():
             if key_value not in csv_header:
@@ -102,7 +101,7 @@ class Card:
                     key_value,
                     csv_header
                 )
-                validation_status = False
 
         config_file.close()
         return validation_status
+        return csv_file
