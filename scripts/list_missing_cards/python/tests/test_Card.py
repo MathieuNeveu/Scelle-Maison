@@ -232,3 +232,13 @@ class TestCSVBodyValidation(unittest.TestCase):
             Card.csv_body_validation(self.emptyBodyCSVFile),
             TextIOWrapper
         )
+
+    def test_emptyCSVBody(self):
+        with self.assertRaises(InvalidCSVBodyException) as context:
+            Card.csv_body_validation(self.emptyBodyCSVFile)
+        exception: InvalidCSVBodyException = context.exception
+        self.assertEqual(
+            f"This file is not properly filled at line 1, key 'ID'."
+            f" Make sure to fill at least one line of content after the header.",
+            exception.message
+        )
