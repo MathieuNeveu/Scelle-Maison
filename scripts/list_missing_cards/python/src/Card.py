@@ -103,5 +103,4 @@ class Card:
                 )
 
         config_file.close()
-        return validation_status
         return csv_file
