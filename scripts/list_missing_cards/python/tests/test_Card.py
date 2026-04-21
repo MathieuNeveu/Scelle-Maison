@@ -94,24 +94,13 @@ class TestOpenCSVFile(unittest.TestCase):
         )
 
     def test_wrongFileName(self):
-        with self.assertRaises(ResourceException) as context:
+        with self.assertRaises(FileNotFoundError) as context:
             Card.open_csv_file(self.wrong_filepath)
-        exception: ResourceException = context.exception
-        self.assertEqual(404, exception.error_code)
-        self.assertEqual(
-            f"No such file in directory."
-            f" Make sure to fill an absolute csv file path."
-            f" Location that caused failure: "
-            f"{self.config_csv_location['parent_dir_absolute_path']}"
-            f"/bad_name.csv",
-            exception.message
+        exception: FileNotFoundError = context.exception
+        self.assertIn(
+            self.config_csv_location['parent_dir_absolute_path'],
+            str(exception)
         )
-        self.assertEqual(
-            f"{self.config_csv_location['parent_dir_absolute_path']}"
-            f"/bad_name.csv",
-            exception.resource_location
-        )
-
 
 class TestCSVLineToDict(unittest.TestCase):
     def setUp(self):

@@ -49,15 +49,8 @@ class Card:
                 'open_csv_file',
                 'csv_absolute_path'
             )
-        try:
-            file = open(csv_absolute_path, 'r', encoding='utf-8-sig')
-        except:
-            raise ResourceException(
-                404,
-                csv_absolute_path
-            )
-        else:
-            return file
+        file = open(csv_absolute_path, 'r', encoding='utf-8-sig')
+        return file
 
     @staticmethod
     def csv_line_to_dict(line: list[str]) -> dict:
