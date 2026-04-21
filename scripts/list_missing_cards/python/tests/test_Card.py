@@ -216,3 +216,19 @@ class TestCSVHeaderValidation(unittest.TestCase):
 
     def test_withGoodHeaders(self):
         self.assertTrue(Card.csv_header_validation(self.heroCSVFile))
+
+class TestCSVBodyValidation(unittest.TestCase):
+    def setUp(self):
+        datatest_dir_path = "data/"
+        self.emptyBodyCSVFile: TextIOWrapper = open(
+            datatest_dir_path+"emptyBody.csv",
+        )
+
+    def tearDown(self):
+        self.emptyBodyCSVFile.close()
+
+    def test_returnFileType(self):
+        self.assertIsInstance(
+            Card.csv_body_validation(self.emptyBodyCSVFile),
+            TextIOWrapper
+        )

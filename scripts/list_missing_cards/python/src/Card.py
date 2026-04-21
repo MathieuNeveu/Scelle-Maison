@@ -104,3 +104,7 @@ class Card:
 
         config_file.close()
         return csv_file
+
+    @staticmethod
+    def csv_body_validation(csv_file: TextIOWrapper) -> TextIOWrapper:
+        return csv_file
