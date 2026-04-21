@@ -2,9 +2,9 @@ import csv
 import json
 from io import TextIOWrapper
 
-from scripts.list_missing_cards.python.src.ParameterException import ParameterException
-from scripts.list_missing_cards.python.src.ParsingException import ParsingException
-from scripts.list_missing_cards.python.src.ResourceException import ResourceException
+from scripts.list_missing_cards.python.src.Exceptions.ParameterException import ParameterException
+from scripts.list_missing_cards.python.src.Exceptions.ParsingException import ParsingException
+from scripts.list_missing_cards.python.src.Exceptions.ResourceException import ResourceException
 
 
 class Card:
