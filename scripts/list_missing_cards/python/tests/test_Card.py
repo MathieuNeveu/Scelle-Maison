@@ -5,7 +5,7 @@ from io import TextIOWrapper
 from scripts.list_missing_cards.python.src.Card import Card
 from scripts.list_missing_cards.python.src.Exceptions.ParsingException import ParsingException
 from scripts.list_missing_cards.python.src.Exceptions.ParameterException import ParameterException
-from scripts.list_missing_cards.python.src.Exceptions.ResourceException import ResourceException
+from scripts.list_missing_cards.python.src.Exceptions.InvalidCSVBodyException import InvalidCSVBodyException
 
 
 class InitCardTest(unittest.TestCase):
