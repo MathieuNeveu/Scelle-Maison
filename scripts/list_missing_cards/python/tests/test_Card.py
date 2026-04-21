@@ -199,10 +199,10 @@ class TestCSVHeaderValidation(unittest.TestCase):
         self.wrongHeadersCSVFile.close()
         return super().tearDown()
 
-    def test_returnBoolean(self):
+    def test_returnFileType(self):
         self.assertIsInstance(
             Card.csv_header_validation(self.heroCSVFile),
-            bool
+            TextIOWrapper
         )
 
     def test_withWrongHeaders(self):
