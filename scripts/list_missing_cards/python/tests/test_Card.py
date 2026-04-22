@@ -242,3 +242,32 @@ class TestCSVBodyValidation(unittest.TestCase):
             f" Make sure to fill at least one line of content after the header.",
             exception.message
         )
+class TestFindBodyCorruption(unittest.TestCase):
+    def setUp(self):
+        datatest_dir_path = "data/"
+        file: TextIOWrapper = open(
+            datatest_dir_path+"oneHeroCard.csv",
+            'r', encoding='utf-8-sig'
+        )
+        self.functionResult: dict = Card.find_body_corruption(file)
+        file.close()
+
+    def test_returnDict(self):
+        self.assertIsInstance(
+            self.functionResult,
+            dict
+        )
+
+    def test_returnDictKeys(self):
+        self.assertIsInstance(
+            self.functionResult['status'],
+            str
+        )
+        self.assertIsInstance(
+            self.functionResult['line'],
+            int
+        )
+        self.assertIsInstance(
+            self.functionResult['key'],
+            str
+        )
