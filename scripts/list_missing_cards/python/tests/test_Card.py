@@ -245,27 +245,61 @@ class TestCSVBodyValidation(unittest.TestCase):
 class TestFindBodyCorruption(unittest.TestCase):
     def setUp(self):
         datatest_dir_path = "data/"
-        file: TextIOWrapper = open(
+        filled_body_file: TextIOWrapper = open(
             datatest_dir_path+"oneHeroCard.csv",
             'r', encoding='utf-8-sig'
         )
-        self.functionResult: dict = Card.find_body_corruption(file)
-        file.close()
+
+        empty_body_file: TextIOWrapper = open(
+            datatest_dir_path+"emptyBody.csv",
+            'r', encoding='utf-8-sig'
+        )
+
+        self.filledBodyResult: dict = Card.find_body_corruption(filled_body_file)
+        self.emptyBodyResult: dict = Card.find_body_corruption(empty_body_file)
+
+        filled_body_file.close()
+        empty_body_file.close()
 
     def test_returnDict(self):
         self.assertIsInstance(
-            self.functionResult,
+            self.filledBodyResult,
+            dict
+        )
+        self.assertIsInstance(
+            self.emptyBodyResult,
             dict
         )
 
+
     def test_returnDictKeys(self):
+        self.assertIn('status', self.filledBodyResult)
+        self.assertIn('status', self.emptyBodyResult)
+        self.assertIn('line', self.emptyBodyResult)
+        self.assertIn('key', self.emptyBodyResult)
+
+    def test_DictKeysTypes(self):
+        self.assertIsInstance(
+            self.filledBodyResult['status'],
+            bool
+        )
+        self.assertIsInstance(
+            self.emptyBodyResult['status'],
+            bool
+        )
         self.assertIsInstance(
             self.functionResult['status'],
             str
+            self.emptyBodyResult['line'],
+            int
         )
         self.assertIsInstance(
             self.functionResult['line'],
             int
+            self.emptyBodyResult['key'],
+            str
+        )
+
         )
         self.assertIsInstance(
             self.functionResult['key'],
