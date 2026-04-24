@@ -288,14 +288,10 @@ class TestFindBodyCorruption(unittest.TestCase):
             bool
         )
         self.assertIsInstance(
-            self.functionResult['status'],
-            str
             self.emptyBodyResult['line'],
             int
         )
         self.assertIsInstance(
-            self.functionResult['line'],
-            int
             self.emptyBodyResult['key'],
             str
         )
