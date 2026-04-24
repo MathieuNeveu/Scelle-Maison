@@ -220,22 +220,29 @@ class TestCSVHeaderValidation(unittest.TestCase):
 class TestCSVBodyValidation(unittest.TestCase):
     def setUp(self):
         datatest_dir_path = "data/"
-        self.emptyBodyCSVFile: TextIOWrapper = open(
+        self.emptyBodyFile: TextIOWrapper = open(
             datatest_dir_path+"emptyBody.csv",
+            'r', encoding='utf-8-sig'
+        )
+
+        self.properBodyFile: TextIOWrapper = open(
+            datatest_dir_path+"oneHeroCard.csv",
+            'r', encoding='utf-8-sig'
         )
 
     def tearDown(self):
-        self.emptyBodyCSVFile.close()
+        self.emptyBodyFile.close()
+        self.properBodyFile.close()
 
     def test_returnFileType(self):
         self.assertIsInstance(
-            Card.csv_body_validation(self.emptyBodyCSVFile),
+            Card.csv_body_validation(self.properBodyFile),
             TextIOWrapper
         )
 
     def test_emptyCSVBody(self):
         with self.assertRaises(InvalidCSVBodyException) as context:
-            Card.csv_body_validation(self.emptyBodyCSVFile)
+            Card.csv_body_validation(self.emptyBodyFile)
         exception: InvalidCSVBodyException = context.exception
         self.assertEqual(
             f"This file is not properly filled at line 1, key 'ID'."
