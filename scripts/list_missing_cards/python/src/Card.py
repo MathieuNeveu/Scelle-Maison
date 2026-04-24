@@ -107,10 +107,30 @@ class Card:
 
     @staticmethod
     def csv_body_validation(csv_file: TextIOWrapper) -> TextIOWrapper:
-        validation_result: dict = find_body_corruption(csv_file)
-        if validation_result['status'] == True:
+        corruption_analysis_result: dict = Card.find_body_corruption(csv_file)
+        if corruption_analysis_result['status']:
             raise InvalidCSVBodyException(
-                validation_result['line'],
-                validation_result['key'],
+                corruption_analysis_result['line'],
+                corruption_analysis_result['key'],
             )
         return csv_file
+
+    @staticmethod
+    def find_body_corruption(file: TextIOWrapper) -> dict:
+        if Card.is_body_empty(file):
+            return {
+                'status': True,
+                'line': 1,
+                'key': 'ID',
+            }
+        return { 'status': False }
+
+    @staticmethod
+    def is_body_empty(file: TextIOWrapper) -> bool:
+        csv_reader: Iterator[List[str]] = csv.reader(file, delimiter=',')
+        next(csv_reader)
+        next(csv_reader)
+        for body_line in csv_reader:
+            if len(body_line) < 2:
+                return True
+        return False
