@@ -5,7 +5,7 @@ class InvalidCSVBodyException(Exception):
             key
     ):
         self.message = (
-            f"Wrong body data at line {line_number}, key '{key}'."
+                f"This file is not properly filled at line {line_number}, key '{key}'."
         )
         if line_number == 1:
             self.message += (
