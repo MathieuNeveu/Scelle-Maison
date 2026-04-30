@@ -2,6 +2,7 @@ import json
 import unittest
 
 from scripts.list_missing_cards.python.src.Card import Card
+from scripts.list_missing_cards.python.src.FileReader import FileReader
 from scripts.list_missing_cards.python.src.Exceptions.ParameterException import ParameterException
 
 class TestOpenWithProcess(unittest.TestCase):
