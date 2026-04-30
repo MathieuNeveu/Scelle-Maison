@@ -79,17 +79,17 @@ class TestOpenCSVFile(unittest.TestCase):
         return super().tearDown()
 
     def test_wrong_path_type(self):
-        wrong_parameter: TextIOWrapper = open('../config.json')
+        wrong_parameter: int = 666
         with self.assertRaises(ParameterException) as context:
             Card.open_csv_file(wrong_parameter)
         exception: ParameterException = context.exception
         self.assertEqual(400, exception.error_code)
         self.assertEqual(str, exception.expected_type)
-        self.assertEqual(TextIOWrapper, exception.parameter_type)
+        self.assertEqual(int, exception.parameter_type)
         self.assertEqual('csv_absolute_path', exception.parameter_name)
         self.assertEqual(
             "In `open_csv_file` method, `csv_absolute_path` parameter Exception (400)."
-            " <class '_io.TextIOWrapper'> type founded instead of <class 'str'>",
+            " <class 'int'> type founded instead of <class 'str'>",
             exception.message
         )
 
