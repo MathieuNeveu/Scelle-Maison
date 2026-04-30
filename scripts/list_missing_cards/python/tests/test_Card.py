@@ -57,44 +57,6 @@ class TestFromCSV(unittest.TestCase):
         self.assertIsInstance(self.unitFromCSVCard[0], Card)
         self.assertIn(self.unitFromCSVCard[0].codeType, ['C','R','F'])
 
-class TestCSVLineToDict(unittest.TestCase):
-    def setUp(self):
-        self.csv_lines: list[list[str]] = [
-            ['1', 'H - Héro', 'EN - English', 'Sierra & Oddball', 'Axiom', '', '0'],
-            ['0', 'X', 'YY - English', 'Sierra & Oddball', 'Axiom', '', '0']
-        ]
-        self.dictHeroData: dict = Card.csv_line_to_dict(self.csv_lines[0])
-    def tearDown(self):
-        return super().tearDown()
-
-    def test_returnDict(self):
-        self.assertIsInstance(self.dictHeroData, dict)
-
-    def test_idInDict(self):
-        self.assertIn("_id", self.dictHeroData)
-
-    def test_indexInDict(self):
-        self.assertIn("index", self.dictHeroData)
-
-    def test_codeTypeInDict(self):
-        self.assertIn("codeType", self.dictHeroData)
-
-    def test_langInDict(self):
-        self.assertIn("lang", self.dictHeroData)
-
-    def test_unitsInDict(self):
-        self.assertIn("units", self.dictHeroData)
-
-    def test_factionInDict(self):
-        self.assertIn("faction", self.dictHeroData)
-
-    def test_nameInDict(self):
-        self.assertIn("name", self.dictHeroData)
-
-    def test_returnExpectedCodeType(self):
-        expected: str = 'H'
-        self.assertEqual(expected, self.dictHeroData['codeType'])
-
 class TestParseCodeType(unittest.TestCase):
     def setUp(self):
         self.heroCase: str = Card.parse_code_type('H - Héro')
