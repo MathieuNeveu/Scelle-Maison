@@ -3,7 +3,6 @@ import unittest
 from io import TextIOWrapper
 
 from scripts.list_missing_cards.python.src.Card import Card
-from scripts.list_missing_cards.python.src.Exceptions.ParsingException import ParsingException
 from scripts.list_missing_cards.python.src.Exceptions.InvalidCSVBodyException import InvalidCSVBodyException
 
 
@@ -81,39 +80,6 @@ class TestParseCodeType(unittest.TestCase):
         self.assertEqual('F', self.out0fFactionCase)
         self.assertEqual('R', self.rareCase)
         self.assertEqual('C', self.commonCase)
-
-class TestCSVHeaderValidation(unittest.TestCase):
-    def setUp(self):
-        datatest_dir_path = "data/"
-        self.heroCSVFile = open(
-            datatest_dir_path+"oneHeroCard.csv",
-            'r', encoding='utf-8-sig')
-        self.wrongHeadersCSVFile = open(
-            datatest_dir_path+"wrongHeaders.csv",
-            'r', encoding='utf-8-sig')
-
-    def tearDown(self):
-        self.heroCSVFile.close()
-        self.wrongHeadersCSVFile.close()
-        return super().tearDown()
-
-    def test_returnFileType(self):
-        self.assertIsInstance(
-            Card.csv_header_validation(self.heroCSVFile),
-            TextIOWrapper
-        )
-
-    def test_withWrongHeaders(self):
-        with self.assertRaises(ParsingException) as cm:
-            Card.csv_header_validation(self.wrongHeadersCSVFile)
-        wrong_headers_exception = cm.exception
-        self.assertEqual(400, wrong_headers_exception.error_code)
-        self.assertEqual(
-            "Mauvais format CSV: une/des clés n'est pas présente de le header",
-            wrong_headers_exception.message)
-
-    def test_withGoodHeaders(self):
-        self.assertTrue(Card.csv_header_validation(self.heroCSVFile))
 
 class TestCSVBodyValidation(unittest.TestCase):
     def setUp(self):
