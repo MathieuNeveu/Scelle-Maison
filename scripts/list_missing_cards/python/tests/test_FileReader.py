@@ -29,7 +29,7 @@ class TestOpenWithProcess(unittest.TestCase):
             FileReader.open_with_process(self.good_filepath, lambda filename: True)
         )
 
-    def test_wrongFilePathType(self):
+    def test_wrong_file_path_type(self):
         wrong_parameter: int = 666
         with self.assertRaises(ParameterException) as context:
             FileReader.open_with_process(wrong_parameter, lambda filename: True)

@@ -43,18 +43,18 @@ class TestFromCSV(unittest.TestCase):
     def tearDown(self):
         return super().tearDown()
 
-    def test_instantiateAList(self):
+    def test_instantiate_a_list(self):
         self.assertIsInstance(self.cardsFromCSVFile, list)
 
-    def test_instantiateAListOfCards(self):
+    def test_instantiate_a_list_of_cards(self):
         for card in self.cardsFromCSVFile:
             self.assertIsInstance(card, Card)
 
-    def test_instantiateHero(self):
+    def test_instantiate_hero(self):
         self.assertIsInstance(self.heroFromCSVCard[0], Card)
         self.assertEqual('H', self.heroFromCSVCard[0].codeType)
 
-    def test_instantiateUnit(self):
+    def test_instantiate_unit(self):
         self.assertIsInstance(self.unitFromCSVCard[0], Card)
         self.assertIn(self.unitFromCSVCard[0].codeType, ['C','R','F'])
 
@@ -78,7 +78,7 @@ class TestOpenCSVFile(unittest.TestCase):
     def tearDown(self):
         return super().tearDown()
 
-    def test_wrongPathType(self):
+    def test_wrong_path_type(self):
         wrong_parameter: TextIOWrapper = open('../config.json')
         with self.assertRaises(ParameterException) as context:
             Card.open_csv_file(wrong_parameter)
@@ -93,7 +93,7 @@ class TestOpenCSVFile(unittest.TestCase):
             exception.message
         )
 
-    def test_wrongFileName(self):
+    def test_wrong_file_name(self):
         with self.assertRaises(FileNotFoundError) as context:
             Card.open_csv_file(self.wrong_filepath)
         exception: FileNotFoundError = context.exception
@@ -112,31 +112,31 @@ class TestCSVLineToDict(unittest.TestCase):
     def tearDown(self):
         return super().tearDown()
 
-    def test_returnDict(self):
+    def test_return_dict(self):
         self.assertIsInstance(self.dictHeroData, dict)
 
-    def test_idInDict(self):
+    def test_id_in_dict(self):
         self.assertIn("_id", self.dictHeroData)
 
-    def test_indexInDict(self):
+    def test_index_in_dict(self):
         self.assertIn("index", self.dictHeroData)
 
-    def test_codeTypeInDict(self):
+    def test_code_type_in_dict(self):
         self.assertIn("codeType", self.dictHeroData)
 
-    def test_langInDict(self):
+    def test_lang_in_dict(self):
         self.assertIn("lang", self.dictHeroData)
 
-    def test_unitsInDict(self):
+    def test_units_in_dict(self):
         self.assertIn("units", self.dictHeroData)
 
-    def test_factionInDict(self):
+    def test_faction_in_dict(self):
         self.assertIn("faction", self.dictHeroData)
 
-    def test_nameInDict(self):
+    def test_name_in_dict(self):
         self.assertIn("name", self.dictHeroData)
 
-    def test_returnExpectedCodeType(self):
+    def test_return_expected_code_type(self):
         expected: str = 'H'
         self.assertEqual(expected, self.dictHeroData['codeType'])
 
@@ -147,13 +147,13 @@ class TestParseCodeType(unittest.TestCase):
         self.rareCase: str = Card.parse_code_type('R - Rare')
         self.commonCase: str = Card.parse_code_type('C - Commune')
 
-    def test_returnString(self):
+    def test_return_string(self):
         self.assertIsInstance(self.heroCase, str)
         self.assertIsInstance(self.out0fFactionCase, str)
         self.assertIsInstance(self.rareCase, str)
         self.assertIsInstance(self.commonCase, str)
 
-    def test_oneCharLength(self):
+    def test_one_char_length(self):
         self.assertEqual(1, len(self.heroCase))
         self.assertEqual(1, len(self.out0fFactionCase))
         self.assertEqual(1, len(self.rareCase))
@@ -177,10 +177,10 @@ class TestCSVToDictList(unittest.TestCase):
         self.heroCSVFile.close()
         return super().tearDown()
 
-    def test_returnAList(self):
+    def test_return_a_list(self):
         self.assertIsInstance(self.heroList, list)
 
-    def test_returnAListOfDict(self):
+    def test_return_a_list_of_dict(self):
         for item in self.heroList:
             self.assertIsInstance(item, dict)
 
@@ -199,7 +199,7 @@ class TestCSVHeaderValidation(unittest.TestCase):
         self.wrongHeadersCSVFile.close()
         return super().tearDown()
 
-    def test_returnFileType(self):
+    def test_return_file_type(self):
         self.assertIsInstance(
             Card.csv_header_validation(self.heroCSVFile),
             TextIOWrapper
@@ -214,7 +214,7 @@ class TestCSVHeaderValidation(unittest.TestCase):
             "Mauvais format CSV: une/des clés n'est pas présente de le header",
             wrong_headers_exception.message)
 
-    def test_withGoodHeaders(self):
+    def test_with_good_headers(self):
         self.assertTrue(Card.csv_header_validation(self.heroCSVFile))
 
 class TestCSVBodyValidation(unittest.TestCase):
@@ -234,13 +234,13 @@ class TestCSVBodyValidation(unittest.TestCase):
         self.emptyBodyFile.close()
         self.properBodyFile.close()
 
-    def test_returnFileType(self):
+    def test_return_file_type(self):
         self.assertIsInstance(
             Card.csv_body_validation(self.properBodyFile),
             TextIOWrapper
         )
 
-    def test_emptyCSVBody(self):
+    def test_empty_csv_body(self):
         with self.assertRaises(InvalidCSVBodyException) as context:
             Card.csv_body_validation(self.emptyBodyFile)
         exception: InvalidCSVBodyException = context.exception
@@ -268,7 +268,7 @@ class TestFindBodyCorruption(unittest.TestCase):
         filled_body_file.close()
         empty_body_file.close()
 
-    def test_returnDict(self):
+    def test_return_dict(self):
         self.assertIsInstance(
             self.filledBodyResult,
             dict
@@ -279,13 +279,13 @@ class TestFindBodyCorruption(unittest.TestCase):
         )
 
 
-    def test_returnDictKeys(self):
+    def test_return_dict_keys(self):
         self.assertIn('status', self.filledBodyResult)
         self.assertIn('status', self.emptyBodyResult)
         self.assertIn('line', self.emptyBodyResult)
         self.assertIn('key', self.emptyBodyResult)
 
-    def test_DictKeysTypes(self):
+    def test_dict_keys_types(self):
         self.assertIsInstance(
             self.filledBodyResult['status'],
             bool
@@ -319,14 +319,14 @@ class TestIsBodyEmpty(unittest.TestCase):
         self.emptyBodyFile.close()
         self.filledBodyFile.close()
 
-    def test_returnBool(self):
+    def test_return_bool(self):
         self.assertIsInstance(
             Card.is_body_empty(self.emptyBodyFile),
             bool
         )
 
-    def test_emptyBodyCase(self):
+    def test_empty_body_case(self):
         self.assertTrue(Card.is_body_empty(self.emptyBodyFile))
 
-    def test_filledBodyCase(self):
+    def test_filled_body_case(self):
         self.assertFalse(Card.is_body_empty(self.filledBodyFile))
