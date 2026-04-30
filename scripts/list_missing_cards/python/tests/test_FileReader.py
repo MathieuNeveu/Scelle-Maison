@@ -30,17 +30,17 @@ class TestOpenWithProcess(unittest.TestCase):
             FileReader.open_with_process(self.good_filepath, lambda filename: True)
         )
 
-    def test_wrongPathType(self):
+    def test_wrongFilePathType(self):
         wrong_parameter: int = 666
         with self.assertRaises(ParameterException) as context:
-            Card.open_csv_file(wrong_parameter)
+            FileReader.open_with_process(wrong_parameter, lambda filename: True)
         exception: ParameterException = context.exception
         self.assertEqual(400, exception.error_code)
         self.assertEqual(str, exception.expected_type)
         self.assertEqual(int, exception.parameter_type)
-        self.assertEqual('csv_absolute_path', exception.parameter_name)
+        self.assertEqual('file_absolute_path', exception.parameter_name)
         self.assertEqual(
-            "In `open_csv_file` method, `csv_absolute_path` parameter Exception (400)."
+            "In `open_with_process` method, `file_absolute_path` parameter Exception (400)."
             " <class 'int'> type founded instead of <class 'str'>",
             exception.message
         )
