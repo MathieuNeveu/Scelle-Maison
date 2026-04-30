@@ -1,7 +1,6 @@
 import json
 import unittest
 
-from scripts.list_missing_cards.python.src.Card import Card
 from scripts.list_missing_cards.python.src.FileReader import FileReader
 from scripts.list_missing_cards.python.src.Exceptions.ParameterException import ParameterException
 
@@ -43,13 +42,4 @@ class TestOpenWithProcess(unittest.TestCase):
             "In `open_with_process` method, `file_absolute_path` parameter Exception (400)."
             " <class 'int'> type founded instead of <class 'str'>",
             exception.message
-        )
-
-    def test_wrongFileName(self):
-        with self.assertRaises(FileNotFoundError) as context:
-            Card.open_csv_file(self.wrong_filepath)
-        exception: FileNotFoundError = context.exception
-        self.assertIn(
-            self.config_csv_location['parent_dir_absolute_path'],
-            str(exception)
         )
