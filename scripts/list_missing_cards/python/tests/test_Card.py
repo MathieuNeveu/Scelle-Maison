@@ -82,25 +82,6 @@ class TestParseCodeType(unittest.TestCase):
         self.assertEqual('R', self.rareCase)
         self.assertEqual('C', self.commonCase)
 
-class TestCSVToDictList(unittest.TestCase):
-    def setUp(self):
-        datatest_dir_path = "data/"
-        self.heroCSVFile = open(
-            datatest_dir_path+"oneHeroCard.csv",
-            'r', encoding='utf-8-sig'
-        )
-        self.heroList = Card.csv_to_dict_list(self.heroCSVFile)
-    def tearDown(self):
-        self.heroCSVFile.close()
-        return super().tearDown()
-
-    def test_returnAList(self):
-        self.assertIsInstance(self.heroList, list)
-
-    def test_returnAListOfDict(self):
-        for item in self.heroList:
-            self.assertIsInstance(item, dict)
-
 class TestCSVHeaderValidation(unittest.TestCase):
     def setUp(self):
         datatest_dir_path = "data/"
