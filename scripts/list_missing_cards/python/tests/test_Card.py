@@ -1,6 +1,5 @@
 import json
 import unittest
-from io import TextIOWrapper
 
 from scripts.list_missing_cards.python.src.Card import Card
 
