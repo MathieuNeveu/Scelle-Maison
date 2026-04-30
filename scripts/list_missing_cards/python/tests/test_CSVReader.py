@@ -173,3 +173,57 @@ class TestCSVBodyValidation(unittest.TestCase):
             f" Make sure to fill at least one line of content after the header.",
             exception.message
         )
+
+class TestFindBodyCorruption(unittest.TestCase):
+    def setUp(self):
+        datatest_dir_path = "data/"
+        filled_body_file: TextIOWrapper = open(
+            datatest_dir_path+"oneHeroCard.csv",
+            'r', encoding='utf-8-sig'
+        )
+
+        empty_body_file: TextIOWrapper = open(
+            datatest_dir_path+"emptyBody.csv",
+            'r', encoding='utf-8-sig'
+        )
+
+        self.filledBodyResult: dict = Card.find_body_corruption(filled_body_file)
+        self.emptyBodyResult: dict = Card.find_body_corruption(empty_body_file)
+
+        filled_body_file.close()
+        empty_body_file.close()
+
+    def test_returnDict(self):
+        self.assertIsInstance(
+            self.filledBodyResult,
+            dict
+        )
+        self.assertIsInstance(
+            self.emptyBodyResult,
+            dict
+        )
+
+
+    def test_returnDictKeys(self):
+        self.assertIn('status', self.filledBodyResult)
+        self.assertIn('status', self.emptyBodyResult)
+        self.assertIn('line', self.emptyBodyResult)
+        self.assertIn('key', self.emptyBodyResult)
+
+    def test_DictKeysTypes(self):
+        self.assertIsInstance(
+            self.filledBodyResult['status'],
+            bool
+        )
+        self.assertIsInstance(
+            self.emptyBodyResult['status'],
+            bool
+        )
+        self.assertIsInstance(
+            self.emptyBodyResult['line'],
+            int
+        )
+        self.assertIsInstance(
+            self.emptyBodyResult['key'],
+            str
+        )
