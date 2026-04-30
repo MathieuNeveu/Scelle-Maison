@@ -1,5 +1,6 @@
 import json
 import unittest
+from unittest.mock import mock_open, patch
 
 from scripts.list_missing_cards.python.src.FileReader import FileReader
 from scripts.list_missing_cards.python.src.Exceptions.ParameterException import ParameterException
@@ -47,3 +48,8 @@ class TestOpenWithProcess(unittest.TestCase):
             " <class 'int'> type founded instead of <class 'str'>",
             exception.message
         )
+
+    def test_opens_file_in_read_mode(self):
+        with patch('builtins.open', mock_open()) as mock_file:
+            FileReader.open_with_process('filename.txt', lambda filename: True)
+            mock_file.assert_called_once('filename.txt', 'r')
