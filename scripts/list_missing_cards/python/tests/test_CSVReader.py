@@ -227,3 +227,31 @@ class TestFindBodyCorruption(unittest.TestCase):
             self.emptyBodyResult['key'],
             str
         )
+
+class TestIsBodyEmpty(unittest.TestCase):
+    def setUp(self):
+        datatest_dir_path = "data/"
+        self.emptyBodyFile: TextIOWrapper = open(
+            datatest_dir_path+"emptyBody.csv",
+            'r', encoding='utf-8-sig'
+        )
+        self.filledBodyFile: TextIOWrapper = open(
+            datatest_dir_path + "oneHeroCard.csv",
+            'r', encoding='utf-8-sig'
+        )
+
+    def tearDown(self):
+        self.emptyBodyFile.close()
+        self.filledBodyFile.close()
+
+    def test_returnBool(self):
+        self.assertIsInstance(
+            Card.is_body_empty(self.emptyBodyFile),
+            bool
+        )
+
+    def test_emptyBodyCase(self):
+        self.assertTrue(Card.is_body_empty(self.emptyBodyFile))
+
+    def test_filledBodyCase(self):
+        self.assertFalse(Card.is_body_empty(self.filledBodyFile))
