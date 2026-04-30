@@ -5,6 +5,7 @@ from io import TextIOWrapper
 from scripts.list_missing_cards.python.src.Card import Card
 from scripts.list_missing_cards.python.src.Exceptions.ParameterException import ParameterException
 from scripts.list_missing_cards.python.src.Exceptions.ParsingException import ParsingException
+from scripts.list_missing_cards.python.src.Exceptions.InvalidCSVBodyException import InvalidCSVBodyException
 
 class TestOpenCSVFile(unittest.TestCase):
     def setUp(self):
@@ -139,3 +140,36 @@ class TestCSVHeaderValidation(unittest.TestCase):
 
     def test_withGoodHeaders(self):
         self.assertTrue(Card.csv_header_validation(self.heroCSVFile))
+
+class TestCSVBodyValidation(unittest.TestCase):
+    def setUp(self):
+        datatest_dir_path = "data/"
+        self.emptyBodyFile: TextIOWrapper = open(
+            datatest_dir_path+"emptyBody.csv",
+            'r', encoding='utf-8-sig'
+        )
+
+        self.properBodyFile: TextIOWrapper = open(
+            datatest_dir_path+"oneHeroCard.csv",
+            'r', encoding='utf-8-sig'
+        )
+
+    def tearDown(self):
+        self.emptyBodyFile.close()
+        self.properBodyFile.close()
+
+    def test_returnFileType(self):
+        self.assertIsInstance(
+            Card.csv_body_validation(self.properBodyFile),
+            TextIOWrapper
+        )
+
+    def test_emptyCSVBody(self):
+        with self.assertRaises(InvalidCSVBodyException) as context:
+            Card.csv_body_validation(self.emptyBodyFile)
+        exception: InvalidCSVBodyException = context.exception
+        self.assertEqual(
+            f"This file is not properly filled at line 1, key 'ID'."
+            f" Make sure to fill at least one line of content after the header.",
+            exception.message
+        )
