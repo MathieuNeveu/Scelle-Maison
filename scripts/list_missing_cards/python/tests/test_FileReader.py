@@ -4,14 +4,14 @@ import unittest
 from scripts.list_missing_cards.python.src.Card import Card
 from scripts.list_missing_cards.python.src.Exceptions.ParameterException import ParameterException
 
-class TestOpenCSVFile(unittest.TestCase):
+class TestOpenWithProcess(unittest.TestCase):
     def setUp(self):
         config_file = open("../config.json")
         json_config = json.load(config_file)
         config_file.close()
 
         self.config_csv_location: dict = json_config['csv']['location']
-        good_filepath: str = (
+        self.good_filepath: str = (
                 self.config_csv_location['parent_dir_absolute_path']+'/'+
                 self.config_csv_location['filename']
         )
@@ -23,6 +23,11 @@ class TestOpenCSVFile(unittest.TestCase):
 
     def tearDown(self):
         return super().tearDown()
+
+    def test_no_exception_with_good_filename(self):
+        self.assertTrue(
+            FileReader.open_with_process(self.good_filepath, lambda filename: True)
+        )
 
     def test_wrongPathType(self):
         wrong_parameter: int = 666
