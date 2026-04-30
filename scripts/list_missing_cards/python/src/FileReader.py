@@ -12,4 +12,5 @@ class FileReader:
                 'open_with_process',
                 'file_absolute_path'
             )
-        return True
+        with open(file_absolute_path) as file:
+            return True
