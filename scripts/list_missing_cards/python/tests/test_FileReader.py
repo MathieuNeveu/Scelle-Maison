@@ -64,3 +64,18 @@ class TestOpenWithProcess(unittest.TestCase):
                      sum_expression(5, 4)
                  )
              )
+
+    def test_processes_on_the_file(self):
+        file_content:str = '54'
+        def sum_file_values(file) -> int:
+            content: str = file.read()
+            return int(content[0]) + int(content[1])
+        file_process_expression = sum_file_values
+        with patch('builtins.open', mock_open(read_data=file_content)) as mock_file:
+            self.assertEqual(
+                9,
+                FileReader.open_with_process(
+                    'filename.txt',
+                    sum_file_values
+                )
+            )
