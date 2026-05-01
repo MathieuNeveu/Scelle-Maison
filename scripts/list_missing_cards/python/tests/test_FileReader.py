@@ -52,4 +52,4 @@ class TestOpenWithProcess(unittest.TestCase):
     def test_opens_file_in_read_mode(self):
         with patch('builtins.open', mock_open()) as mock_file:
             FileReader.open_with_process('filename.txt', lambda filename: True)
-            mock_file.assert_called_once('filename.txt', 'r')
+            mock_file.assert_called_once_with('filename.txt', 'r')
