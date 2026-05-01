@@ -53,3 +53,14 @@ class TestOpenWithProcess(unittest.TestCase):
         with patch('builtins.open', mock_open()) as mock_file:
             FileReader.open_with_process('filename.txt', lambda filename: True)
             mock_file.assert_called_once_with('filename.txt', 'r')
+
+    def test_processes_passed_expression(self):
+        sum_expression = lambda a,b: a+b
+        with patch('builtins.open', mock_open()) as mock_file:
+             self.assertEqual(
+                 9,
+                 FileReader.open_with_process(
+                     'filename.txt',
+                     sum_expression(5, 4)
+                 )
+             )
