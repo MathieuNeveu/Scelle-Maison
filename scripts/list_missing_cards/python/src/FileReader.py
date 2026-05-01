@@ -13,4 +13,4 @@ class FileReader:
                 'file_absolute_path'
             )
         with open(file_absolute_path, 'r') as file:
-            return True
+            return process
