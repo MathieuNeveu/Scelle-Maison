@@ -68,3 +68,20 @@ class TestOpenWithProcess(unittest.TestCase):
                     sum_file_values
                 )
             )
+
+    def test_exception_without_passing_expression_as_process(self):
+        wrong_process: int = 666
+        with self.assertRaises(ParameterException) as context:
+            with patch('builtins.open', mock_open()):
+                FileReader.open_with_process('filename.txt', wrong_process)
+        exception: ParameterException = context.exception
+        self.assertEqual(400, exception.error_code)
+        self.assertEqual('???', exception.expected_type)
+        self.assertEqual(int, exception.parameter_type)
+        self.assertEqual('process', exception.parameter_name)
+        self.assertEqual('open_with_process', exception.method_name)
+        self.assertEqual(
+            "In `open_with_process` method, `process` parameter Exception (400)."
+            " <class 'int'> type founded instead of <class ???>",
+            exception.message
+        )
