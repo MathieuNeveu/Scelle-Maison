@@ -15,11 +15,11 @@ class FileReader:
                 'open_with_process',
                 'file_absolute_path'
             )
-        if type(process) is int:
+        if not callable(process):
             raise ParameterException(
                 400,
                 Callable,
-                int,
+                type(process),
                 'open_with_process',
                 'process',
             )
