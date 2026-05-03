@@ -4,5 +4,6 @@ class CSV(File):
 
     def get_data_as_dict(self) -> dict:
         return {
-            'header': []
+            'header': [],
+            'body': None
         }
