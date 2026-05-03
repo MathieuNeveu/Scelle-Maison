@@ -32,7 +32,7 @@ class TestOpenWithProcess(unittest.TestCase):
         )
 
     def test_exception_with_wrong_filename(self):
-        with self.assertRaises(FileNotFoundError) as context:
+        with self.assertRaises(FileNotFoundError):
             FileReader.open_with_process(self.wrong_filepath, lambda filename: True)
 
     def test_wrong_file_path_type(self):
@@ -60,8 +60,7 @@ class TestOpenWithProcess(unittest.TestCase):
         def sum_file_values(file) -> int:
             content: str = file.read()
             return int(content[0]) + int(content[1])
-        file_process_expression = sum_file_values
-        with patch('builtins.open', mock_open(read_data=file_content)) as mock_file:
+        with patch('builtins.open', mock_open(read_data=file_content)):
             self.assertEqual(
                 9,
                 FileReader.open_with_process(
