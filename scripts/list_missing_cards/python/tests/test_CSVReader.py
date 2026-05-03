@@ -18,3 +18,6 @@ class TestGetDataAsDict(unittest.TestCase):
 
     def test_return_a_body_key(self):
         self.assertIn('body', self.dict_data)
+
+    def test_body_should_be_list(self):
+        self.assertIsInstance(self.dict_data['body'], list)
