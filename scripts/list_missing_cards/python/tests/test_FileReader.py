@@ -3,7 +3,7 @@ import unittest
 from collections.abc import Callable
 from unittest.mock import mock_open, patch
 
-from scripts.list_missing_cards.python.src.FileReader import FileReader
+from scripts.list_missing_cards.python.src.File import File
 from scripts.list_missing_cards.python.src.Exceptions.ParameterException import ParameterException
 
 class TestOpenWithProcess(unittest.TestCase):
@@ -28,17 +28,17 @@ class TestOpenWithProcess(unittest.TestCase):
 
     def test_no_exception_with_good_filename(self):
         self.assertTrue(
-            FileReader.open_with_process(self.good_filepath, lambda filename: True)
+            File.open_with_process(self.good_filepath, lambda filename: True)
         )
 
     def test_exception_with_wrong_filename(self):
         with self.assertRaises(FileNotFoundError):
-            FileReader.open_with_process(self.wrong_filepath, lambda filename: True)
+            File.open_with_process(self.wrong_filepath, lambda filename: True)
 
     def test_wrong_file_path_type(self):
         wrong_parameter: int = 666
         with self.assertRaises(ParameterException) as context:
-            FileReader.open_with_process(wrong_parameter, lambda filename: True)
+            File.open_with_process(wrong_parameter, lambda filename: True)
         exception: ParameterException = context.exception
         self.assertEqual(400, exception.error_code)
         self.assertEqual(str, exception.expected_type)
@@ -52,7 +52,7 @@ class TestOpenWithProcess(unittest.TestCase):
 
     def test_opens_file_in_read_mode(self):
         with patch('builtins.open', mock_open()) as mock_file:
-            FileReader.open_with_process('filename.txt', lambda filename: True)
+            File.open_with_process('filename.txt', lambda filename: True)
             mock_file.assert_called_once_with('filename.txt', 'r')
 
     def test_processes_on_the_file(self):
@@ -63,7 +63,7 @@ class TestOpenWithProcess(unittest.TestCase):
         with patch('builtins.open', mock_open(read_data=file_content)):
             self.assertEqual(
                 9,
-                FileReader.open_with_process(
+                File.open_with_process(
                     'filename.txt',
                     sum_file_values
                 )
@@ -73,7 +73,7 @@ class TestOpenWithProcess(unittest.TestCase):
         wrong_process: int = 666
         with self.assertRaises(ParameterException) as context:
             with patch('builtins.open', mock_open()):
-                FileReader.open_with_process('filename.txt', wrong_process)
+                File.open_with_process('filename.txt', wrong_process)
         exception: ParameterException = context.exception
         self.assertEqual(400, exception.error_code)
         self.assertEqual(Callable, exception.expected_type)
@@ -90,7 +90,7 @@ class TestOpenWithProcess(unittest.TestCase):
         wrong_process: str = '666'
         with self.assertRaises(ParameterException) as context:
             with patch('builtins.open', mock_open()):
-                FileReader.open_with_process('filename.txt', wrong_process)
+                File.open_with_process('filename.txt', wrong_process)
         exception: ParameterException = context.exception
         self.assertEqual(400, exception.error_code)
         self.assertEqual(Callable, exception.expected_type)
