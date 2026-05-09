@@ -30,3 +30,7 @@ class File(ABC):
             )
         with open(file_absolute_path, 'r') as file:
             return process(file)
+
+    @staticmethod
+    def is_path_ok() -> bool:
+        return True
