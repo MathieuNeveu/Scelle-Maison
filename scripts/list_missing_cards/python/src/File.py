@@ -34,3 +34,7 @@ class File(ABC):
     @staticmethod
     def is_path_ok() -> bool:
         return True
+
+    @staticmethod
+    def is_process_ok() -> bool:
+        return True
