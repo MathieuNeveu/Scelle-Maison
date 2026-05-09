@@ -10,4 +10,4 @@ class CSV(File):
 
     @staticmethod
     def get_header_as_list() -> list:
-        return []
+        return ['name']
