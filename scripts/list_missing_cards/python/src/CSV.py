@@ -7,3 +7,7 @@ class CSV(File):
             'header': [],
             'body': []
         }
+
+    @staticmethod
+    def get_header_as_list() -> list:
+        return []
