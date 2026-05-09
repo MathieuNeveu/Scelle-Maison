@@ -102,3 +102,8 @@ class TestOpenWithProcess(unittest.TestCase):
             " <class 'str'> type founded instead of <class 'collections.abc.Callable'>",
             exception.message
         )
+
+class TestIsPathOk(unittest.TestCase):
+
+    def test_should_be_boolean(self):
+        self.assertIsInstance(File.is_path_ok(), bool)
