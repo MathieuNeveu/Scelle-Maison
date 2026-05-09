@@ -21,3 +21,8 @@ class TestGetDataAsDict(unittest.TestCase):
 
     def test_body_should_be_list(self):
         self.assertIsInstance(self.dict_data['body'], list)
+
+class TestGetHeaderAsDict(unittest.TestCase):
+
+    def test_returns_dict(self):
+        self.assertIsInstance(CSV.get_header_as_dict(), dict)
