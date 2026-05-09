@@ -29,3 +29,4 @@ class TestGetHeaderAsList(unittest.TestCase):
 
     def test_should_not_returns_empty_list(self):
         self.assertGreater(0, len(CSV.get_header_as_list()))
+        self.assertGreater(len(CSV.get_header_as_list()), 0)
