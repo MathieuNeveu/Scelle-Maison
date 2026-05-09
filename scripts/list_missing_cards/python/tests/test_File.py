@@ -107,3 +107,8 @@ class TestIsPathOk(unittest.TestCase):
 
     def test_should_be_boolean(self):
         self.assertIsInstance(File.is_path_ok(), bool)
+
+class TestIsProcessOk(unittest.TestCase):
+
+    def test_should_be_boolean(self):
+        self.assertIsInstance(File.is_process_ok(), bool)
