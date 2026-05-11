@@ -26,7 +26,9 @@ class File(ABC):
         raise Exception
 
     @staticmethod
-    def are_parameters_ok(are_you: bool, ok: bool) -> bool:
+    def are_parameters_ok(is_path_ok: bool, ok: bool) -> bool:
+        if type(is_path_ok) is not bool:
+            raise Exception
         return False
 
     @staticmethod
