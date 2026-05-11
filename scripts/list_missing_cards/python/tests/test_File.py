@@ -122,6 +122,9 @@ class TestIsPathOk(unittest.TestCase):
             exception.message
         )
 
+    def test_str_arg_should_return_true(self):
+        self.assertTrue(File.is_path_ok('absolute_path'))
+
 class TestIsProcessOk(unittest.TestCase):
 
     def test_should_be_boolean(self):
