@@ -50,6 +50,13 @@ class TestOpenWithProcess(unittest.TestCase):
             exception.message
         )
 
+    def test_should_raise_exception_with_empty_file(self):
+        file_content: str = ''
+        with self.assertRaises(Exception) as context:
+            with patch('builtins.open', mock_open(read_data=file_content)):
+                File.open_with_process('filename.txt', lambda filename: True)
+#TODO refacto : developper une fonction qui regroupe toutes les fonctions qui testent que le fichier
+    # est ok pour le process is_file_ok_for_process()
     def test_opens_file_in_read_mode(self):
         with patch('builtins.open', mock_open()) as mock_file:
             File.open_with_process('filename.txt', lambda filename: True)
@@ -128,6 +135,8 @@ class TestAreParametersOk(unittest.TestCase):
         self.assertFalse(File.are_parameters_ok(True, False))
         self.assertFalse(File.are_parameters_ok(False, False))
 
+    def test_all_params_true_should_return_true(self):
+        self.assertTrue(File.are_parameters_ok(True, True))
 
 class TestIsPathOk(unittest.TestCase):
 
