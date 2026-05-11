@@ -148,3 +148,6 @@ class TestIsParameterStr(unittest.TestCase):
             " <class 'int'> type founded instead of <class 'str'>",
             exception.message
         )
+
+    def test_str_param_should_return_true(self):
+        self.assertTrue(File.is_parameter_str('absolute_path'))
