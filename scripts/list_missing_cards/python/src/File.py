@@ -12,24 +12,18 @@ class File(ABC):
 
     @staticmethod
     def open_with_process(file_absolute_path: str, process: Callable[[TextIOWrapper], ...]):
-        if type(file_absolute_path) is not str:
-            raise ParameterException(
-                400,
-                str,
-                type(file_absolute_path),
-                'open_with_process',
-                'file_absolute_path'
-            )
-        if not callable(process):
-            raise ParameterException(
-                400,
-                Callable,
-                type(process),
-                'open_with_process',
-                'process',
-            )
-        with open(file_absolute_path, 'r') as file:
-            return process(file)
+        if File.is_path_ok(file_absolute_path):
+            if not callable(process):
+                raise ParameterException(
+                    400,
+                    Callable,
+                    type(process),
+                    'open_with_process',
+                    'process',
+                )
+            with open(file_absolute_path, 'r') as file:
+                return process(file)
+        raise Exception
 
     @staticmethod
     def is_path_ok(absolute_path: str) -> bool:
