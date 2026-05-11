@@ -123,9 +123,11 @@ class TestAreParametersOk(unittest.TestCase):
         with self.assertRaises(Exception):
             File.are_parameters_ok(True, 'True')
 
-    def test_one_of_check_falsy_should_return_false(self):
+    def test_at_least_one_param_falsy_should_return_false(self):
         self.assertFalse(File.are_parameters_ok(False, True))
         self.assertFalse(File.are_parameters_ok(True, False))
+        self.assertFalse(File.are_parameters_ok(False, False))
+
 
 class TestIsPathOk(unittest.TestCase):
 
