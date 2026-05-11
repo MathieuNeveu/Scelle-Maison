@@ -129,3 +129,8 @@ class TestIsProcessOk(unittest.TestCase):
 
     def test_should_be_boolean(self):
         self.assertIsInstance(File.is_process_ok(), bool)
+    
+class TestIsParameterStr(unittest.TestCase):
+    
+    def test_should_be_boolean(self):
+        self.assertIsInstance(File.is_parameter_str('parameter'), bool)
