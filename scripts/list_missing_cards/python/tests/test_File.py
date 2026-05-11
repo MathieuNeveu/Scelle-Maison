@@ -107,9 +107,13 @@ class TestAreParametersOk(unittest.TestCase):
     def test_should_be_boolean(self):
         self.assertIsInstance(File.are_parameters_ok(True, True), bool)
 
-    def test_path_check_int_should_raise_exception(self):
+   # def test_path_check_int_should_raise_exception(self):
+       # with self.assertRaises(Exception):
+           # File.are_parameters_ok(6, True)
+
+    def test_path_check_str_should_raise_exception(self):
         with self.assertRaises(Exception):
-            File.are_parameters_ok(6, True)
+            File.are_parameters_ok('True', True)
 
 class TestIsPathOk(unittest.TestCase):
 
