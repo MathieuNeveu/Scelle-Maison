@@ -44,5 +44,9 @@ class File(ABC):
         return True
 
     @staticmethod
+    def is_parameter_str(param: str) -> bool:
+        return False
+
+    @staticmethod
     def is_process_ok() -> bool:
         return True
