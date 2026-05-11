@@ -29,7 +29,7 @@ class File(ABC):
     def are_parameters_ok(is_path_ok: bool, process: bool) -> bool:
         if type(is_path_ok) is not bool or type(process) is not bool:
             raise Exception
-        return False
+        return True
 
     @staticmethod
     def is_path_ok(absolute_path: str) -> bool:
