@@ -45,4 +45,4 @@ class File(ABC):
 
     @staticmethod
     def is_process_ok() -> bool:
-        return True
+        return False

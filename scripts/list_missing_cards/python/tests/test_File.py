@@ -133,4 +133,19 @@ class TestIsParameterStr(unittest.TestCase):
 class TestIsProcessOk(unittest.TestCase):
 
     def test_should_be_boolean(self):
-        self.assertIsInstance(File.is_process_ok(), bool)
+        self.assertIsInstance(File.is_process_ok(lambda param : True), bool)
+
+    def test_int_param_should_raise_parameter_exception(self):
+        with self.assertRaises(ParameterException) as context:
+            File.is_process_ok(6)
+        exception: ParameterException = context.exception
+        self.assertEqual(400, exception.error_code)
+        self.assertEqual(Callable, exception.expected_type)
+        self.assertEqual(int, exception.parameter_type)
+        self.assertEqual('process', exception.parameter_name)
+        self.assertEqual('open_with_process', exception.method_name)
+        self.assertEqual(
+            "In `open_with_process` method, `process` parameter Exception (400)."
+            " <class 'int'> type founded instead of <class 'collections.abc.Callable'>",
+            exception.message
+        )
