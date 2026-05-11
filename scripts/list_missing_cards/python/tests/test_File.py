@@ -103,6 +103,10 @@ class TestOpenWithProcess(unittest.TestCase):
             exception.message
         )
 
+class TestAreParametersOk(unittest.TestCase):
+    def test_should_be_boolean(self):
+        self.assertIsInstance(File.are_parameters_ok(True, True), bool)
+
 class TestIsPathOk(unittest.TestCase):
 
     def test_should_be_boolean(self):
