@@ -45,6 +45,14 @@ class File(ABC):
 
     @staticmethod
     def is_parameter_str(param: str) -> bool:
+        if type(param) is not str:
+            raise ParameterException(
+                400,
+                str,
+                type(param),
+                'open_with_process',
+                'file_absolute_path'
+            )
         return False
 
     @staticmethod
