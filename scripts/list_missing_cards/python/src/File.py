@@ -33,15 +33,9 @@ class File(ABC):
 
     @staticmethod
     def is_path_ok(absolute_path: str) -> bool:
-        if type(absolute_path) is not str:
-            raise ParameterException(
-                400,
-                str,
-                type(absolute_path),
-                'open_with_process',
-                'file_absolute_path'
-            )
-        return True
+        if File.is_parameter_str(absolute_path):
+            return True
+        raise Exception
 
     @staticmethod
     def is_parameter_str(param: str) -> bool:

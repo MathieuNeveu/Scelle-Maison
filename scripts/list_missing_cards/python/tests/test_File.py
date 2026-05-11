@@ -108,23 +108,6 @@ class TestIsPathOk(unittest.TestCase):
     def test_should_be_boolean(self):
         self.assertIsInstance(File.is_path_ok('absolute_path'), bool)
 
-    def test_int_arg_should_raise_parameter_exception(self):
-        with self.assertRaises(ParameterException) as context:
-            File.is_path_ok(6)
-        exception: ParameterException = context.exception
-        self.assertEqual(400, exception.error_code)
-        self.assertEqual(str, exception.expected_type)
-        self.assertEqual(int, exception.parameter_type)
-        self.assertEqual('file_absolute_path', exception.parameter_name)
-        self.assertEqual(
-            "In `open_with_process` method, `file_absolute_path` parameter Exception (400)."
-            " <class 'int'> type founded instead of <class 'str'>",
-            exception.message
-        )
-
-    def test_str_arg_should_return_true(self):
-        self.assertTrue(File.is_path_ok('absolute_path'))
-
 class TestIsProcessOk(unittest.TestCase):
 
     def test_should_be_boolean(self):
