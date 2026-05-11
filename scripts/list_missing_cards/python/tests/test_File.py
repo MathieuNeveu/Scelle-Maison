@@ -107,11 +107,6 @@ class TestIsPathOk(unittest.TestCase):
 
     def test_should_be_boolean(self):
         self.assertIsInstance(File.is_path_ok('absolute_path'), bool)
-
-class TestIsProcessOk(unittest.TestCase):
-
-    def test_should_be_boolean(self):
-        self.assertIsInstance(File.is_process_ok(), bool)
     
 class TestIsParameterStr(unittest.TestCase):
     
@@ -134,3 +129,8 @@ class TestIsParameterStr(unittest.TestCase):
 
     def test_str_param_should_return_true(self):
         self.assertTrue(File.is_parameter_str('absolute_path'))
+
+class TestIsProcessOk(unittest.TestCase):
+
+    def test_should_be_boolean(self):
+        self.assertIsInstance(File.is_process_ok(), bool)
