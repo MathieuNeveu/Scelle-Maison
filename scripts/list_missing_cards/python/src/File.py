@@ -26,6 +26,10 @@ class File(ABC):
         raise Exception
 
     @staticmethod
+    def are_parameters_ok(are_you: bool, ok: bool) -> bool:
+        return False
+
+    @staticmethod
     def is_path_ok(absolute_path: str) -> bool:
         if File.is_parameter_str(absolute_path):
             return True
