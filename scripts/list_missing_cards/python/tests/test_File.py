@@ -106,7 +106,7 @@ class TestOpenWithProcess(unittest.TestCase):
 class TestIsPathOk(unittest.TestCase):
 
     def test_should_be_boolean(self):
-        self.assertIsInstance(File.is_path_ok(), bool)
+        self.assertIsInstance(File.is_path_ok('absolute_path'), bool)
 
     def test_int_arg_should_raise_parameter_exception(self):
         with self.assertRaises(ParameterException) as context:
