@@ -41,7 +41,7 @@ class File(ABC):
                 'open_with_process',
                 'file_absolute_path'
             )
-        return False
+        return True
 
     @staticmethod
     def is_process_ok() -> bool:
