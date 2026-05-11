@@ -44,5 +44,13 @@ class File(ABC):
         return True
 
     @staticmethod
-    def is_process_ok() -> bool:
+    def is_process_ok(process: Callable) -> bool:
+        if not callable(process):
+            raise ParameterException(
+                400,
+                Callable,
+                type(process),
+                'open_with_process',
+                'process',
+            )
         return False
