@@ -115,6 +115,14 @@ class TestAreParametersOk(unittest.TestCase):
         with self.assertRaises(Exception):
             File.are_parameters_ok('True', True)
 
+    def test_process_check_int_should_raise_exception(self):
+        with self.assertRaises(Exception):
+            File.are_parameters_ok(True, 6)
+
+    def test_process_check_str_should_raise_exception(self):
+        with self.assertRaises(Exception):
+            File.are_parameters_ok(True, 'True')
+
 class TestIsPathOk(unittest.TestCase):
 
     def test_should_be_boolean(self):
