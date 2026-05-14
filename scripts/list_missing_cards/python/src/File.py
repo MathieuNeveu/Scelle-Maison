@@ -62,4 +62,7 @@ class File(ABC):
 
     @staticmethod
     def is_file_empty(file: TextIOWrapper) -> bool:
+        file_content:str = file.read()
+        if len(file_content) < 1:
+            raise Exception
         return False
