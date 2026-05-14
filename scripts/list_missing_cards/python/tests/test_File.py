@@ -184,3 +184,6 @@ class TestIsProcessOk(unittest.TestCase):
             " <class 'int'> type founded instead of <class 'collections.abc.Callable'>",
             exception.message
         )
+
+    def test_callable_param_should_return_true(self):
+        self.assertTrue(File.is_process_ok(lambda param : True))
