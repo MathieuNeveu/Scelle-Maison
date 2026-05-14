@@ -213,3 +213,8 @@ class TestIsFileEmpty(unittest.TestCase):
         self.mock_open.return_value.read.return_value = 'hello\nworld\n'
         with open('filename.txt') as file:
             self.assertIsInstance(File.is_file_empty(file), bool)
+
+    def test_should_raise_exception_with_empty_file(self):
+        with open('filename.txt') as file:
+            with self.assertRaises(Exception):
+                File.is_file_empty(file)
