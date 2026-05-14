@@ -59,3 +59,7 @@ class File(ABC):
     @staticmethod
     def is_file_ok(file: TextIOWrapper) -> bool:
         return False
+
+    @staticmethod
+    def is_file_empty(file: TextIOWrapper) -> bool:
+        return False
