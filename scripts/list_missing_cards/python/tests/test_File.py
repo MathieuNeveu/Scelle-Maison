@@ -58,7 +58,7 @@ class TestOpenWithProcess(unittest.TestCase):
 #TODO refacto : developper une fonction qui regroupe toutes les fonctions qui testent que le fichier
     # est ok pour le process is_file_ok_for_process()
     def test_opens_file_in_read_mode(self):
-        with patch('builtins.open', mock_open()) as mock_file:
+        with patch('builtins.open', mock_open(read_data='hello\nworld')) as mock_file:
             File.open_with_process('filename.txt', lambda filename: True)
             mock_file.assert_called_once_with('filename.txt', 'r')
 
