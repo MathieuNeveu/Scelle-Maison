@@ -57,5 +57,5 @@ class File(ABC):
         return True
 
     @staticmethod
-    def is_file_ok() -> bool:
+    def is_file_ok(file: TextIOWrapper) -> bool:
         return False
