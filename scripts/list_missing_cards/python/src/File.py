@@ -55,3 +55,7 @@ class File(ABC):
                 'process',
             )
         return True
+
+    @staticmethod
+    def is_file_ok() -> bool:
+        return False
