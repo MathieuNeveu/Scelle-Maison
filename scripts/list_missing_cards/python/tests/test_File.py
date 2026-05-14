@@ -189,6 +189,14 @@ class TestIsProcessOk(unittest.TestCase):
         self.assertTrue(File.is_process_ok(lambda param : True))
 
 class TestIsFileOk(unittest.TestCase):
+    def setUp(self):
+        self.patch_open = patch('builtins.open', mock_open(read_data=''))
+        self.mock_open = self.patch_open.start()
+
+    def tearDown(self):
+        self.patch_open.stop()
 
     def test_should_be_boolean(self):
-        self.assertIsInstance(File.is_file_ok(), bool)
+        self.mock_open.return_value.read.return_value = 'hello\nworld\n'
+        with open('filename.txt') as file:
+            self.assertIsInstance(File.is_file_ok(file), bool)
