@@ -65,4 +65,4 @@ class File(ABC):
         file_content:str = file.read()
         if len(file_content) < 1:
             raise Exception
-        return True
+        return False
