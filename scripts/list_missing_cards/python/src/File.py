@@ -59,4 +59,4 @@ class File(ABC):
                 'open_with_process',
                 'process',
             )
-        return False
+        return True
