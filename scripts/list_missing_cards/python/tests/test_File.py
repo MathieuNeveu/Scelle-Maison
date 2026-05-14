@@ -187,3 +187,8 @@ class TestIsProcessOk(unittest.TestCase):
 
     def test_callable_param_should_return_true(self):
         self.assertTrue(File.is_process_ok(lambda param : True))
+
+class TestIsFileOk(unittest.TestCase):
+
+    def test_should_be_boolean(self):
+        self.assertIsInstance(File.is_file_ok(), bool)
