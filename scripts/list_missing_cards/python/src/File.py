@@ -17,7 +17,8 @@ class File(ABC):
             File.is_process_ok(process),
         ):
             with open(file_absolute_path, 'r') as file:
-                return process(file)
+                if File.is_file_ok(file):
+                    return process(file)
         raise Exception
 
     @staticmethod

@@ -28,5 +28,11 @@ class TestGetHeaderAsList(unittest.TestCase):
         self.assertIsInstance(CSV.get_header_as_list(), list)
 
     def test_should_not_returns_empty_list(self):
-        self.assertGreater(0, len(CSV.get_header_as_list()))
-        self.assertGreater(len(CSV.get_header_as_list()), 0)
+        self.assertGreater(len(CSV.get_header_as_list()), 0) #!!! do not commit on this branch
+
+    #    with self.assertRaises(Exception):
+ #           CSV.get_header_as_list()
+
+    #def test_returns_list_of_str(self):
+        #for header_element in CSV.get_header_as_list():
+        #    self.assertIsInstance(header_element, str)
